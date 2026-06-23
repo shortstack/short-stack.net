@@ -1,0 +1,11 @@
+---
+date: '2008-03-03T20:03:27+00:00'
+favorite: false
+feature_image: ''
+format: markdown
+slug: notice-how-he-hits-all-at-once-ouch
+tags: []
+title: Notice How He Hits All At Once, Ouch
+---
+
+this was at a party friday night. don’t worry, he’s fine.

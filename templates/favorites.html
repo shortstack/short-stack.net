@@ -1,0 +1,11 @@
+{% extends "base.html" %}
+{% block title %}favorites — {{ site.site_title }}{% endblock %}
+{% block content %}
+<h1>favorites <span class="fav">&hearts;</span></h1>
+<ul class="post-list compact">
+  {% for p in posts %}
+  <li class="post-item"><a class="post-link" href="{{ p.url }}">{{ p.title }}</a>
+    <time>{{ p.date.strftime('%Y-%m-%d') }}</time></li>
+  {% endfor %}
+</ul>
+{% endblock %}

@@ -1,0 +1,43 @@
+---
+date: '2011-08-08T20:23:37+00:00'
+favorite: false
+feature_image: ''
+format: markdown
+slug: a-few-highlights-from-defcon-19
+tags:
+- Booze
+- brett
+- camelbaks
+- defcon
+- defcon19
+- friends
+- hackers
+- twitter
+- vegas
+title: A Few Highlights From Defcon 19
+---
+
+in no particular order :) all external links open in new window, images open in colorbox.
+
+* making the best of the [epic badge line](/content/images/2011/08/SDC12853.jpg) with [camelbaks](/content/images/2011/08/SDC12847.jpg) o’ [beer](/content/images/2011/08/SDC12858.jpg)
+* finally GETTING my [defcon badge](/content/images/2011/08/SDC12857.jpg)
+* [dan](http://dankaminsky.com) [kaminsky’s](http://twitter.com/dakami) [talk](/content/images/2011/08/SDC12872.jpg)
+* [sizzling apple pie at the rio’s all american bar & grille](/content/images/2011/08/IMG_20110806_154544.jpg)
+* acquiring [my first bribe card](/content/images/2011/08/IMG_20110805_224509.jpg)! it was very awkward!
+* seeing my defcon friends
+* meeting [@diami03](http://twitter.com/diami03), [@cron\_\_](http://twitter.com/cron__), [@stevewerby](http://twitter.com/stevewerby), [@mdl4](http://twitter.com/mdl4), [@punkrokk](http://twitter.com/punkrokk), [@rogueclown](http://twitter.com/rogueclown), [@ch0l0man](http://twitter.com/ch0l0man) (if i left you out, my bad, there was a lot of booze at defcon, and i suck at matching faces to screennames and/or remembering them)
+* seeing the blue man group in concert – just WOW. cap’n crunch will never be the same
+* seeing ron white in concert – had no idea we’d get a concert from his wife as well! LOVED them both
+* [@myrcurial’s](http://twitter.com/myrcurial) emphasis on DOING INFOSEC RIGHT. he *may* be onto something…
+* defcon comedy jam – the strange nudity that may or may not have happened on stage, and seeing [@Beaker](http://twitter.com/Beaker) & [@jack\_daniel](http://twitter.com/jack_daniel) make & serve waffles, the latter in a turban
+* [hacker jeopardy](/content/images/2011/08/SDC12882.jpg) – for the nudity that luckily did not happen on stage, and i learned a few things
+* the malware freak show – thank you for making me want to give perl a shot again (should be easier this go around… 9 years later)
+* [breakfasts at the sao paulo](/content/images/2011/08/IMG_20110806_121030.jpg) (relatively inexpensive …for vegas)
+
+last but not least… this man ([who gathered quite the crowd](/content/images/2011/08/SDC12867.jpg))
+
+there are so more things that should be on this list.
+
+defcon was awesome. a great many thanks to everyone who keeps making it happen, contributing, and sharing their never-ending wealth of knowledge.
+
+i want to go back.

@@ -1,0 +1,11 @@
+---
+date: '2008-07-11T12:12:28+00:00'
+favorite: false
+feature_image: ''
+format: markdown
+slug: i-love-this-job
+tags: []
+title: I Love This Job
+---
+
+we get to paint the office bright orange today. freaking SWEET. and i have doritos and kitkats for breakfast. today is a lovely day.

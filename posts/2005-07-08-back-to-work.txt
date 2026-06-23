@@ -1,0 +1,13 @@
+---
+date: '2005-07-08T19:28:04+00:00'
+favorite: false
+feature_image: ''
+format: markdown
+slug: back-to-work
+tags: []
+title: Back to Work
+---
+
+i’m sitting in the office and i’m bored out of my mind. we only have an hour and a half left. jill and i are going over to this store on trade st. after work. my stepmom goes there and got me a pair of pants and she said there is some really neat stuff in there so i’m gonna go check it out. after we sto pin wilkesboro for dinner, we’re going to boone for the night to go to the ~~klon~~dike for rodda’s roommate’s band and then to a kegger so it should be a good night overall. hopefully i’ll get to stop and see a few people before the night’s over because i haven’t been up there in a month and some change so i miss my buddies. and my tech. support! it’s been far too long. i’ll be sure to get pictures. since jill is going with me, i doubt we’ll have any trouble filling up the camera.
+
+i’m gonna continue to sit on my ass and look at stupid stuff online. i just bought [this](http://www.jinx.com/scripts/details.asp?affid=-1&productID=91)… mwahahaha. it even uses apache, although it is a slightly older version than the one i run. still… it fits. :cool: you should be jealous… pfft.

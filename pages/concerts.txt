@@ -1,0 +1,918 @@
+---
+format: html
+nav: ''
+nav_order: 100
+parent: girl
+slug: concerts
+title: concerts
+---
+
+<p>this is a complete list of every show or concert i've ever attended. i've kept up with it because... nostalgia.</p><table>
+<thead>
+<tr>
+<th>#</th>
+<th>who?</th>
+<th>where?</th>
+<th><span style="display:none;">with?</span></th>
+<th>when?</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><span style="white-space: nowrap;">1</span></td>
+<td>beloved, codeseven, heartscarved, all astronauts</td>
+<td>ziggy’s, winston-salem, NC</td>
+<td><span style="display:none;">blake, anna</span></td>
+<td><span style="white-space: nowrap;">05/18/02</span></td>
+</tr>
+<tr>
+<td><span style="white-space: nowrap;">2</span></td>
+<td>athenaeum</td>
+<td>downtown/BB&amp;T, winston-salem, NC</td>
+<td><span style="display:none;">doug, brent</span></td>
+<td><span style="white-space: nowrap;">07/25/02</span></td>
+</tr>
+<tr>
+<td><span style="white-space: nowrap;">3</span></td>
+<td>gadrel, the minor times, backstabbers inc., the western sky, a stained glass romance</td>
+<td>brew ha ha’s, winston-salem, NC</td>
+<td><span style="display:none;">blake, beef, sid, dustie, adam</span></td>
+<td><span style="white-space: nowrap;">07/27/02</span></td>
+</tr>
+<tr>
+<td><span style="white-space: nowrap;">4</span></td>
+<td>gadrel, Xat war with themX, B.T.B.A.M.</td>
+<td>PS211, winston-salem, NC</td>
+<td><span style="display:none;">doug</span></td>
+<td><span style="white-space: nowrap;">08/01/02</span></td>
+</tr>
+<tr>
+<td><span style="white-space: nowrap;">5</span></td>
+<td>warped tour</td>
+<td>charlotte; verizon wireless amphitheater, charlotte, NC</td>
+<td><span style="display:none;">doug</span></td>
+<td><span style="white-space: nowrap;">08/06/02</span></td>
+</tr>
+<tr>
+<td><span style="white-space: nowrap;">6</span></td>
+<td>gadrel, avenged sevenfold, bleeding through</td>
+<td>PS211, winston-salem, NC</td>
+<td><span style="display:none;">doug</span></td>
+<td><span style="white-space: nowrap;">08/26/02</span></td>
+</tr>
+<tr>
+<td><span style="white-space: nowrap;">7</span></td>
+<td>athenaeum, looking back</td>
+<td>ziggy’s, winston-salem, NC</td>
+<td><span style="display:none;">andy, john, blake, rachel, kristin, sam</span></td>
+<td><span style="white-space: nowrap;">09/06/02</span></td>
+</tr>
+<tr>
+<td><span style="white-space: nowrap;">8</span></td>
+<td>gadrel, sworn enemy, full blown chaos</td>
+<td>PS211, winston-salem, NC</td>
+<td><span style="display:none;">andy</span></td>
+<td><span style="white-space: nowrap;">09/08/02</span></td>
+</tr>
+<tr>
+<td><span style="white-space: nowrap;">9</span></td>
+<td>beloved, cky, malebolgia</td>
+<td>brew ha ha’s, winston-salem, NC</td>
+<td><span style="display:none;">andy</span></td>
+<td><span style="white-space: nowrap;">09/27/02</span></td>
+</tr>
+<tr>
+<td><span style="white-space: nowrap;">10</span></td>
+<td>tribunal showcase: brand new disaster, darkness remains, samadhi, daylight dies, neintara, aria, SWIFT!</td>
+<td>ziggy’s, winston-salem, NC</td>
+<td><span style="display:none;">andy, jeremy, tim, david, drew</span></td>
+<td><span style="white-space: nowrap;">10/05/02</span></td>
+</tr>
+<tr>
+<td><span style="white-space: nowrap;">11</span></td>
+<td>jump little children, tinker’s punishment</td>
+<td>ziggy’s, winston-salem, NC</td>
+<td><span style="display:none;">doug</span></td>
+<td><span style="white-space: nowrap;">10/19/02</span></td>
+</tr>
+<tr>
+<td><span style="white-space: nowrap;">12</span></td>
+<td>stuckshot, armani death machine, 13 columns, SWIFT!</td>
+<td>ziggy’s, winston-salem, NC</td>
+<td><span style="display:none;">andy, jeremy, zack</span></td>
+<td><span style="white-space: nowrap;">12/15/02</span></td>
+</tr>
+<tr>
+<td><span style="white-space: nowrap;">13</span></td>
+<td>david ryan harris, edwin mccain</td>
+<td>ziggy’s, winston-salem, NC</td>
+<td><span style="display:none;">doug</span></td>
+<td><span style="white-space: nowrap;">12/26/02</span></td>
+</tr>
+<tr>
+<td><span style="white-space: nowrap;">14</span></td>
+<td>the revelation darling, evoka, athenaeum</td>
+<td>ziggy’s, winston-salem, NC</td>
+<td><span style="display:none;">doug, rachel</span></td>
+<td><span style="white-space: nowrap;">12/27/02</span></td>
+</tr>
+<tr>
+<td><span style="white-space: nowrap;">15</span></td>
+<td>jump, little children, tinker’s punishment</td>
+<td>ziggy’s, winston-salem, NC</td>
+<td><span style="display:none;">doug</span></td>
+<td><span style="white-space: nowrap;">02/14/03</span></td>
+</tr>
+<tr>
+<td><span style="white-space: nowrap;">16</span></td>
+<td>since by man, norma jean, hopesfall, dillinger escape plan</td>
+<td>ziggy’s, winston-salem, NC</td>
+<td><span style="display:none;">zach, scott</span></td>
+<td><span style="white-space: nowrap;">04/15/03</span></td>
+</tr>
+<tr>
+<td><span style="white-space: nowrap;">17</span></td>
+<td>bloodjinn, darkest hour, each passing moment, curl up and die, minus</td>
+<td>brew ha ha’s, winston-salem, NC</td>
+<td><span style="display:none;">zach, brian</span></td>
+<td><span style="white-space: nowrap;">05/24/03</span></td>
+</tr>
+<tr>
+<td><span style="white-space: nowrap;">18</span></td>
+<td>between the buried and me, darkness remains, the black dahlia murders, seventh star, set ablaze</td>
+<td>brew ha ha’s, winston-salem, NC</td>
+<td><span style="display:none;">john, zach, sam, michael</span></td>
+<td><span style="white-space: nowrap;">05/31/03</span></td>
+</tr>
+<tr>
+<td><span style="white-space: nowrap;">19</span></td>
+<td>kid gorgeous, the judas cradle, undying</td>
+<td>PS211, winston-salem, NC</td>
+<td><span style="display:none;">grainger</span></td>
+<td><span style="white-space: nowrap;">06/08/03</span></td>
+</tr>
+<tr>
+<td><span style="white-space: nowrap;">20</span></td>
+<td>for dire life sake, this hero dies, walsham, seneca</td>
+<td>MSU skatepark, kernersville, NC</td>
+<td><span style="display:none;">zach, matt</span></td>
+<td><span style="white-space: nowrap;">06/17/03</span></td>
+</tr>
+<tr>
+<td><span style="white-space: nowrap;">21</span></td>
+<td>fire when ready, copeland, between the buried and me, beloved</td>
+<td>tremont music hall, charlotte, NC</td>
+<td><span style="display:none;">rebecca, duane, zach, matt, matt, jay</span></td>
+<td><span style="white-space: nowrap;">06/24/03</span></td>
+</tr>
+<tr>
+<td><span style="white-space: nowrap;">22</span></td>
+<td>firenze, valor, bigger than you</td>
+<td>brew ha ha’s, winston-salem, NC</td>
+<td><span style="display:none;">drew, michael, grainger</span></td>
+<td><span style="white-space: nowrap;">06/05/03</span></td>
+</tr>
+<tr>
+<td><span style="white-space: nowrap;">23</span></td>
+<td>clutch, iron boss, elegant honkies</td>
+<td>ziggy’s, winston-salem, NC</td>
+<td><span style="display:none;">early</span></td>
+<td><span style="white-space: nowrap;">07/12/03</span></td>
+</tr>
+<tr>
+<td><span style="white-space: nowrap;">24</span></td>
+<td>throwdown, terror, every time i die</td>
+<td>ziggy’s, winston-salem, NC</td>
+<td><span style="display:none;">drew, michael, grainger</span></td>
+<td><span style="white-space: nowrap;">08/04/03</span></td>
+</tr>
+<tr>
+<td><span style="white-space: nowrap;">25</span></td>
+<td>shai hulud, avenged sevenfold</td>
+<td>tremont music hall, charlotte, NC</td>
+<td><span style="display:none;">drew, michael</span></td>
+<td><span style="white-space: nowrap;">08/12/03</span></td>
+</tr>
+<tr>
+<td><span style="white-space: nowrap;">26</span></td>
+<td>athenaeum, gin blossoms</td>
+<td>ziggy’s, winston-salem, NC</td>
+<td><span style="display:none;">grainger, ashley, BJ, rachel, anthony, brent</span></td>
+<td><span style="white-space: nowrap;">08/14/03</span></td>
+</tr>
+<tr>
+<td><span style="white-space: nowrap;">27</span></td>
+<td>beloved, the backup plan, this hero dies, boxbomb</td>
+<td>carrboro, NC</td>
+<td><span style="display:none;">drew, michael, matt</span></td>
+<td><span style="white-space: nowrap;">08/23/03</span></td>
+</tr>
+<tr>
+<td><span style="white-space: nowrap;">28</span></td>
+<td>between the buried and me, glass casket</td>
+<td>brew ha ha’s, winston-salem, NC</td>
+<td><span style="display:none;">too many to name</span></td>
+<td><span style="white-space: nowrap;">09/04/03</span></td>
+</tr>
+<tr>
+<td><span style="white-space: nowrap;">29</span></td>
+<td>the misfits, agent orange</td>
+<td>hartley’s, highpoint, NC</td>
+<td><span style="display:none;">grainger</span></td>
+<td><span style="white-space: nowrap;">11/08/03</span></td>
+</tr>
+<tr>
+<td><span style="white-space: nowrap;">30</span></td>
+<td>beloved, self portrait, all astronauts</td>
+<td>PS211, winston-salem, NC</td>
+<td><span style="display:none;">shane, grainger</span></td>
+<td><span style="white-space: nowrap;">11/28/03</span></td>
+</tr>
+<tr>
+<td><span style="white-space: nowrap;">31</span></td>
+<td>athenaeum, the clear, creamy velour</td>
+<td>ziggy’s, winston-salem, NC</td>
+<td><span style="display:none;">rachel</span></td>
+<td><span style="white-space: nowrap;">12/30/03</span></td>
+</tr>
+<tr>
+<td><span style="white-space: nowrap;">32</span></td>
+<td>glass casket, seneca, evergreen terrace, stretch arm strong</td>
+<td>brew ha ha’s, winston-salem, NC</td>
+<td><span style="display:none;">grainger</span></td>
+<td><span style="white-space: nowrap;">02/06/04</span></td>
+</tr>
+<tr>
+<td><span style="white-space: nowrap;">33</span></td>
+<td>sister hazel, dexter freebish</td>
+<td>ziggy’s, winston-salem, NC</td>
+<td><span style="display:none;">becky, ashley</span></td>
+<td><span style="white-space: nowrap;">02/19/04</span></td>
+</tr>
+<tr>
+<td><span style="white-space: nowrap;">34</span></td>
+<td>swift, minus.driver, far less</td>
+<td>ziggy’s, winston-salem, NC</td>
+<td><span style="display:none;">dan, thomas, ian, austin, seawelly, nikki</span></td>
+<td><span style="white-space: nowrap;">03/06/04</span></td>
+</tr>
+<tr>
+<td><span style="white-space: nowrap;">35</span></td>
+<td>skid row, box bomb</td>
+<td>amos’s southend, charlotte, NC</td>
+<td><span style="display:none;">grainger, john</span></td>
+<td><span style="white-space: nowrap;">05/21/04</span></td>
+</tr>
+<tr>
+<td><span style="white-space: nowrap;">36</span></td>
+<td>undying, the sleeping, a life once lost, premonitions of war</td>
+<td>brew ha ha’s, winston-salem, NC</td>
+<td><span style="display:none;">thomas</span></td>
+<td><span style="white-space: nowrap;">06/16/04</span></td>
+</tr>
+<tr>
+<td><span style="white-space: nowrap;">37</span></td>
+<td>bela fleck &amp; the flecktones</td>
+<td>A.S.U.’s farthing auditorium, boone, NC</td>
+<td><span style="display:none;">A.P.P.S. concerts</span></td>
+<td><span style="white-space: nowrap;">09/29/04</span></td>
+</tr>
+<tr>
+<td><span style="white-space: nowrap;">38</span></td>
+<td>queensryche</td>
+<td>milennium center, winston-salem, NC</td>
+<td><span style="display:none;">anthony, stephen, james, jennifer</span></td>
+<td><span style="white-space: nowrap;">10/28/04</span></td>
+</tr>
+<tr>
+<td><span style="white-space: nowrap;">39</span></td>
+<td>glass casket, crimson spectre, the black acadia mourning, the infamous brandy alexander, white collar massacre, red orchestra radio</td>
+<td>house of 828, boone, NC</td>
+<td><span style="display:none;">anthony</span></td>
+<td><span style="white-space: nowrap;">10/29/04</span></td>
+</tr>
+<tr>
+<td><span style="white-space: nowrap;">40</span></td>
+<td>black eyed peas, the wylde bunch</td>
+<td>holmes convocation center</td>
+<td><span style="display:none;">A.P.P.S. concerts</span></td>
+<td><span style="white-space: nowrap;">11/12/04</span></td>
+</tr>
+<tr>
+<td><span style="white-space: nowrap;">41</span></td>
+<td>bret michaels, stickboy</td>
+<td>ziggy’s, winston-salem, NC</td>
+<td><span style="display:none;">james, jill</span></td>
+<td><span style="white-space: nowrap;">12/02/04</span></td>
+</tr>
+<tr>
+<td><span style="white-space: nowrap;">42</span></td>
+<td>gwar, dying fetus, all that remains</td>
+<td>ziggy’s, winston-salem, NC</td>
+<td><span style="display:none;">grainger, john, chris, rob</span></td>
+<td><span style="white-space: nowrap;">12/22/04</span></td>
+</tr>
+<tr>
+<td><span style="white-space: nowrap;">43</span></td>
+<td>athenaeum, looking back, parklife</td>
+<td>ziggy’s, winston-salem, NC</td>
+<td><span style="display:none;">daniel</span></td>
+<td><span style="white-space: nowrap;">12/30/04</span></td>
+</tr>
+<tr>
+<td><span style="white-space: nowrap;">44</span></td>
+<td>merlefest w/alison krauss &amp; union station</td>
+<td>wilkes community college, wilkesboro, NC</td>
+<td><span style="display:none;">mom, robert</span></td>
+<td><span style="white-space: nowrap;">05/01/05</span></td>
+</tr>
+<tr>
+<td><span style="white-space: nowrap;">45</span></td>
+<td>manowar, rhapsody, holyhell</td>
+<td>ziggy’s, winston-salem, NC</td>
+<td><span style="display:none;">james</span></td>
+<td><span style="white-space: nowrap;">06/03/05</span></td>
+</tr>
+<tr>
+<td><span style="white-space: nowrap;">46</span></td>
+<td>dukesfest w/shooter jennings</td>
+<td>bristol, TN</td>
+<td><span style="display:none;">james, brandi</span></td>
+<td><span style="white-space: nowrap;">06/05/05</span></td>
+</tr>
+<tr>
+<td><span style="white-space: nowrap;">47</span></td>
+<td>the influence</td>
+<td>klondike, boone, NC</td>
+<td><span style="display:none;">jill, chasity</span></td>
+<td><span style="white-space: nowrap;">07/08/05</span></td>
+</tr>
+<tr>
+<td><span style="white-space: nowrap;">48</span></td>
+<td>secret lives of the free masons, control</td>
+<td>the orange peel, asheville, NC</td>
+<td><span style="display:none;">ben, sarah, bill</span></td>
+<td><span style="white-space: nowrap;">07/15/05</span></td>
+</tr>
+<tr>
+<td><span style="white-space: nowrap;">49</span></td>
+<td>bret michaels, bridge</td>
+<td>amos’ southend, charlotte, NC</td>
+<td><span style="display:none;">jill, james</span></td>
+<td><span style="white-space: nowrap;">07/22/05</span></td>
+</tr>
+<tr>
+<td><span style="white-space: nowrap;">50</span></td>
+<td>powerman 5000, witherspoon</td>
+<td>the sophisticated otter, johnson city, TN</td>
+<td><span style="display:none;">wright, joey, craig, zach</span></td>
+<td><span style="white-space: nowrap;">08/17/05</span></td>
+</tr>
+<tr>
+<td><span style="white-space: nowrap;">51</span></td>
+<td>black sabbath, velvet revolver, mudvayne, shadows fall, black label society, in flames, rob zombie, killswitch engage, as i lay dying, mastodon, a dozen furies, the haunted, arch enemy, black dahlia murder, bury your dead, it dies today, soilwork, trivium, gizmachi, wicked wisdom</td>
+<td>verizon wireless amphitheatre, charlotte, NC</td>
+<td><span style="display:none;">sterka, dave, wright, james</span></td>
+<td><span style="white-space: nowrap;">09/02/05</span></td>
+</tr>
+<tr>
+<td><span style="white-space: nowrap;">52</span></td>
+<td>motley crue</td>
+<td>verizon wireless amphitheater, charlotte, NC</td>
+<td><span style="display:none;">james</span></td>
+<td><span style="white-space: nowrap;">09/07/05</span></td>
+</tr>
+<tr>
+<td><span style="white-space: nowrap;">53</span></td>
+<td>3 doors down, staind, shinedown, silvertide, alter bridge, no address, 30 seconds to mars</td>
+<td>verizon wireless amphitheatre, charlotte, NC</td>
+<td><span style="display:none;">james, brandi, ashley</span></td>
+<td><span style="white-space: nowrap;">09/11/05</span></td>
+</tr>
+<tr>
+<td><span style="white-space: nowrap;">54</span></td>
+<td>def leppard, bryan adams</td>
+<td>alltel pavillion @ walnut creek, raleigh, NC</td>
+<td><span style="display:none;">grainger, puhlman, chapin</span></td>
+<td><span style="white-space: nowrap;">10/15/05</span></td>
+</tr>
+<tr>
+<td><span style="white-space: nowrap;">55</span></td>
+<td>glass casket, kill whitney dead, bloodjinn, advent, deathblow, giant</td>
+<td>ziggy’s, winston-salem, NC</td>
+<td><span style="display:none;">adam</span></td>
+<td><span style="white-space: nowrap;">12/29/05</span></td>
+</tr>
+<tr>
+<td><span style="white-space: nowrap;">56</span></td>
+<td>jon bon jovi</td>
+<td>charlotte bobcats arena, charlotte, NC</td>
+<td><span style="display:none;">james</span></td>
+<td><span style="white-space: nowrap;">01/18/06</span></td>
+</tr>
+<tr>
+<td><span style="white-space: nowrap;">57</span></td>
+<td>gretchen wilson, van zant, blaine larsen</td>
+<td>LJVM coliseum, winston-salem, NC</td>
+<td><span style="display:none;">mom</span></td>
+<td><span style="white-space: nowrap;">02/03/06</span></td>
+</tr>
+<tr>
+<td><span style="white-space: nowrap;">58</span></td>
+<td>nickelback, chevelle, trapt</td>
+<td>charlotte bobcats arena, charlotte, NC</td>
+<td><span style="display:none;">james, ashley</span></td>
+<td><span style="white-space: nowrap;">03/23/06</span></td>
+</tr>
+<tr>
+<td><span style="white-space: nowrap;">59</span></td>
+<td>firehouse</td>
+<td>red rooster, winston-salem, NC</td>
+<td><span style="display:none;">brian, randi, chris, james, billy</span></td>
+<td><span style="white-space: nowrap;">04/20/06</span></td>
+</tr>
+<tr>
+<td><span style="white-space: nowrap;">60</span></td>
+<td>sevendust, soil, hourcast</td>
+<td>disco rodeo, raleigh, NC</td>
+<td><span style="display:none;">adam</span></td>
+<td><span style="white-space: nowrap;">05/18/06</span></td>
+</tr>
+<tr>
+<td><span style="white-space: nowrap;">61</span></td>
+<td>poison, cinderella, end everafter</td>
+<td>verizon wireless amphitheater, charlotte, NC</td>
+<td><span style="display:none;">james</span></td>
+<td><span style="white-space: nowrap;">08/16/06</span></td>
+</tr>
+<tr>
+<td><span style="white-space: nowrap;">62</span></td>
+<td>appetite for destruction</td>
+<td>legends, boone, NC</td>
+<td><span style="display:none;">gerry, austin, duddy</span></td>
+<td><span style="white-space: nowrap;">10/12/06</span></td>
+</tr>
+<tr>
+<td><span style="white-space: nowrap;">63</span></td>
+<td>guns n’ roses, sebastian bach, papa roach</td>
+<td>greensboro coliseum, greensboro, NC</td>
+<td><span style="display:none;">james</span></td>
+<td><span style="white-space: nowrap;">11/02/06</span></td>
+</tr>
+<tr>
+<td><span style="white-space: nowrap;">64</span></td>
+<td>winger, u-phonik</td>
+<td>amos’ southend, charlotte, NC</td>
+<td><span style="display:none;">james, elizabeth</span></td>
+<td><span style="white-space: nowrap;">02/07/07</span></td>
+</tr>
+<tr>
+<td><span style="white-space: nowrap;">65</span></td>
+<td>merlefest w/alison krauss &amp; union station, nitty gritty dirt band, sam bush</td>
+<td>wilkes community college, wilkesboro, NC</td>
+<td><span style="display:none;">ryan, mom</span></td>
+<td><span style="white-space: nowrap;">04/27-28/06</span></td>
+</tr>
+<tr>
+<td><span style="white-space: nowrap;">66</span></td>
+<td>poison, ratt, vains of jenna</td>
+<td>verizon wireless amphitheater, charlotte, NC</td>
+<td><span style="display:none;">james, jerry</span></td>
+<td><span style="white-space: nowrap;">06/17/07</span></td>
+</tr>
+<tr>
+<td><span style="white-space: nowrap;">67</span></td>
+<td>avenged sevenfold, operator, the confession, black tide</td>
+<td>house of blues, myrtle beach, SC</td>
+<td><span style="display:none;">adam, pugh, curtis, reyes</span></td>
+<td><span style="white-space: nowrap;">11/17/07</span></td>
+</tr>
+<tr>
+<td><span style="white-space: nowrap;">68</span></td>
+<td>clutch, coheed and cambria, fall of troy</td>
+<td>millennium center, winston-salem, NC</td>
+<td><span style="display:none;">n/a</span></td>
+<td><span style="white-space: nowrap;">11/23/07</span></td>
+</tr>
+<tr>
+<td><span style="white-space: nowrap;">69</span></td>
+<td>motley crue</td>
+<td>verizon wireless amphitheater, charlotte, NC</td>
+<td><span style="display:none;">adam, james</span></td>
+<td><span style="white-space: nowrap;">07/05/08</span></td>
+</tr>
+<tr>
+<td><span style="white-space: nowrap;">70</span></td>
+<td>travis barker, DJ AM</td>
+<td>LAX nightclub, las vegas, NV</td>
+<td><span style="display:none;">AITP</span></td>
+<td><span style="white-space: nowrap;">01/07/09</span></td>
+</tr>
+<tr>
+<td><span style="white-space: nowrap;">71</span></td>
+<td>lil wayne</td>
+<td>panama city beach, FL</td>
+<td><span style="display:none;">brett, brandon</span></td>
+<td><span style="white-space: nowrap;">03/12/09</span></td>
+</tr>
+<tr>
+<td><span style="white-space: nowrap;">72</span></td>
+<td>38 special</td>
+<td>fayetteville, NC</td>
+<td><span style="display:none;">adam &amp; D Co</span></td>
+<td><span style="white-space: nowrap;">04/24/09</span></td>
+</tr>
+<tr>
+<td><span style="white-space: nowrap;">73</span></td>
+<td>collective soul</td>
+<td>fayetteville, NC</td>
+<td><span style="display:none;">adam &amp; D Co</span></td>
+<td><span style="white-space: nowrap;">04/25/09</span></td>
+</tr>
+<tr>
+<td><span style="white-space: nowrap;">74</span></td>
+<td>avenged sevenfold, disturbed</td>
+<td>charlotte, NC</td>
+<td><span style="display:none;">brett</span></td>
+<td><span style="white-space: nowrap;">09/01/10</span></td>
+</tr>
+<tr>
+<td><span style="white-space: nowrap;">75</span></td>
+<td>jason aldean, lee brice</td>
+<td>charleston, SC</td>
+<td><span style="display:none;">brett</span></td>
+<td><span style="white-space: nowrap;">10/01/10</span></td>
+</tr>
+<tr>
+<td><span style="white-space: nowrap;">76</span></td>
+<td>athenaeum, emmet swimming</td>
+<td>amos southend, charlotte, NC</td>
+<td><span style="display:none;">rich, rachel</span></td>
+<td><span style="white-space: nowrap;">12/19/10</span></td>
+</tr>
+<tr>
+<td><span style="white-space: nowrap;">77</span></td>
+<td>kid rock, jamey johnson</td>
+<td>charleston, SC</td>
+<td><span style="display:none;">brett</span></td>
+<td><span style="white-space: nowrap;">02/16/11</span></td>
+</tr>
+<tr>
+<td><span style="white-space: nowrap;">78</span></td>
+<td>kevin hart</td>
+<td>charleston, SC</td>
+<td><span style="display:none;">brett</span></td>
+<td><span style="white-space: nowrap;">04/16/11</span></td>
+</tr>
+<tr>
+<td><span style="white-space: nowrap;">79</span></td>
+<td>dierks bentley, josh thompson, miss willie brown, the piedmont boys</td>
+<td>charleston, SC</td>
+<td><span style="display:none;">brett</span></td>
+<td><span style="white-space: nowrap;">05/12/11</span></td>
+</tr>
+<tr>
+<td><span style="white-space: nowrap;">80</span></td>
+<td>blue man group</td>
+<td>las vegas, NV</td>
+<td><span style="display:none;">brett</span></td>
+<td><span style="white-space: nowrap;">08/05/11</span></td>
+</tr>
+<tr>
+<td><span style="white-space: nowrap;">81</span></td>
+<td>ron white</td>
+<td>las vegas, NV</td>
+<td><span style="display:none;">brett</span></td>
+<td><span style="white-space: nowrap;">08/06/11</span></td>
+</tr>
+<tr>
+<td><span style="white-space: nowrap;">82</span></td>
+<td>alison krauss &amp; union station</td>
+<td>charleston, SC</td>
+<td><span style="display:none;">brett</span></td>
+<td><span style="white-space: nowrap;">08/14/11</span></td>
+</tr>
+<tr>
+<td><span style="white-space: nowrap;">83</span></td>
+<td>brian regan</td>
+<td>charlotte, NC</td>
+<td><span style="display:none;">brett</span></td>
+<td><span style="white-space: nowrap;">06/23/12</span></td>
+</tr>
+<tr>
+<td><span style="white-space: nowrap;">84</span></td>
+<td>mannheim steamroller</td>
+<td>charleston, SC</td>
+<td><span style="display:none;">brett, drew</span></td>
+<td><span style="white-space: nowrap;">12/1/12</span></td>
+</tr>
+<tr>
+<td><span style="white-space: nowrap;">85</span></td>
+<td>eric church, justin moore, kip moore</td>
+<td>charleston, SC</td>
+<td><span style="display:none;">brett</span></td>
+<td><span style="white-space: nowrap;">12/13/12</span></td>
+</tr>
+<tr>
+<td><span style="white-space: nowrap;">86</span></td>
+<td>avenged sevenfold, killswitch engage, rob zombie, volbeat, anthrax, black label society, adelitas way, seether, black stone cherry, trivium, thousand foot krutch</td>
+<td>charlotte, NC</td>
+<td><span style="display:none;">brett</span></td>
+<td><span style="white-space: nowrap;">05/03/14</span></td>
+</tr>
+<tr>
+<td><span style="white-space: nowrap;">87</span></td>
+<td>KISS, def leppard</td>
+<td>charlotte, NC</td>
+<td><span style="display:none;">brett, beth, john</span></td>
+<td><span style="white-space: nowrap;">07/19/14</span></td>
+</tr>
+<tr>
+<td><span style="white-space: nowrap;">88</span></td>
+<td>luke combs band</td>
+<td>bubba’s love shak, murrells inlet, SC</td>
+<td><span style="display:none;">brett, beth, john</span></td>
+<td><span style="white-space: nowrap;">08/01/14</span></td>
+</tr>
+<tr>
+<td><span style="white-space: nowrap;">89</span></td>
+<td>merlefest</td>
+<td>wilkes community college, wilkesboro, NC</td>
+<td><span style="display:none;">brett, mom, caylin</span></td>
+<td><span style="white-space: nowrap;">04/24/15</span></td>
+</tr>
+<tr>
+<td><span style="white-space: nowrap;">90</span></td>
+<td>godsmack, halestorm, slipknot, slayer, breaking benjamin, the pretty reckless, queensryche, in flames, hatebreed</td>
+<td>charlotte motor speedway, charlotte, NC</td>
+<td><span style="display:none;">brett, jordan</span></td>
+<td><span style="white-space: nowrap;">05/03/15</span></td>
+</tr>
+<tr>
+<td><span style="white-space: nowrap;">91</span></td>
+<td>cheap trick, peter frampton</td>
+<td>maine state pier, portland, ME</td>
+<td><span style="display:none;">liana, re</span></td>
+<td><span style="white-space: nowrap;">06/27/15</span></td>
+</tr>
+<tr>
+<td><span style="white-space: nowrap;">92</span></td>
+<td>luke combs</td>
+<td>wendell’s dippin’ branch, anderson, SC</td>
+<td><span style="display:none;">brett, ashley, jason</span></td>
+<td><span style="white-space: nowrap;">09/12/15</span></td>
+</tr>
+<tr>
+<td><span style="white-space: nowrap;">93</span></td>
+<td>luke combs</td>
+<td>the boathouse, myrtle beach, SC</td>
+<td><span style="display:none;">brett, ashley, jason</span></td>
+<td><span style="white-space: nowrap;">02/19/16</span></td>
+</tr>
+<tr>
+<td><span style="white-space: nowrap;">94</span></td>
+<td>carolina rebellion – lynyrd skynyrd, scorpions, clutch, megadeth, lamb of god, five finger death punch, POD, sevendust, anthrax, cypress hill, pennywise, baby metal, deftones, alice cooper, rob zombie, disturbed</td>
+<td>charlotte motor speedway, charlotte, NC</td>
+<td><span style="display:none;">brett</span></td>
+<td><span style="white-space: nowrap;">05/6-8/16</span></td>
+</tr>
+<tr>
+<td><span style="white-space: nowrap;">95</span></td>
+<td>chris stapleton</td>
+<td>volvo car stadium, charleston, SC</td>
+<td><span style="display:none;">brett</span></td>
+<td><span style="white-space: nowrap;">05/21/16</span></td>
+</tr>
+<tr>
+<td><span style="white-space: nowrap;">96</span></td>
+<td>luke combs</td>
+<td>the windjammer, isle of palms, SC</td>
+<td><span style="display:none;">brett, ashley, jason, phil</span></td>
+<td><span style="white-space: nowrap;">07/03/16</span></td>
+</tr>
+<tr>
+<td><span style="white-space: nowrap;">97</span></td>
+<td>alice in chains</td>
+<td>north charleston PAC, charleston, SC</td>
+<td><span style="display:none;">brett</span></td>
+<td><span style="white-space: nowrap;">09/20/16</span></td>
+</tr>
+<tr>
+<td><span style="white-space: nowrap;">98</span></td>
+<td>dolly parton</td>
+<td>north charleston coliseum, charleston, SC</td>
+<td><span style="display:none;">mom</span></td>
+<td><span style="white-space: nowrap;">11/18/16</span></td>
+</tr>
+<tr>
+<td><span style="white-space: nowrap;">99</span></td>
+<td>third eye blind</td>
+<td>volvo car stadium, charleston, SC</td>
+<td><span style="display:none;">brett</span></td>
+<td><span style="white-space: nowrap;">10/21/17</span></td>
+</tr>
+<tr>
+<td><span style="white-space: nowrap;">100</span></td>
+<td>luke combs</td>
+<td>coyote joes, charlotte, NC</td>
+<td><span style="display:none;">brett, ashley, jason</span></td>
+<td><span style="white-space: nowrap;">12/09/17</span></td>
+</tr>
+<tr>
+<td><span style="white-space: nowrap;">101</span></td>
+<td>steve martin, martin short</td>
+<td>charleston, SC</td>
+<td><span style="display:none;">mom</span></td>
+<td><span style="white-space: nowrap;">02/25/18</span></td>
+</tr>
+<tr>
+<td><span style="white-space: nowrap;">102</span></td>
+<td>athenaeum</td>
+<td>the ramkat, winston-salem, NC</td>
+<td><span style="display:none;">brett</span></td>
+<td><span style="white-space: nowrap;">04/07/18</span></td>
+</tr>
+<tr>
+<td><span style="white-space: nowrap;">103</span></td>
+<td>toby keith</td>
+<td>charleston, SC</td>
+<td><span style="display:none;">mom</span></td>
+<td><span style="white-space: nowrap;">10/05/19</span></td>
+</tr>
+<tr>
+<td><span style="white-space: nowrap;">104</span></td>
+<td>high ground festival - kasbo, chet porter, louis futon</td>
+<td>denver, CO</td>
+<td><span style="display:none;">eric</span></td>
+<td><span style="white-space: nowrap;">10/02/21</span></td>
+</tr>
+<tr>
+<td><span style="white-space: nowrap;">105</span></td>
+<td>ACL - lane 8, LP giobbi, modest mouse, george strait, billie eilish, alison wonderland</td>
+<td>austin, TX</td>
+<td><span style="display:none;">eric</span></td>
+<td><span style="white-space: nowrap;">10/08/21-10/10/21</span></td>
+</tr>
+<tr>
+<td><span style="white-space: nowrap;">106</span></td>
+<td>jai wolf, porter robinson</td>
+<td>austin, TX</td>
+<td><span style="display:none;">eric</span></td>
+<td><span style="white-space: nowrap;">11/03/21</span></td>
+</tr>
+<tr>
+<td><span style="white-space: nowrap;">107</span></td>
+<td>san holo, chet porter</td>
+<td>austin, TX</td>
+<td><span style="display:none;">eric</span></td>
+<td><span style="white-space: nowrap;">11/14/21</span></td>
+</tr>
+<tr>
+<td><span style="white-space: nowrap;">108</span></td>
+<td>odesza</td>
+<td>austin, TX</td>
+<td><span style="display:none;">eric</span></td>
+<td><span style="white-space: nowrap;">08/19/22</span></td>
+</tr>
+<tr>
+<td><span style="white-space: nowrap;">109</span></td>
+<td>hootie fest - bare naked ladies, goo goo dolls, LIT, gin blossoms, everclear, edwin mccain, collective soul, cowboy mouth</td>
+<td>cancun, MX</td>
+<td><span style="display:none;">eric</span></td>
+<td><span style="white-space: nowrap;">04/23/23-04/29/23</span></td>
+</tr>
+<tr>
+<td><span style="white-space: nowrap;">110</span></td>
+<td>blink 182</td>
+<td>austin, TX</td>
+<td><span style="display:none;">eric</span></td>
+<td><span style="white-space: nowrap;">07/07/23</span></td>
+</tr>
+<tr>
+<td><span style="white-space: nowrap;">111</span></td>
+<td>depeche mode</td>
+<td>austin, TX</td>
+<td><span style="display:none;">eric</span></td>
+<td><span style="white-space: nowrap;">09/29/23</span></td>
+</tr>
+<tr>
+<td><span style="white-space: nowrap;">112</span></td>
+<td>kasbo</td>
+<td>austin, TX</td>
+<td><span style="display:none;">eric</span></td>
+<td><span style="white-space: nowrap;">09/30/23</span></td>
+</tr>
+<tr>
+<td><span style="white-space: nowrap;">113</span></td>
+<td>texas eclipse festival - big gigantic, bob moses, dirtwire, of the trees, zeds dead</td>
+<td>burnet, TX</td>
+<td><span style="display:none;">eric, hailey, david</span></td>
+<td><span style="white-space: nowrap;">04/06/24-04/08/24</span></td>
+</tr>
+<tr>
+<td><span style="white-space: nowrap;">114</span></td>
+<td>hangout fest - odesza, kasbo, lana del rey, chainsmokers</td>
+<td>gulf shores, AL</td>
+<td><span style="display:none;"></span></td>
+<td><span style="white-space: nowrap;">05/17/24-05/20/24</span></td>
+</tr>
+<tr>
+<td><span style="white-space: nowrap;">115</span></td>
+<td>third eye blind, yellowcard</td>
+<td>cuyahoga falls, OH</td>
+<td><span style="display:none;">eric</span></td>
+<td><span style="white-space: nowrap;">07/05/24</span></td>
+</tr>
+<tr>
+<td><span style="white-space: nowrap;">116</span></td>
+<td>odesza, golden features, bronson, bob moses</td>
+<td>new york, NY</td>
+<td><span style="display:none;">eric, hailey, david</span></td>
+<td><span style="white-space: nowrap;">07/20/24</span></td>
+</tr>
+<tr>
+<td><span style="white-space: nowrap;">117</span></td>
+<td>kasbo, edapollo</td>
+<td>charlotte, NC</td>
+<td><span style="display:none;">eric, hailey</span></td>
+<td><span style="white-space: nowrap;">10/25/24</span></td>
+</tr>
+<tr>
+<td><span style="white-space: nowrap;">118</span></td>
+<td>lindsey stirling</td>
+<td>charlotte, NC</td>
+<td><span style="display:none;">caylin, ella, zoey</span></td>
+<td><span style="white-space: nowrap;">12/11/24</span></td>
+</tr>
+<tr>
+<td><span style="white-space: nowrap;">119</span></td>
+<td>lane 8</td>
+<td>charlotte, NC</td>
+<td><span style="display:none;">eric</span></td>
+<td><span style="white-space: nowrap;">4/10/25</span></td>
+</tr>
+<tr>
+<td><span style="white-space: nowrap;">120</span></td>
+<td>rufus du sol</td>
+<td>austin, TX</td>
+<td><span style="display:none;">eric, hailey, josh, courtney, joey</span></td>
+<td><span style="white-space: nowrap;">4/26/25</span></td>
+</tr>
+<tr>
+<td><span style="white-space: nowrap;">121</span></td>
+<td>elderbrook, jerro</td>
+<td>charlotte, NC</td>
+<td><span style="display:none;">eric</span></td>
+<td><span style="white-space: nowrap;">5/7/25</span></td>
+</tr>
+<tr>
+<td><span style="white-space: nowrap;">122</span></td>
+<td>odesza</td>
+<td>XS nightclub, las vegas, NV</td>
+<td><span style="display:none;">eric, josh, courtney</span></td>
+<td><span style="white-space: nowrap;">7/4/25</span></td>
+</tr>
+<tr>
+<td><span style="white-space: nowrap;">123</span></td>
+<td>zed's dead</td>
+<td>emo's, austin, TX</td>
+<td><span style="display:none;">eric, danielle</span></td>
+<td><span style="white-space: nowrap;">10/12/25</span></td>
+</tr>
+<tr>
+<td><span style="white-space: nowrap;">124</span></td>
+<td>nate bargatze</td>
+<td>charlotte, NC</td>
+<td><span style="display:none;">mom</span></td>
+<td><span style="white-space: nowrap;">11/20/25</span></td>
+</tr>
+<tr>
+<td><span style="white-space: nowrap;">125</span></td>
+<td>kasbo, killen, nokta servo</td>
+<td>the church nightclub, denver, CO</td>
+<td><span style="display:none;">eric, josh, courtney</span></td>
+<td><span style="white-space: nowrap;">12/31/2025</span></td>
+</tr>
+<tr>
+<td><span style="white-space: nowrap;">126</span></td>
+<td>we belong here festival - lane 8, molly, elderbrook, tiesto</td>
+<td>miami, FL</td>
+<td><span style="display:none;">eric</span></td>
+<td><span style="white-space: nowrap;">2/27/26-2/29/26</span></td>
+</tr>
+<tr>
+<td><span style="white-space: nowrap;">127</span></td>
+<td>bob moses</td>
+<td>the fillmore, charlotte, NC</td>
+<td><span style="display:none;">eric</span></td>
+<td><span style="white-space: nowrap;">04/08/2026</span></td>
+</tr>
+<tr>
+<td><span style="white-space: nowrap;">128</span></td>
+<td>rufus du sol, fcukers</td>
+<td>truliant amphitheater, charlotte, NC</td>
+<td><span style="display:none;">eric, josh, courtney, danielle</span></td>
+<td><span style="white-space: nowrap;">06/16/2026</span></td>
+</tr>
+</tbody>
+</table>

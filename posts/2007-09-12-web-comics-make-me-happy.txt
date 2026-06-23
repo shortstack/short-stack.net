@@ -1,0 +1,19 @@
+---
+date: '2007-09-12T09:56:27+00:00'
+favorite: false
+feature_image: ''
+format: markdown
+slug: web-comics-make-me-happy
+tags: []
+title: web comics make me happy
+---
+
+[![](http://www.explosm.net/db/files/Comics/Kris/space.png)](http://www.explosm.net/db/files/Comics/Kris/space.png "www.explosm.net") i was introduced to what could potentially be my new favorite [website](http://explosm.net) of all time tonight. i already went through at least 50 comics and i am hooked. immediate bookmark. yep.
+
+today i worked for a good 6 hours. i stayed there until 8 which is rare for me. i generally leave right at 5. i got a lot done. it was strange being there because i was the only non-“new” employee there. well, curtis and seth have worked there for a while… but comparatively speaking, i was the only one who had been there since way back when, and even in terms of “way back when”, i’m still new. i miss chris and anthony and dillon and stephen and brandi and ashley and chris and eric and keith and now rob’s gone and it’s definitely not the same. i just got to thinking this evening how different it is now with the crowd of kids now. not to say it’s bad or anything, but a very different dynamic. no one from the old crew played magic and they liked to go out a LOT and spend hours and hours and hours at geno’s buying pitcher after pitcher. i miss that. looks like it’s time for another old school tech. support reunion. the last one of those i participated in, i ended up getting a penis drawn on my face with sharpee, and the second worst hangover of my life. :shock: the long branch in raleigh is where the devil lives.
+
+i believe i downloaded every song that david cassidy and the partridge family ever recorded. i am being reminded of every sunday night that my mom and dad and i would sit in the living room planted in front of the TV watching the partridge family and america’s funniest home videos (with bob saget, no less) while my mom braided my hair in 50 million braids to avoid having to wash it for a week and still have “oomph” to it. oh, to be little again. oh, wait! i still am. my parents never have to worry about me growing up.
+
+i need to get to sleep. tomorrow’s my other long day of the week… 4 classes, meeting at 5, gym after my biology class. thursday i get to do yoga again and my lab, and the friday i will be heading to REDHAT!!! i get to see rob and explore redhat with AITP. i am absolutely stoked.
+
+goodnight. :yawn:

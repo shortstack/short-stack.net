@@ -1,0 +1,11 @@
+---
+date: '2009-07-08T15:30:14+00:00'
+favorite: false
+feature_image: ''
+format: markdown
+slug: 'yes'
+tags: []
+title: Yes!
+---
+
+[![Freelance Freedom](http://s3.amazonaws.com/freelanceswitch/articles/ff\_110/FF110\_MysticInterpretation.jpg)](http://freelanceswitch.com/freelance-freedom/)

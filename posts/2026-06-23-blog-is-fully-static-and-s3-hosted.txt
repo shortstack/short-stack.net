@@ -1,0 +1,13 @@
+---
+date: '2026-06-23T02:41:22+00:00'
+favorite: false
+feature_image: ''
+format: markdown
+slug: blog-is-fully-static-and-s3-hosted
+tags:
+- blog
+- s3
+title: blog is fully static and s3 hosted
+---
+
+no more ghost. just github, s3, and cloudfront. and it's beautiful. 🌈

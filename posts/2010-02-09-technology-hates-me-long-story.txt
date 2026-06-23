@@ -1,0 +1,45 @@
+---
+date: '2010-02-09T10:59:24+00:00'
+favorite: false
+feature_image: ''
+format: markdown
+slug: technology-hates-me-long-story
+tags:
+- best buy
+- fedora 11
+- reformat
+- unetbootin
+title: Technology Hates Me (long story)
+---
+
+way back when, my web server sat in my old room at my mom’s house. years ago, she decided to get rid of her internet and, as we all know, a server is a moot point without any access to the internet. i moved it to my dad’s house and kept it there until i got out of college. it now sits in the corner of my living room and has been downgraded to a development server for my client work. this is largely because godaddy’s dedicated linux servers have proven themselves to be a spectacular investment of a small $6.99/month. as spectacular as they may be, i cannot stand their commercials.
+
+several weeks ago, the damn power supply on said server decided to take its last breath. i had 2 choices–1) buy a new power supply, or 2) toss the entire PC and buy an enclosure for the 3.5″ IDE old-as-dirt hard drives rotting away in there so i could get my crap off. by crap, i mean 20GB of photos (YES, just photos, from everything i ever did in my life), 80GB of old home movies (my dad ripped very VHS my family ever created and gave them to me for safe keeping), several gigs of pirated DVDs, software (OMG Photoshop 5.0 is still on there), and about 60GB of whatever crap music i was listening to in high school. to my surprise, there was actually a good collection of pantera on there. i didn’t totally let myself down.
+
+fast forward to this weekend: i told brett i’d buy him modern warfare 2 for valentine’s day. his old xbox died and he threw it out, but kept the hard drive. he planned on buying a new xbox on the 12th when we get paid. i told him i’d front him the money so he could go ahead and have an early valentine’s day–he can pay me back later. so we went to gamestop, purchased an xbox, and MW2.
+
+gamestop is right next to best buy… it was inevitable. originally, i was going to buy a new power supply, but [this caught my eye instead](http://www.bestbuy.com/site/Western+Digital+-+My+Passport+Elite+500GB+External+USB+2.0+Portable+Hard+Drive+-+Metallic+Red/9498475.p?skuId=9498475&ci_src=14110944&ci_sku=9498475&ref=06&loc=01&id=1218114707062). surprisingly, i don’t own an external hard drive. i need something new to use as backup, so i bought it. thank you, tax returns.
+
+we went home and i decided to start working on my server. it has a fresh build of [CentOS](http://centos.org/) on it, so i wanted to at least salvage the hard drives. i had an extra power supply in the box of ancient and random computer hardware in my closet, so i gave it a shot. it was dead, too. instead of going back to best buy, i called compuzone–a local computer repair shop.
+
+my original plan was to buy an enclosure for the drives and toss out the computer. get this–they wanted $75 to transfer all my crap to the new external one i bought, but they’d sell me an encosure for $40. i told the guy i’d buy the enclosure, do it myself, and then return the enclosure. i am pretty sure he didn’t like that answer because after telling him that, he agreed to do the data transfer for $30. SWEET.
+
+i told him i’d go home, grab the drives, and bring them back to the shop for a transfer. then i realized–i really don’t want two 18-year-old computer shop guys doing my data transfer. i worked at tech. support for 4 years. *i am well aware of what goes on.* i went back inside and told them nevermind, i’ll just buy a power supply. they were $34 at compuzone, which was much cheaper than best buy. FOR GOOD REASON.
+
+i went home all excited. i gutted the computer, cleaned it out using almost an entire can of air duster, and took out all the tacky cold cathode sticks and fans that my ex boyfriend from high school bought me. in 2003, this computer was seriously badass. i built it just so i could play day of defeat and battlefield 1942. it glowed green in my bedroom and at every LAN party in high school. ohh, memories. i am so glad i didn’t get rid of it just yet.
+
+i put the new power supply in and right out of the box, the damn thing was dead. that’s what happens when you buy a crappy 450W power supply for $34 at compuzone.
+
+the crazy part was when i took it out and put my old power supply back in, crossed my fingers, hit the power button, **and it freaking worked**. i tried it at least half a dozen times earlier and nothing happened. but somehow, by the grace of god, it decided to come back to life. my server is now being run by a zombie power supply–who knows how long it will last. i waited all afternoon for all my crap to transfer to my external hard drive.
+
+IN THE MEANTIME, i decided to have a reformatting party by myself. brett was preoccupied putting together his xbox. i had nothing better to do until the super bowl came on. before i started reformatting, and because i was already fixing everything else i own, i decided to do a “quick” upgrade on my router. alas, in the middle of the firmware upgrade, something went seriously wrong. while i was pulling my hair out, brett was trying to get his xbox live account working. no internet == no xbox live. he kept trying to access the internet, and i was all like IT ISN’T GOING TO WORK UNTIL I FIX THE DAMN ROUTER LEAVE ME ALONE. so… the living room was very tense for about 20 minutes.
+
+somehow the upgrade caused the modem to crap its pants (wtf?). either that, or it was just horrible timing. it took me 15 minutes of cursing and mashing the reset button with a pencil to realize it wasn’t the router giving me hell. i reset the modem, and everything was peachy keen. HOORAY.
+
+i downloaded [unetbootin](http://unetbootin.sourceforge.net) to do a netinstall of fedora 12. fyi, if you’ve never used unetbootin, try it sometime. i love it. normally, it’s a painless process. since my laptop was purchased in 2007, the graphics card is (geforce go 6150) a bit outdated. i tried 4 times with 4 different configurations to get the video drivers to cooperate. it was just not working, so i went back to fedora 11. worked like a charm.
+
+this is the only complaint i have ever had about linux and that is getting nvidia and broadcom drivers to cooperate on the first go-round. or the second. i’ve reformatted my laptop at least 30 times in its lifetime, and i have NEVER had the same install process twice.
+
+anyway, it’s all working together nicely now. and the funny thing is, i told a guy at work this entire story yesterday. he came into work this morning and said, “i woke up this morning… AND MY POWER SUPPLY WAS DEAD”.
+
+i totally jinxed him.

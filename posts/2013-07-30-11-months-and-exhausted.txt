@@ -1,0 +1,75 @@
+---
+date: '2013-07-30T23:24:03+00:00'
+favorite: false
+feature_image: ''
+format: markdown
+slug: 11-months-and-exhausted
+tags:
+- 11 months
+- android
+- birthday
+- brett
+- caylin
+- defcon
+- development
+- stress
+- vegas
+title: 11 Months, And Exhausted
+---
+
+i hate that i’ve only been posting once a month lately. i have allowed myself almost no down time in the last few weeks. i have stayed up past 3 AM more times in the last month than i have in the last like 2 years combined, at least. it’s a little ridiculous. it’s also entirely my fault.
+
+i finally released my [DEF CON hacker tracker android app](https://play.google.com/store/apps/details?id=com.shortstack.hackertracker) this month. i started it [about a year ago](http://short-stack.net/in-my-spare-time/), and picked it back up this month so i could finish it in time for the conference (we leave for vegas thursday! omg!). i pretty much refactored the whole thing in the process, but it was definitely necessary before throwing the source up on github. it was scary looking at my crap code from a year ago, and comparing it to what i can do now. i’ve been on the mobile team at work for just 2 months now, and i feel like my android skill set has more than doubled.
+
+i definitely caught the bug. in my last post, i had just gone back to being on prod ops, and had decided to juggle both teams. that is still my plan going forward, but for this week and next, i’m back on the mobile team 100% so we can meet our deadline.
+
+so… needless to say, i’ve been busy.
+
+my hacker tracker is going to be put to the test this week at the conference. i’m scrambling to make sure i have all of the schedules up to date and that they’re accurate. DEF CON is a super helpful, super supportive audience, but it is absolutely terrifying releasing this app to an audience who will literally pick it apart line by line. i love github, but sometimes it makes me feel like people are looking into my soul, reading my mind when they go through my work. so exposed… it’s unnerving.
+
+the app for work is tentatively being launched next week or the week after. it’s one of the biggest projects i’ve ever been a part of from start to finish. that in and of itself is scary. i hope it’s successful. the internet is a hateful place, and imagining the feedback makes me want to hurl. i take that kind of criticism too personally 99% of the time. i am not thick skinned. i am not ready for this.
+
+basically, i’m stressed. i didn’t want to admit it. i’ve been in denial up until this point (perhaps because i’m afraid if i admit it to myself, my face will break out before we go on vacation. i don’t think i’ve ever been on a vacation where that didn’t happen).
+
+here goes:
+
+i. am. stressed.
+
+and at the same time, it’s exciting. i love it, and i love the learning curve. i love being pushed to make this happen. i wake up every morning stoked to start working. i have a hard time walking away from it at night. it is embedded in like every dream i’ve had lately.
+
+it’s awesome.
+
+i’m also stressed about leaving for vegas. we’ve been away from caylin for 2 nights before, but never 3. and we’ve never been that far away from her. she’s teething right now, and has been waking up once a night crying. not bad, and not for long. i walk her downstairs, warm up her formula, let her calm down, and then put her back to bed with a warm bottle. she’s fine. tonight was pretty bad, but i think that was because she didn’t get an afternoon nap and had been awake for like 9 hours. anyway, my mom is staying here with her, and brett’s parents are coming down so they can spend some time with her. she’s in good hands.
+
+i will probably cry on the way to the airport, and then i will remember that we’re going to VEGAS and i’ll be ok again.
+
+i’m going to miss the crap out of her. ugh.
+
+she turned 11 months today.
+
+* she has her 2 bottom teeth, and the top 2 have poked through a little bit. so adorable. brett keeps calling her bulldog.
+* as if she wasn’t a handful already, she’s talking even more now. still babbling but we’re so close to saying a word, it’s scary. and she yells. a lot. she is very demanding.
+* she gives kisses now. they are weird open mouth kisses full of slobber, but they’re still kisses. it’s hilarious and kind of gross but it’s super sweet.
+* she hits a lot more now. if she doesn’t want whatever you’re trying to give her, she will slap it right out of your hand. or take it from you and hurl it across the room. so. bossy.
+* she still eats like 3 dinners a night. OMG.
+* she’s trying to walk. trying. she gets brave a lot and lets go of whatever she’s holding onto when she’s standing up now. terrifying for me, but she’s going for it!
+* she hates when we carry her up the stairs now. she wants to climb everything and anything. also terrifying, but it’s awesome to watch.
+* she kind of pays attention to TV shows now. but mostly she likes one baby einstein video–neighborhood animals. when they play the old mcdonald song, she goes apeshit. see video below. it’s like this almost every time we play it.
+* she had her first ever toys ‘r’ us trip last weekend and she had so much fun riding around in the cart, checking out toys, and test driving power wheels :)
+* she still won’t let us read to her. she snatches the book and chucks it. will NOT have any of it.
+* she kinda sorta dances to music now when she hears it. not every time, but sometimes she gets into it. it’s an awkward shaky weird dance.
+* she recently started trying to feed me and brett. she shoved a half eaten slobbery cheese puff in my mouth when i wasn’t expecting it and i almost gagged.
+
+she’s just a fun little person now. a handful, but a fun handful. her giggle fits are the best thing i’ve ever witnessed. it’s impossible to not be consumed with happy when she’s in one of her crazy goofy moods. i just can’t believe how much i love her.
+
+switching subjects: yesterday was brett’s birthday. we decided this year we weren’t doing presents for either of our birthdays, but we never said anything about cake. so i went to publix and picked up a [chocolate avalanche cake](http://www.publix.com/food/catalog/ProductDetail.do?id=170) and a bunch of m&m cookies. it was practically monsooning outside and the roads were flooded but dammit there was going to be cake. i asked all of our neighbors to come over after 9 (wanted to make sure caylin was in bed before they showed up, otherwise she’d never sleep) to hang out and have drinks. i didn’t tell brett, because i wanted it to be a surprise. so when they showed up at the door, brett answered it (in a cutoff, still sweaty from working out, unshowered) and told them he was about to go on a run and didn’t even invite them in. that got awkward almost instantly so i had to barge in with, “BUT THEY’RE HERE FOR YOUR BIRTHDAY PARTY”.
+
+brett was pleasantly surprised, and it was awesome. wine, chocolate covered strawberries, whiskey, beer, cake, cupcakes, cookies, and not an ounce of shame.
+
+we got incredibly lucky as far as our neighbors are concerned. amanda and andrew live 3 doors down. our nextdoor neighbors on either side are right around our age. one couple (john and beth) is unmarried/unbabied and they are absolutely a blast to hang out with/drink with/whatever. beth and i went and got pedicures a couple weeks ago. they have four wheelers (you do NOT understand how excited i am about this), a giant bug zapper, and lots of cats. they love caylin. they cook delicious foods. they party with us. brett works out with john and our other neighbors almost every day in the garage. it’s just awesome.
+
+the couple on the other side of us is also our age (ashley and jason) they are married/babied. they’re the ones with the little girl who’s a few months older than caylin. she and caylin have play dates. ashley is pregnant with their second child and is about to pop any day now, so pretty soon there will be little girls running all over the place. she and jason are awesome to hang out with. brett went over there the other night and had a few beers with him while i stayed at home and worked.
+
+it’s weird having this community feel after NOT having it for so long. not only does it feel more secure but it is just so much more fun. it feels like college all over again being able to walk to a friends house to hang out and have drinks. the only difference is now i bring a baby monitor with me.
+
+life is just good right now. i wish it would just sit tight right here for a while. this is a good spot.

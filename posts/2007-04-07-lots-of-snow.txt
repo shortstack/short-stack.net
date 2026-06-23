@@ -1,0 +1,11 @@
+---
+date: '2007-04-07T08:16:01+00:00'
+favorite: false
+feature_image: ''
+format: markdown
+slug: lots-of-snow
+tags: []
+title: lots of snow
+---
+
+who’da thunk it… the biggest snow we’ve had all season came in april. and loki just dragged me through it.

@@ -1,0 +1,117 @@
+---
+date: '2013-02-07T22:30:30+00:00'
+favorite: false
+feature_image: ''
+format: markdown
+slug: a-year-ago
+tags:
+- anniversary
+- brett
+- caylin
+- honeymoon
+- time
+- wedding
+title: A Year Ago
+---
+
+![flowers](/content/images/2013/02/20130128_143145-1024x768.jpg)
+
+holy crap, it’s been a year already. i feel like just yesterday i was freaking out about not only being pregnant, but how we were going to plan a wedding in less than a month! i still have the wedding planning spreadsheet in my google docs.
+
+and then i look at caylin. the living proof that time has, in fact, passed. we’re another year older. we have a 5 month old baby (oh my god). and we’re buying a house in 4 months (oh my god).
+
+and, as always, i still look and feel like a little kid. who is now raising a little kid. brett was just saying the other day that he still gets uncomfortable walking around in public with me and caylin, worried people are thinking he robbed the cradle and knocked me up. i mean, really dude? every time i go to target (food lion is fine, everyone knows me there) with caylin, i make damn sure my wedding ring is showing lest people assume i’m another teen mom. not that teen moms don’t get married, but you get where i’m going with this. the glares i get are really, really discomforting.
+
+4 years ago last month was when i met brett. i can never hate facebook, for when mixed with booze it gives guys the courage to hit on strange girls from their CIS classes. then we went on spring break together and had the trip/party of a lifetime.
+
+![](/content/images/2013/02/image9-1024x667.jpg)  
+![](/content/images/2013/02/image1-1024x663.jpg)
+
+3 years ago last month he moved down to charleston to live with me and start his career.
+
+2 years ago last month we had been living in this townhouse for less than 3 months. i was taking flight classes, trapeze classes, welding classes, and becoming even more addicted to angry birds.
+
+a year ago last month, was our wedding, the other best day of my life, and our honeymoon. and i wouldn’t change a thing.
+
+![](/content/images/2013/02/Champion_Wedding_220_small-680x1024.jpg)
+
+#gallery-15 {
+margin: auto;
+}
+#gallery-15 .gallery-item {
+float: left;
+margin-top: 10px;
+text-align: center;
+width: 50%;
+}
+#gallery-15 img {
+border: 2px solid #cfcfcf;
+}
+#gallery-15 .gallery-caption {
+margin-left: 0;
+}
+/\* see gallery\_shortcode() in wp-includes/media.php \*/
+
+[![](/content/images/2013/02/P1020096-150x150.jpg)](/content/images/2013/02/P1020096.jpg)
+
+[![](/content/images/2013/02/P1020201-150x150.jpg)](/content/images/2013/02/P1020201.jpg)
+
+[![](/content/images/2013/02/P1020058-150x150.jpg)](/content/images/2013/02/P1020058.jpg)
+
+[![](/content/images/2013/02/P1020334-150x150.jpg)](/content/images/2013/02/P1020334.jpg)
+
+[![](/content/images/2013/02/P1020064-150x150.jpg)](/content/images/2013/02/P1020064.jpg)
+
+[![](/content/images/2013/02/P1020152-150x150.jpg)](/content/images/2013/02/P1020152.jpg)
+
+[![](/content/images/2013/02/P1020188-150x150.jpg)](/content/images/2013/02/P1020188.jpg)
+
+[![](/content/images/2013/02/P1020211-150x150.jpg)](/content/images/2013/02/P1020211.jpg)
+
+our one year anniversary was everything and nothing i hoped it would be. it was totally us. it was totally like our first date (except this time we had money to spend). our first date came way after we had been seeing each other. but before i moved to charleston, brett told me he wanted to take me on a real date since we’d never been on one. he surprised me with flowers, and took me to dinner at applebee’s (not as many choices in boone as there are in charleston!). on our first date, we planned on going to a movie after dinner. instead, we ate too much, and i suggested we go back to the apartment, put on sweatpants, get drunk, and watch underworld (i think that’s when i won his heart). on our anniversary, we ate too much. went on a walk, went to the bar, and decided we were in no shape to make it until 1AM. brett suggested that instead, we go back to the hotel, put on sweatpants, get drunk at the hotel bar, and enjoy the one night we’ll have to ourselves in a while.
+#gallery-16 {
+margin: auto;
+}
+#gallery-16 .gallery-item {
+float: left;
+margin-top: 10px;
+text-align: center;
+width: 50%;
+}
+#gallery-16 img {
+border: 2px solid #cfcfcf;
+}
+#gallery-16 .gallery-caption {
+margin-left: 0;
+}
+/\* see gallery\_shortcode() in wp-includes/media.php \*/
+
+[![](/content/images/2013/02/20130202\_181426-150x150.jpg)](/content/images/2013/02/20130202\_181426.jpg)
+:   preparing myself for awesome food
+
+[![](/content/images/2013/02/20130202\_182035-150x150.jpg)](/content/images/2013/02/20130202\_182035.jpg)
+:   DELISH
+
+[![](/content/images/2013/02/20130202\_192703-150x150.jpg)](/content/images/2013/02/20130202\_192703.jpg)
+:   brett in his new under armour
+
+[![](/content/images/2013/02/20130202\_182817-150x150.jpg)](/content/images/2013/02/20130202\_182817.jpg)
+:   best dinner ever
+
+[![](/content/images/2013/02/20130202\_204525-150x150.jpg)](/content/images/2013/02/20130202\_204525.jpg)
+:   watching UFC 156 at buffalo wild wings
+
+[![](/content/images/2013/02/20130202\_195323-150x150.jpg)](/content/images/2013/02/20130202\_195323.jpg)
+:   this hotel is \*beautiful\*
+
+[![](/content/images/2013/02/20130202\_215024-150x150.jpg)](/content/images/2013/02/20130202\_215024.jpg)
+:   after party at the hotel. at 11PM.
+
+[![](/content/images/2013/02/20130202\_200038-150x150.jpg)](/content/images/2013/02/20130202\_200038.jpg)
+:   obligatory drunken hotel photo
+
+and it was perfect.
+
+i am so in love with this handsome and ridiculously weird man i married. never in a million years did i think we’d be here, and here we are.
+
+you make me so happy.

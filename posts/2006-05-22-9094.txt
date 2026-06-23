@@ -1,0 +1,11 @@
+---
+date: '2006-05-22T19:22:53+00:00'
+favorite: false
+feature_image: ''
+format: markdown
+slug: '9094'
+tags: []
+title: '...'
+---
+
+i’m going to kill this dog… :stress:

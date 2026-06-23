@@ -1,0 +1,11 @@
+---
+date: '2007-02-16T18:27:57+00:00'
+favorite: false
+feature_image: ''
+format: markdown
+slug: more-to-the-collection
+tags: []
+title: more to the collection
+---
+
+i’ve hit the 10 GB mark with all the pictures i’ve taken over the years. if anything, i’ll never have to worry about the effects of a bad memory because i have nearly everything i’ve ever done documented in pictures or somewhere on this website. the ones from last night can be found [here](http://75.177.42.39/pictures/friends/skibeech021507/).

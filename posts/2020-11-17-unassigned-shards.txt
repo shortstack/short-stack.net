@@ -1,0 +1,63 @@
+---
+date: '2020-11-17T15:56:21+00:00'
+favorite: true
+feature_image: ''
+format: markdown
+slug: unassigned-shards
+tags: []
+title: Unassigned Shards
+---
+
+```
+curl -XGET localhost:9200/_cluster/allocation/explain?pretty
+```
+
+if you're at all familiar with the elastic stack, you may recognize this query. if you've ever run into a situation where your elasticsearch cluster turns yellow (or worse, red), and you see the dreaded "Unassigned Shards" flashing before your eyes, you may have had to run this query yourself before.
+
+but what does it do? simply put: it tells you why your shards may be unassigned. and ultimately, it can guide you down the path to recovery.
+
+in some cases, your shards are unassigned because a node is down, or your cluster is unhealthy elsewhere. but in many cases, they are unassigned because a particular node has run out of space, or a more technical reason: "low disk watermark exceeded".
+
+*wouldn't it be nice if our brains had this feature?* like, how awesome would it be, if when you found yourself in a rut, and couldn't quite put your finger on it, you could just run this query against your brain and begin to sort things out.
+
+**i feel like a lot of us are pushing right up against that "low disk watermark exceeded" on the daily. and we don't even realize it.**
+
+i know i am, but it took a long time for me to realize just how close i've been.
+
+i've been burning hot at both ends for years now. 3 kids, a career, and life with all its twists and turns. and then 2020 hit--pandemic, quarantine, election, protests, riots, everything else. my ego has always said, "i can handle it, always have". don't get me wrong, i've "handled" it. i've provided and i'm alive and my kids are ok. but how ok is everything, really? at what cost does this all come?
+
+that also doesn't take into account every experience i've ever had that is taking up space in my head, or every unresolved bit of trauma i've held onto, or every grudge, fear, worry, doubt, and bit of resentment i've accumulated.
+
+i'm 34, and i'm only JUST NOW starting to realize WHO i am, what i am capable of, what i am NOT capable of, and how to be *my best self*.
+
+**i had a profound experience recently, that made me realize a lot of things.**
+
+one of those things was that i saw ME for the first time in my entire life.
+
+i closed my eyes, and i was witness to my mind building, creating, feeling, and networking this vast universe inside of me. like nothing i'd ever seen or experienced before, more unique than anything i could draw on paper, or spin with words. i saw my soul, and i watched it breathe. i watched it dance. i watched it weave these intricate pieces and parts. i watched it stare back at me, like it had been looking for me all along, as if it had been patiently waiting for me to finally wake up.
+
+a thought that frequented my mind in that moment: **let go of expectations, and let your soul dance.** and i watched in awe.
+
+all i could think was, how could i neglect something this beautiful? how could i have taken my own soul for granted for so long? how could i deprive myself of true happiness and inner peace, all this time? i have to protect this forever. i have to keep it safe.
+
+i've buried myself in so many unresolved issues, so many experiences, so much dead weight... for so long.
+
+we are not our past trauma.  
+we are not our experiences.  
+we are not our body.  
+we are not our kids.  
+we are not our job.
+
+![Screenshot_20201014-181400_Chrome-1](/content/images/2020/11/Screenshot_20201014-181400_Chrome-1.jpg)
+
+we are brilliant orbs of light, waiting to be uncovered, unburied, **so the light can finally shine through**.
+
+to circle back to the "Unassigned Shards": what if our inner peace, our true happiness, our true self, our SOUL, is sitting there, waiting in those unassigned shards? what if all of the toxic things we've subjected ourselves to over the years have just been taking up space--weighing us down, and covering us up for so long? "low disk watermark exceeded".
+
+**we can't be good parents, good employees, good people, if we don't first take care of ourselves. we are not broken. we need room to grow.**
+
+we are the curators of our own minds. we decide what is worthy of keeping, what needs to go, and what makes us happy. purge the dead weight. decide what you need to meet head on, and deal with it, and let it go. be kind to yourself, and really listen. do the soul searching that allows you to decide what is taking up too much space, and make room for your own light to shine through. make room for you.
+
+for the first time in my entire life, i can close my eyes and see my soul smiling. truly smiling. the journey isn't over, and it never will be, **but i have finally found me. this is only the beginning.**
+
+![il_794xN.1663550288_aq0f](/content/images/2020/11/il_794xN.1663550288_aq0f.jpg)

@@ -1,0 +1,15 @@
+---
+date: '2009-02-11T02:08:47+00:00'
+favorite: false
+feature_image: ''
+format: markdown
+slug: my-wordle
+tags: []
+title: My Wordle
+---
+
+i found this on [her](http://www.jebelle.net/) website and thought it was cute. so i tried it out. this is my “[wordle](http://wordle.net)“. i’m not sure what i’m supposed to do with it or what the point of it is so it’s going here.
+
+i just realized it separated star wars. no, i don’t like wars.
+
+![My Wordle](images/wordle.png)

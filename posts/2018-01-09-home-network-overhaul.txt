@@ -1,0 +1,195 @@
+---
+date: '2018-01-09T00:44:07+00:00'
+favorite: true
+feature_image: ''
+format: markdown
+slug: home-network-overhaul
+tags:
+- hardware
+- home network
+- intel nuc
+- networking
+- red hat
+- synology nas
+- toys
+- ubiquiti
+title: Home Network Overhaul
+---
+
+**[UPDATE]** posted [here](http://short-stack.net/home-network-updates/)**[/UPDATE]**
+
+![](/content/images/2018/01/20180107_212235-700x394.jpg)
+
+a few months ago, i started realizing i was going to need to make some changes with regards to my infrastructure at home in general.
+
+we had a decent ASUS router at home and i set up a VPN, and i had a couple hard drives mirrored and backing up to crashplan. but the kickers were:
+
+1. crashplan personal plans were going away, had to find a reliable backup solution for 20+ years of everything, and needed more space
+2. since i started the new job, i’ve had a much higher need for lab environments. specifically more long term ones, that i can’t just terminate in AWS all the time ($$$)
+
+so i finally did what i should’ve done a long time ago, and what i’ve wanted to do for a long time. i got the following:
+
+* [Synology NAS](https://www.amazon.com/gp/product/B01EMZHLZU/ref=oh_aui_search_detailpage?ie=UTF8&psc=1)
+* [Intel NUC](https://www.amazon.com/gp/product/B01DJ9XS52/ref=oh_aui_search_detailpage?ie=UTF8&psc=1)
+* [500GB SSD](https://www.amazon.com/gp/product/B00TGIW1XG/ref=oh_aui_search_detailpage?ie=UTF8&psc=1)
+* [32GB mem](https://www.amazon.com/gp/product/B015YPB8ME/ref=oh_aui_search_detailpage?ie=UTF8&psc=1)
+* [Display for NUC](https://www.amazon.com/gp/product/B06XDC47NS/ref=oh_aui_detailpage_o08_s00?ie=UTF8&psc=1)
+
+the following were gifted to me. it’s amazing what can happen on twitter <3 huge thanks to [@ubnt](http://twitter.com/ubnt) and friends for being so awesome.
+
+* [Ubiquiti Unifi Switch](https://www.ubnt.com/unifi-switching/unifi-switch-8-150w/)
+* [Ubiquiti Unifi Cloud Key](https://www.ubnt.com/unifi/unifi-cloud-key/)
+* [Ubiquiti Unifi Security Gateway](https://www.ubnt.com/unifi-routing/usg/)
+* [Ubiquiti Unifi Access Point](https://www.ubnt.com/unifi/unifi-ap-ac-pro/)
+
+i’m going to split this up into hardware sections, for the sake of sanity.
+
+### Synology NAS
+
+a friend of mine runs a massive setup at his house, and recently swapped out a bunch of hard drives. he gave me an amazing deal on 4x 3TB drives he was otherwise going to get rid of.
+
+![](/content/images/2018/01/20171101_172957-700x394.jpg)
+
+^ all the hard drives. he gave me an extra for fun.
+
+this thing. let me tell you… i’m in love with it.
+
+i popped all 4 drives in, plugged it in, turned it on… it’s nearly silent. and it’s so shiny.
+
+i will say, however, that out of the box, it isn’t quite as secure as one would hope. i disabled the quickconnect feature (allows you to access it via a pretty URL from anywhere on the internet), because that is a 1-way ticket to having your NAS show up on shodan. enabled DoS protection, enabled HTTPS, disabled FTP, enabled auto blocking, 2 factor auth, different SSH port.
+
+plus, it’s sitting behind a router and access to the NAS is only available via the VPN. which also has 2 factor.
+
+other things i love about it:
+
+* setting up the drives and the RAID was painless. few clicks, and boom. plugged my old drives in, transferred all the data over, and all was well in the world. my things were safe again.
+* making folders available as NFS mounts to any system in your network, with user auth, is so simple.
+* encrypting folders – couple clicks.
+* the active backup for server app – you point it to an IP/port/key, and you can rsync any and all files from another system. so my NUC with all my KVM machines is essentially mirrored on the NAS now. and it took like 5 seconds.
+* can set it to power back on after power failure.
+* i get emails whenever a backup or job fails to run, or when there is a security alert or an update available.
+* backup to amazon glacier – give it your access and secret key, pick which folders to back up, schedule it, done. TBs backed up for
+* cloud sync – sync S3 buckets, google drive, and dropbox. all available in 1 simple panel. you can schedule it, set transfer quotas, etc.
+* [zerotier](https://zerotier.com/) app – a friend of mine recently opened my eyes to the beauty that is mesh networking. i’ve been an OpenVPN user for a very long time, and still use it. it’s always been reliable (minus the mac client, hate), but wanted to give this a shot. the UI is less than reliable from within the Synology UI, but if you SSH into the NAS and use the zerotier-cli, works like a charm. have the ZT client on my mac and chromebook and my phone. can get anything i need. even home movies from 1989.
+
+i could probably go on… but bottom line, it’s amazing. money well spent.
+
+> it's aliiive! 😍 and now to copy over all the things. [@Synology](https://twitter.com/Synology?ref_src=twsrc%5Etfw) [pic.twitter.com/ttLBl9283P](https://t.co/ttLBl9283P)
+>
+> — Whitney Champion (@shortxstack) [November 2, 2017](https://twitter.com/shortxstack/status/925942856732299264?ref_src=twsrc%5Etfw)
+
+### Intel NUC
+
+![](/content/images/2018/01/20171119_113641-700x394.jpg)
+
+![](/content/images/2018/01/20171119_111222-700x394.jpg)
+
+a friend referred me to this tiny badass as well. i saw the case alone and fell in love with it. really simple to put together. threw the SSD in, memory, plugged it in, USB stick with Red Hat on it. if it weren’t for the unbelievably tiny keyboard i was working with, and the fact that i hadn’t gotten a display for it yet (that 7″ display came in the mail later), it would’ve been a lot faster.
+
+turns out, typing on a keyboard the length of a dollar bill with tiny text on a giant TV screen is… somewhat trying. but. got it set up. SSH’ed in and haven’t had to do that since :)
+
+![](/content/images/2018/01/20171119_170154-700x1244.jpg)
+
+![](/content/images/2018/01/20171119_214252-700x394.jpg)
+
+^ tiny keyboard is tiny.
+
+i threw KVM on it, because i knew i’d be spinning up a whole mess VMs, many of which would be long term. changed the setting in the BIOS to turn back on in case it gets powered off, and all the VMs are set to autostart. learned this after our power went out. hooray.
+
+i need to get an UPS.
+
+and probably another NUC, if i want to switch to RHV, or set up a solid IDS.
+
+* KVM machine
+  + base RHEL install with KVM on top, and also this is where OpenVPN lives.
+  + i’m also running Grafana/Telegraf/InfluxDB on here. i set this up not too long ago, and now i can monitor my NUC, network devices, and my NAS. there are prebuilt dashboards for each device (just a JSON file), so after you install the SNMP utils and all the MIB files, you’re set.
+
+![](/content/images/2018/01/Screen-Shot-2018-01-08-at-11.36.42-PM-700x376.png)
+
+![](/content/images/2018/01/Screen-Shot-2018-01-08-at-11.37.08-PM-700x357.png)
+
+the rest of these items live in VMs:
+
+* Mist
+  + a friend told me about [mist.io](https://mist.io/), and i took 1 look at it and wanted to try it. simple, shiny dashboard. will pull machine specs from KVM, AWS, DigitalOcean, GCP, Vultr, Azure, Linode, VMWare, and more. can manage and create machines, manage images, scripts, schedule shutdowns or script runs, estimate billing… it’s amazing.
+
+![](/content/images/2018/01/Screen-Shot-2018-01-08-at-11.34.42-PM-700x459.png)
+
+* Graylog
+  + i’ve been wanting to setup Graylog for a while now, but never had a reason (just about all clients i’ve worked with in the past wanted Splunk). and now i do. all of my logs from my UniFi AP and a few other systems are sent there now. i still need to tailor some alerts.
+
+![](/content/images/2018/01/Screen-Shot-2018-01-10-at-2.40.42-PM-700x280.png)
+
+* Ansible Tower & PostgreSQL
+  + needed to have somewhere to test scenarios in ansible tower, so this was perfect for the KVM setup. base RHEL install with an HA Tower cluster and Postgres
+* Red Hat IdM
+  + again, needed somewhere to test IdM stuff for work.
+* PackStack
+  + see above reason.
+* Satellite – need to build, on my to-do list
+  + again, for work. if i had all this in AWS, i’d go broke. the NUC has probably already paid for itself.
+* GitLab
+
+i think… think that’s everything i’ve got on there so far.
+
+> TOYS!!! bought myself christmas presents this year 😍 [pic.twitter.com/UjPdpOis76](https://t.co/UjPdpOis76)
+>
+> — Whitney Champion (@shortxstack) [November 19, 2017](https://twitter.com/shortxstack/status/932283021104943106?ref_src=twsrc%5Etfw)
+
+## Ubiquiti Gear
+
+NOW, for the even better part. i have never been a super network nerd. i’ve taken Cisco classes, and i’ve set up lord knows how many networks (largely in the cloud), and i interned for a company in high school laying networking cables and setting up patch panels for home/small business installations. i’ve been to my fair share of LAN parties where we dragged out every bit of gear we had. i’ve racked and stacked at almost every job i’ve held during and after college. it’s fun as hell, but it’s never been my focus.
+
+none of that ever made me this excited before. the folks at Ubiquiti told me they were sending me some devices, and i freaked. i’d been hearing about Ubiquiti for a while now, largely from fellow nerd friends on twitter. let me just say, i got stupid excited when the UPS man rolled up.
+
+i was amazed by how simple this process was, after it was all said and done. BECAUSE… cloud key. i’ll get to that.
+
+plug security gateway (router) into the modem or wall jack or whatever you have. switch into the router. access point and cloud key into the switch, and anything else you need hard wired into the switch. turn it all on, and get started.
+
+![](/content/images/2018/01/20180102_142638-700x1244.jpg)
+
+![](/content/images/2018/01/20180102_142953-700x394.jpg)
+
+### UniFi Access Point
+
+![](/content/images/2018/01/20180107_212202-700x394.jpg)
+
+because the router is not a wireless router, this is kind of a must have. although, in the midst of cleaning out the living room and redoing all the things, i learned that i had not 1, but *3* 20+ foot long ethernet cables. and not 1 of them was NOT a tangled mess. so it would’ve been entirely possible to wire the essentials. note: i need to buy newer, shorter cables. and also more surge protectors.
+
+anyway, the AP is easy to configure, because cloud key. great signal all over the house. didn’t bother with the mounting, just set it up high on a shelf. literally plugged it in, cloud key, set up the SSID and password, and all the things worked.
+
+### UniFi Security Gateway
+
+this was pretty much the exact same experience. plugged it in, ran through the cloud key setup which gives you step by step instructions, and it’s alive.
+
+### UniFi Cloud Key
+
+![](/content/images/2018/01/Screen-Shot-2018-01-08-at-11.53.17-PM-700x281.png)
+
+the cloud key is what runs the network management web interface and configures everything for you.
+
+this manages the access point, the switch, and the router, through 1 amazeballs interface.
+
+it finds all the devices that are plugged in, you click the checkbox for each device that you want (AP, router, switch, etc), and then it “adopts” them. they automagically show up on your device list. it’s that simple.
+
+the dashboard is full of topology charts, network statistics, pretty graphs. insights shows you nearby wireless networks, and it picks up a LOT.
+
+the settings are easy to navigate. set up SSH for each device? 1 form, super simple. enable SNMP? checkbox. it’s already set up to deny all, by default, which is what it should be. email notification options for a HUGE array of network events, which is fantastic, and SMTP is easy to set up. switch port settings are easy to change. VLANs are straight forward. multiple networks. firewall rules. guest access. port forwarding.
+
+the UI makes it pretty hard to screw up (this feels like a miracle for networking gear), but even if you think you’ve gone wrong, the documentation is amazing as well.
+
+i have only gotten like an inch deep, because this has only been online for a day and a half. but i’m already sold. only [Ubiquiti](https://www.ubnt.com) gear for me from here on out.
+
+last but not least…
+
+![](/content/images/2018/01/20180107_130047-700x394.jpg)
+
+these 3 “helped”. and by helped, i mean not at all. i made this simple flowchart if you ever think you want to attempt this with the 3 of them nearby.
+
+![](/content/images/2018/01/Blank-Diagram-Page-1.png)
+
+### bottom line…
+
+Intel NUC. Synology NAS. Ubiquiti UniFi **everything**. rave reviews from me across the board.
+
+if you have any questions or suggestions, or fun new things to try, please tell me. love new projects. <3

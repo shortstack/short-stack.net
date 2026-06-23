@@ -1,0 +1,55 @@
+name: deploy
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'posts/**'
+      - 'pages/**'
+      - 'content/images/**'
+      - 'templates/**'
+      - 'static/**'
+      - 'ssnet/**'
+      - 'build.py'
+      - 'publish.py'
+      - 'config.toml'
+      - 'requirements.txt'
+  workflow_dispatch:        # allow manual runs from the Actions tab
+
+# OIDC: let the job request a short-lived token to assume the AWS role
+permissions:
+  id-token: write
+  contents: read
+
+# never run two deploys at once (avoids racing on the S3 sync)
+concurrency:
+  group: deploy
+  cancel-in-progress: false
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+          cache: pip
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Run tests
+        run: pytest -q
+
+      - name: Configure AWS credentials (OIDC)
+        uses: aws-actions/configure-aws-credentials@v4
+        with:
+          role-to-assume: arn:aws:iam::762130055263:role/ssnet-blog-deploy
+          aws-region: us-east-1
+
+      - name: Build & deploy
+        env:
+          SSNET_AWS_PROFILE: ""   # use the OIDC ambient credentials, not a named profile
+        run: python publish.py

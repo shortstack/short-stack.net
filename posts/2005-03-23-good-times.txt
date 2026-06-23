@@ -1,0 +1,11 @@
+---
+date: '2005-03-23T02:29:20+00:00'
+favorite: false
+feature_image: ''
+format: markdown
+slug: good-times
+tags: []
+title: Good Times
+---
+
+in contrast to yesterday’s post, today was a good day. i think i just need another good night’s sleep to keep it this way. this is sad because it’s only tuesday and i already desperately need this weekend.

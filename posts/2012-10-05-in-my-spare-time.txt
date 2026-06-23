@@ -1,0 +1,55 @@
+---
+date: '2012-10-05T17:17:14+00:00'
+favorite: false
+feature_image: ''
+format: markdown
+slug: in-my-spare-time
+tags:
+- android
+- defcon
+title: In My "Spare" Time
+---
+
+aka when i can get caylin to pass out for more than an hour without being in my lap…
+
+i’ve been working on another android app. i was going to keep it to myself but then it’s not as exciting. exciting in the sense that it’s exiting to me and *possibly* other defcon go-ers, but absolutely boring to everyone else. i don’t care.
+
+i started writing it after the [hackathon](http://short-stack.net/code-until-i-go-into-labor/), thinking i wouldn’t get far on it since i was due to have a baby the next day. no rush, because i have a whole year to work on it. but since caylin was 4 days late, i had a few extra to crank out some code.
+
+the idea is simple. i wanted to make an app for [defcon](http://defcon.org). every year they hand out a booklet with the schedule and events and practically everything you need to know about the conference, so i thought a digital, abbreviated version could be helpful. abbreviated meaning it would have just the “need to know” information:
+
+* speaker schedules
+* entertainment schedule
+* contest/event information
+* maps of the hotel and the conference
+* a live twitter feed of what’s going on via #defcon and @*defcon*
+* either an FAQ or merch section (haven’t decided that yet)
+
+the catch is, most people don’t want to connect to the wifi at the conference, or even use their 3G/4G, so the data would have to be preloaded in a database. with that in mind, i created a sqlite database with test information taken from this year’s conference.
+
+the twitter section is the only part that requires an internet connection, obviously. BUT, it doesn’t pull data until the user presses the start button to start pulling the live feed. it also doesn’t require the user’s twitter credentials since it’s just a live feed, and not tied to their account.
+
+so here’s what i’ve got so far.
+
+![](/content/images/2012/10/splash_01.png)![](/content/images/2012/10/icon.png)  
+splash screen & android icon
+
+![](/content/images/2012/10/main.jpeg)  
+main screen
+
+![](/content/images/2012/10/speaker_01.jpeg)![](/content/images/2012/10/speaker_02.jpeg)![](/content/images/2012/10/speaker_03.jpeg)  
+speaker schedule, dates expand/collapse, events open in window, description/details scroll
+
+![](/content/images/2012/10/ent_01.jpeg)![](/content/images/2012/10/ent_02.jpeg)![](/content/images/2012/10/ent_03.jpeg)  
+entertainment schedule, dates expand/collapse, events open in window, description/details scroll
+
+![](/content/images/2012/10/contests_01.jpeg)![](/content/images/2012/10/contests_02.jpeg)![](/content/images/2012/10/contests_03.jpeg)  
+contest/event information, dates expand/collapse, events open in window, links to event forums open in browser
+
+![](/content/images/2012/10/twitter_01.jpeg)![](/content/images/2012/10/twitter_02.jpeg)  
+twitter feed, “demo” to be replaced with appropriate defcon tags, clicking on tweet will open that user’s twitter feed in a browser, just happened to get a screenshot of the most random/weird tweets ever
+
+![](/content/images/2012/10/maps_01.jpeg)![](/content/images/2012/10/maps_02.jpeg)  
+maps
+
+it’s a work in progress, and i’ve only done about 1-2 hours of work on it since having caylin, but like i said… i have 10 more months to play with it. :)

@@ -1,0 +1,11 @@
+---
+date: '2007-10-24T03:18:15+00:00'
+favorite: false
+feature_image: ''
+format: markdown
+slug: working-on-a-new-layout
+tags: []
+title: working on a new layout
+---
+
+i just can’t seem to like anything i create. :stress: i will get there.

@@ -1,0 +1,15 @@
+---
+date: '2017-01-25T22:08:27+00:00'
+favorite: false
+feature_image: ''
+format: markdown
+slug: today-in-pictures-6
+tags: []
+title: Today In Pictures
+---
+
+![](/content/images/2017/01/20170125_084434-700x933.jpg)
+
+![](/content/images/2017/01/20170125_184930-700x525.jpg)
+
+![](/content/images/2017/01/Screenshot_20170125-220408-700x1244.png)

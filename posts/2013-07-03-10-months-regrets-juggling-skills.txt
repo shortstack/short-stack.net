@@ -1,0 +1,67 @@
+---
+date: '2013-07-03T00:13:47+00:00'
+favorite: false
+feature_image: ''
+format: markdown
+slug: 10-months-regrets-juggling-skills
+tags:
+- 10 months
+- android
+- brett
+- caylin
+- goals
+- linux
+- passions
+- regrets
+- relationships
+- software development
+title: 10 Months, Regrets, Juggling Skills
+---
+
+caylin turned 10 months old on sunday. hard to believe she’ll be a year old in 2 months. really, really hard to believe.
+
+* i’m convinced we are raising a hellion. this girl is absolutely crazy.
+* she eats like 3 dinners. she eats whenever brett and i get home from work. she eats while i’m making dinner. then she eats half my dinner. plus 8-ish oz of formula when i put her to bed at 8:30-9. it’s like she never stops eating.
+* still wearing size 18mo clothes, but we’re starting to push the limits on those these days. she’s so tall.
+* she’s finally getting the hang of her rocking ~~horse~~ caterpillar, and is warming up to her push/ride dinosaur.
+* she has teeth! they’re not all the way in but they’ve popped through enough to see them. when she was teething, we didn’t even know it at first. she was sleeping all kinds of crazy long hours, and kept her hands in her mouth all the time. boy, did we get lucky. she only woke up about once a night, and i’d rock her back to sleep. best feeling ever.
+* she is flying around the downstairs in her walker. hardwood floors, FTW. she loves it. she runs up to greet everyone who walks in the door. she also enjoys terrorizing the animals.
+* she likes to climb our stairs. she has so much fun climbing on stuff now. she also loves trying to slide down face first, and thinks it’s awesome.
+* we’ve started taking her to the pool more and putting her in the little blow-up kiddie pool in the front yard. she’s starting to love the water! i bought her an inflatable frog raft but so far she likes to play around more on her own without it.
+* the only way she’ll eat formula for me lately is either out on the back porch, or if i sneak some in while she’s playing and distracted. she does not like to sit still. for anything.
+* she pretty much never sits still ever and it is unbelievably exhausting.
+* did i mention she never sits still?
+
+despite the fact that i’ve started drinking coffee again just to be able to keep up with her and work, i wouldn’t change a thing. she is so much fun. she’s getting closer and closer to being able to stand up/walk on her own and i can’t wait until i can bring her to work with me. there were a bunch of little kids in the office today because my company hosted a music school concert, and some of the coworkers brought their kids. they were so cute.
+
+i was thinking earlier today (seeing little kids everywhere got my head spinning) about the last 8-9 years and what i would/wouldn’t do differently. obviously, i wouldn’t want the outcome to be ANY different. but sometimes i wish someone had punched me in the face and given me a wake-up call.
+
+i was always boy crazy, and fell easily. every time, and hard. every guy i dated before brett had me absolutely wrapped around their pinky finger in the first month i knew them, to the point where i was just stupid, and never thought twice about whether or not i should even BE with this person.
+
+i didn’t do anything for me.
+
+i missed out on so much because i wasted so much time trying to do what they wanted, instead of living MY life. when i was with my last ex, there was probably a 2-3 year period where i was convinced i hated boone, college, appalachian, and wanted nothing to do with the town, which could not be more untrue. this sounds bad even saying it, but had he not gotten deployed, i don’t think i would’ve done HALF of the things i did in those 4 years. i had no idea how LOST i was, while it was blindingly obvious. i was a shell of myself. i came close to ruining my college career because of a guy. twice.
+
+and i know hindsight is 20/20. i know that these are things that you don’t figure out until it happens to you. you can’t tell a 15 year old girl that breakups don’t matter until you’re at least in your 20’s, and that all those tears and wasted time are laughable later. and you can’t tell a 19 year old girl that her boyfriend, the one she’s convinced is The One, isn’t right for her. that she’s wasting so much time where she could be doing something awesome. it will only push her further down the rabbit hole.
+
+i was thinking about all this on my drive home and it pains me to think about caylin making the same stupid mistakes. she’ll have to make some of them in order to figure it all out, of course. but i hope she doesn’t turn 27 and realize there were YEARS of her life where she could’ve been so much happier. done so much more for HER. i hope she is stronger than i was/am, and doesn’t let a relationship tear her down like i did. at least not to the lows i hit when i did. i hope she finds someone like brett who treats her like gold and is supportive of everything she wants to do.
+
+on a slightly less serious note, kind of, i went back to my “old” project this week at work. monday was my first day back on the prod ops team, and [it felt weird all over again](http://short-stack.net/ch-ch-ch-ch-changes/). i’m back on the other side of the building in my cube, and i’m not coding all day.
+
+to be honest, i didn’t think i’d like it as much as i did over the past month. i don’t know why, but i just assumed that because i’ve always done android development for fun, that doing it for work would “ruin” it somehow. this was not at all the case.
+
+i fell in love with it. i fell in love with the dev side, and my new teammates. i feel so conflicted.
+
+to remediate this situation, kind of, i worked out a deal with my team leads. i told them that i didn’t want to stop doing development, but i also didn’t want to stop doing linux/prod ops work. to my surprise, they’re letting this happen. i am eternally grateful for what this company has done for me. i worked so hard for so long to get to where i am now in the linux/red hat world, and i don’t want to lose those skills. but i’ve learned so much in the last month on my mobile team that i don’t want to lose those skills either. the original plan was to stop doing dev work cold turkey after 4-6 weeks of being on the mobile team, but there’s no way that’s happening now.
+
+after all this, it has made me really start thinking about my career path all over again. just when i thought i knew EXACTLY what i wanted to do, i’m clueless again. i thought i wanted to get my RHCA one day, but that is obviously on hold due to financial restrictions, and travel restrictions–i’ve known that. so maybe this is my next calling.
+
+i want to continue to get better at web development.
+
+i want to continue to get better at android development.
+
+i want to continue to get better at everything that is linux.
+
+these have been my passions for a while. but, as the saying goes, if you don’t use it, you lose it. that is my biggest fear. if i don’t continuously keep my hands in all 3, skills get fuzzy. i didn’t do android for almost a year, and when i jumped into this project, it took me like a week to get comfortable again. i could already feel my brain getting foggy when i jumped back onto prod ops this week after being gone a month.
+
+i am putting so much pressure on myself to stay up to speed on everything, and i only hope that i come out successful in the end. and maybe somewhere along the line, figure out what it is i really want out of all of this.

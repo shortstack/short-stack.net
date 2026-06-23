@@ -1,0 +1,13 @@
+---
+date: '2008-05-09T03:07:32+00:00'
+favorite: false
+feature_image: ''
+format: markdown
+slug: die-in-a-fire-via-stripgenerator
+tags: []
+title: Die In A Fire - via StripGenerator
+---
+
+[this website is addicting](http://stripgenerator.com). i want to make so many comics but i have no idea where to start. here is my first one. i showed it to adam and couldn’t stop giggling. :lol:
+
+[![](http://static.stripgenerator.com/generated/shortstack/strip/2008/05/09/die-in-a-fire.png)](http://static.stripgenerator.com/generated/shortstack/strip/2008/05/09/die-in-a-fire.png)

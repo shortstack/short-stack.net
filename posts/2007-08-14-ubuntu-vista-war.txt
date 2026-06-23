@@ -1,0 +1,15 @@
+---
+date: '2007-08-14T21:33:59+00:00'
+favorite: false
+feature_image: ''
+format: markdown
+slug: ubuntu-vista-war
+tags: []
+title: ubuntu + vista = WAR
+---
+
+yesterday i had the bright idea to dual boot my new laptop with windows vista and ubuntu. this seemed like a great idea seeing as how my old laptop was XP and ubuntu… what could go wrong? well, vista doesn’t like ubuntu. grub doesn’t like vista’s boot loader. nothing gets along, and this caused me hours of frustration yesterday. several hours, actually. i tried damn near everything. i tried every suggestion on every forum i read, and every suggestion on every other website addressing this problem. it seems to be that vista and ubuntu just won’t get along. microsoft, once again, i hate you. the only reason i keep windows anymore is because i use photoshop and a few other artsy programs and things that require windows. i installed wine on my ubuntu partition on my old laptop and had success with a few of these programs, but have not been able to get photoshop to work for the life of me. i’m fine with having dual boot. i guess it just will never include vista.
+
+at the moment, my laptop won’t boot. at all. so i took the hard drive out and i’m in the process of backing up all my shit, formatting the entire drive, sticking XP and ubuntu on, and calling it a day. bill gates can kiss my ass. i’m going to set my vista discs on fire when i go home.
+
+one good thing that came out of yesterday is that in the midst of all my frustration, i took a break and went to the gym and instead of running 2.5 miles, i ran 3. ever since i started running, i’ve felt amazing. i’m already seeing physical differences. THANK GOD!

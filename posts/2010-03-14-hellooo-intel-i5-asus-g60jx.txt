@@ -1,0 +1,25 @@
+---
+date: '2010-03-14T11:07:27+00:00'
+favorite: false
+feature_image: ''
+format: markdown
+slug: hellooo-intel-i5-asus-g60jx
+tags:
+- asus g60jx
+- best buy
+- intel i5
+- laptop
+title: Hellooo Intel i5... Asus G60JX
+---
+
+my laptop finally bit the dust. i was waiting for that to happen any day now, as the hard drive was already failing and a multitude of other things were going wrong (ex: wireless card going dead, overheating). then, yesterday, the motherboard finally crapped out *and* the power supply decided it had also taken its last breath.
+
+luckily, i had everything backed up on the external hard drive i bought a few weeks ago. i was in dire need of one of those things. i just knew this was going to happen soon, and i was right. i’m just glad i actually sucked it up and bought one when i did.
+
+point is… i *had* to buy a new laptop. had to. i have work to get done–work that can’t be done on a tiny eee PC. and, in my opinion, it’s not worth spending money to fix something that old and doomed.
+
+so my mom and i went to best buy yesterday (she’s visiting for the weekend) and i found a laptop. actually, i found a beast of a laptop. i was contemplating buying a macbook pro. i really want to get a mac one day, but i don’t think yesterday was the day. i can’t seem to pry myself away from a PC. maybe because i’m not able to just reformat a mac whenever i want and slap something else on it? which inevitably will be fedora when i finally make up my mind, but still. that freedom isn’t there. maybe i’ll buy the smaller, less expensive one later on down the line. also, the macbook pros don’t have the new intel processors (and they’re still like… $1200!!). they still have the i2, which is still good, but i wanted the ones i saw at the CES back in january. i wanted (at least) an i5. with turbo boost. SHINY.
+
+a lot of you responded to me on twitter/facebook with cries of the i7–i saw laptops with the i7 at best buy, but the selection wasn’t as good. graphics cards in those laptops weren’t that great, either, and had shit for video memory. this one has 1GB and it’s an nvidia geforce GTS 360M. and, let’s face it, i just do not *need* an i7. i don’t really *need* the i5, either, but i’ll just pretend for now.
+
+[i finally decided on the Asus G60JX](http://www.bestbuy.com/site/Asus+-+Laptop+with+Intel%26%23174%3B+Core%26%23153%3B+i5+Processor+-+Blue/Black/9736955.p?id=1218164036446&skuId=9736955). so far, i love it. absolutely love it. it’s about 50 times more powerful than my old laptop. and the best part–it hasn’t died on me yet. here’s to hoping it stays that way.

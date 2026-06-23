@@ -1,0 +1,11 @@
+---
+date: '2006-06-12T00:20:14+00:00'
+favorite: false
+feature_image: ''
+format: markdown
+slug: prevx
+tags: []
+title: prevx
+---
+
+if you’ve got a nasty virus/adware/pain in the ass problem on your computer that won’t go away, you might want to give “PrevX” a try. i’d never heard of it until tonight. i was looking for a crack online and got a virus. my first virus since windows 2k. i was pretty pissed and started looking around online since it recreated itself after i deleted files/ran mcafee in safe mode and adaware/spybot/mcafee/hijack this wouldn’t even recognize it in normal mode. there were 2 main processes called atmclk.exe and dcomcfg.exe that would continuously come up even when you ended the process in task manager. the program got rid of them with no problem and it also found where it was being spawned from which turned out to be a normal windows system process. it fixed my problem with 2 scans and a reboot and i am VIRUS FREE! so, yeah… if all else fails, try this thing because it’s pretty sweet.

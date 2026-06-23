@@ -1,0 +1,13 @@
+---
+date: '2009-04-27T20:17:13+00:00'
+favorite: false
+feature_image: ''
+format: markdown
+slug: 20-ish
+tags: []
+title: 2.0? ish?
+---
+
+i changed a few things on my [project management system](http://short-stack.net/redlink). there is no form validation yet, so quit trying to freaking break it. it is not complete. i changed some of the layout/design.
+
+constructive criticism is good. posting obscenities and scripts posted saying “midgets suck” are not. :mad:

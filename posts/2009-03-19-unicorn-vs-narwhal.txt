@@ -1,0 +1,12 @@
+---
+date: '2009-03-19T05:44:49+00:00'
+favorite: false
+feature_image: ''
+format: markdown
+slug: unicorn-vs-narwhal
+tags: []
+title: Unicorn vs Narwhal
+---
+
+![unicorn](/content/images/2009/03/unicorn1.png "unicorn")
+i asked [iJustine](http://tastyblogsnack.com) this on twitter and on facebook. if you were to witness an epic battle between a unicorn and a narwhal, WHO WOULD WIN?!? [my friend paul says narwhal](?page\_id=8#439), but i beg to differ.

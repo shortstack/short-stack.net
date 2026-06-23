@@ -1,0 +1,8 @@
+{% extends "base.html" %}
+{% block title %}Search — {{ site.site_title }}{% endblock %}
+{% block content %}
+<h1>Search</h1>
+<input id="q" class="search-box" type="search" placeholder="grep posts..." autofocus>
+<ul id="results" class="post-list compact"></ul>
+{% endblock %}
+{% block scripts %}<script src="/search.js" defer></script>{% endblock %}

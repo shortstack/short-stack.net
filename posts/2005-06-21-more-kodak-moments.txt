@@ -1,0 +1,11 @@
+---
+date: '2005-06-21T21:26:00+00:00'
+favorite: false
+feature_image: ''
+format: markdown
+slug: more-kodak-moments
+tags: []
+title: More Kodak Moments
+---
+
+pictures are up from last night @ [matt’s place](../pictures/friends/matts062005)… some of them turned out, well, stupid. :biggrin: that would be my fault.

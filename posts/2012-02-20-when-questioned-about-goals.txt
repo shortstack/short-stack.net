@@ -1,0 +1,49 @@
+---
+date: '2012-02-20T11:35:53+00:00'
+favorite: false
+feature_image: ''
+format: markdown
+slug: when-questioned-about-goals
+tags:
+- baby
+- goals
+- house
+- RHCA
+title: When Questioned About Goals
+---
+
+last week at work, we were all given a worksheet to fill out with our goals on it to go over with our team leads. family goals, lifestyle goals, work goals, technical goals–pretty much anything.
+
+and then it dawned on me. for the first time in my life, i have no goals. well, none other than getting this baby out of me in the next 6 months.
+
+something that (i feel like) should be such a relief… suddenly hit me like a ton of bricks.
+
+when i was younger, these were the goals i set for myself:
+
+* go to college
+* graduate from college with a computer degree
+* get my RHCE and keep climbing the red hat ladder
+* get a job where i get to be a happy nerd
+* marry my best friend
+* if all goes right, make babies, later… much later
+
+besides the fact that the whole baby thing came a BIT earlier than expected, whatever.
+
+i’ve done everything i set out to accomplish. and 3 of them happened within the last 6 months.
+
+before august, i was still on the road that i was slowly figuring out for myself. i knew brett and i were getting married, but it was (originally) over a year away. i was in a job that i hated, so i had something to pursue in that regard. i wanted out, and that was something i could make happen.
+
+but it all happened so fast that i haven’t really had time to think about what else i want to do in my life.
+
+i guess this is one of those awesome moments where i should be totally elated that i have accomplished all that i set out to do, but at the same time it leaves me with the question hanging over my head like… now what?
+
+i’m scheduled to take a red hat security exam in june, which will start paving the way towards the RHCA that i’ve had my eye on since i finally tackled the RHCE. but now i don’t even know how doable all that will be once i become a mom with an undoubtedly much more strict budget.
+
+realistically, i will have to push all that out a ways. so realistically, here are my next set of goals for the next… however long it takes to get there:
+
+* take the red hat security exam in june
+* have this baby
+* move into a house as soon as we’re financially able
+* learn to raise said baby
+
+not knowing what comes with having a baby, i’m pretty sure this list is all that i’ll be able to handle for a while.

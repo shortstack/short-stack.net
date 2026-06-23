@@ -1,0 +1,13 @@
+---
+date: '2009-06-14T11:55:52+00:00'
+favorite: false
+feature_image: ''
+format: markdown
+slug: apartment-photos
+tags: []
+title: Apartment Photos
+---
+
+i finally took pictures of my apartment. :) [click here to view them](http://www.flickr.com/photos/shortstackdotnet/sets/72157619646312827/).
+
+[![Click](http://farm4.static.flickr.com/3409/3624754293_357a19e4fc.jpg?v=0)](http://www.flickr.com/photos/shortstackdotnet/sets/72157619646312827/)

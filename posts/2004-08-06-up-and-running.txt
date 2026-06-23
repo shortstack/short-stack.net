@@ -1,0 +1,13 @@
+---
+date: '2004-08-06T22:18:30+00:00'
+favorite: false
+feature_image: ''
+format: markdown
+slug: up-and-running
+tags: []
+title: up and running
+---
+
+i got this beast online and i’ve got almost everything i need installed. :smile: finally. it only took me all day. i ended up having to disconnect the cable box from the power outlet at least 5 times before it recognized the DHCP. it was about to make me cry!
+
+dinner time. i’m starving.

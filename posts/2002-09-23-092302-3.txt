@@ -1,0 +1,11 @@
+---
+date: '2002-09-23T21:32:17+00:00'
+favorite: false
+feature_image: ''
+format: markdown
+slug: 092302-3
+tags: []
+title: 092302
+---
+
+oh yeah, there is a survey and some fonts to download in the “visitor” section now. i will put more stuff up later. for now, this is all i had the time to do.

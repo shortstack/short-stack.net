@@ -1,0 +1,36 @@
+---
+date: '2012-07-03T14:53:33+00:00'
+favorite: false
+feature_image: ''
+format: markdown
+slug: bad-luck-comes-by-the-dozen
+tags:
+- bad luck
+- hardware
+- memory
+title: Bad Luck Comes By The Dozen
+---
+
+not too many weeks ago, my monitor died.
+
+last week, my memory went bad. the brand new memory i had just bought.
+
+also last week, the adapter on external hard drive #1 died. it turned out not to be the actual drive (thank god), [but the stand that it sits on and plugs into broke](http://gdgt.com/western-digital/my-passport/elite/2nd-gen/).
+
+last friday, i left external hard drive #2 at work making a clean backup of ALL of my stuff online since i no longer trust the backups i have. not taking chances.
+
+i got to work yesterday, and the backup had crapped out mid day sunday. hard drive #2 was making awful grinding and clicking sounds. sounds i’ve heard before and never actually wanted to hear again. neither linux nor windows would recognize it, and dmesg showed nothing but hardware errors.
+
+i plugged in hard drive #1 to retry backing everything up online, since i now only have 1 good backup of my entire digital life. hoping like hell that nothing jinxes this one. i have 20+ years of photos and home movies in limbo right now. status shows 7 days until it’s complete. looks like i’ll be leaving my laptop at work for a while.
+
+i can truthfully say that none of these are bad products, except for the memory. i had never bought G.SKILL memory before, so i can’t really vouch for them, except for the memory had excellent reviews. but i generally don’t buy crap electronics. shit just happens sometimes.
+
+finally, on my way to work this morning, my phone fell out of my lap onto the pavement. for the 18 millionth time since i’ve had a smartphone. and for the first time, it actually broke. screen is shattered.
+
+so that happened.
+
+i am plagued with hardware issues recently. don’t know why, but it would be nice if it stopped. i have more important things to spend money on, like this baby and loki. this is getting a little out of hand.
+
+life in general is awesome. i am very fortunate. my mom moved down here this weekend, and is officially living in charleston, 20 minutes down the road. i just had the most awesome baby shower of my life (i still need to post pictures, keep forgetting). so i’m guessing that with all of the good that has been blessing our family lately, a stream of bad was bound to turn up. that’s the logic i’m going with at least. it’s the only way to make sense of all of my stuff breaking and all the drama with my car loan and my crappy exam outcome. so i’m happy that all of the bad happened to my electronics and not to me or brett or this baby or anyone we care about.
+
+just stop breaking my things :(

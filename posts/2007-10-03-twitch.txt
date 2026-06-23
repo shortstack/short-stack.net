@@ -1,0 +1,11 @@
+---
+date: '2007-10-03T00:54:36+00:00'
+favorite: false
+feature_image: ''
+format: markdown
+slug: twitch
+tags: []
+title: '*twitch*'
+---
+
+i would make a long entry but right now, i fear that it will come out in all curse words and anger because i am frustrated at damn near everything. i will make a happy, cheerful, optimistic post when i can stop shaking and the steam quits pouring out of my ears. for now, the [LAN pictures](http://75.177.42.39/pictures/LANs/appalachLANVIIweekend0928-3007/) are online and the videos are being uploaded.

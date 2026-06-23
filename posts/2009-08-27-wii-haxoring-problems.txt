@@ -1,0 +1,30 @@
+---
+date: '2009-08-27T11:04:50+00:00'
+favorite: false
+feature_image: ''
+format: markdown
+slug: wii-haxoring-problems
+tags: []
+title: Wii Haxoring Problems
+---
+
+i bought a wii about 2 weeks ago. i bought it mostly so i could play wii fit, but also because i haven’t owned a game console since my PS1 that my dad bought me in, ohh, 1998! that’s quite sad. needless to say, i’ve been out of the loop. o\_0
+
+anyhow, i bought it. and it’s awesome. and wii fit kicks my ass on a daily basis and i’m loving every bit of it. however, i saw the whole [homebrew channel](http://wiibrew.org/wiki/Homebrew_Channel) thing and all the neat crap you can put on it like a web server and an ftp server so, of course, i installed the homebrew channel using [banner bomb](http://wiibrew.org/wiki/Bannerbomb).
+
+that also gave me the option to install DVDx and something else (forget what the other option was) so i installed that, too. when i tried to install DVDx, i got this error:
+
+```
+Error -2011 installing DVD Stub ticket<br></br>
+Error -2011 installing stub```
+
+i was determined to get this thing working so i tried installing it through the homebrew web browser. did not work. i tried both versions of DVDx. no dice. same error every time. the articles i’ve been reading keep saying to install it through bannerbomb because i have 4.1 running on my wii, and other articles say that i can’t use DVDx unless i downgrade or wait for the next DVDx. :mad:
+
+alternatively, mplayer installed just fine. i installed mplayer CE (was told by a friend that this was the best choice).
+
+i might be confused but some articles i read said you did not have to have DVDx if you had certain versions of mplayer in order to play movies. i tried every version of mplayer (TT, CE, Wii, the works) and i tried an actual DVD, a burned DVD, and a DVD with a .avi file on it.
+
+i’m either a complete idiot overlooking something really simple or i’m fighting a losing battle and will ultimately have to wait until another DVDx is released. or both. now, which one is it?
+
+halp plz. :)
+```

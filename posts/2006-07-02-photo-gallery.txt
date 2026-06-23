@@ -1,0 +1,11 @@
+---
+date: '2006-07-02T07:45:18+00:00'
+favorite: false
+feature_image: ''
+format: markdown
+slug: photo-gallery
+tags: []
+title: photo gallery
+---
+
+my server back at home has been temporarily disabled in case you may not have noticed. my mom terminated our cable access so until i go to winston to relocate it to my dad’s house and set it back up, the photo gallery will be inaccessible. i would just move everything to my godaddy server, but that is unbelievable amounts of pictures (8-9 gb) and i am not about to go through all that trouble. not to mention, their servers don’t allow .htaccess editing so i can’t allow directory browsing, which sucks. anyway, it’ll be up eventually. i’ve got a ton of stuff to put up!

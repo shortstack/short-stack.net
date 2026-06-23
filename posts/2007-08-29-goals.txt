@@ -1,0 +1,11 @@
+---
+date: '2007-08-29T18:10:42+00:00'
+favorite: false
+feature_image: ''
+format: markdown
+slug: goals
+tags: []
+title: goals
+---
+
+i only hope that i can be [this](http://imgs.xkcd.com/comics/grownups.png "<3") cool when i grow up.

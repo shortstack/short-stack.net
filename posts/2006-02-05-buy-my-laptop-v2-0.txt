@@ -1,0 +1,11 @@
+---
+date: '2006-02-05T21:10:55+00:00'
+favorite: false
+feature_image: ''
+format: markdown
+slug: buy-my-laptop-v2-0
+tags: []
+title: Buy My Laptop... v2.0
+---
+
+we’re trying this again. go [here](http://cgi.ebay.com/ws/eBayISAPI.dll?ViewItem&item=6846975830&rd=1&sspagename=STRK%3AMESE%3AIT&rd=1) and buy my laptop… do it. now.

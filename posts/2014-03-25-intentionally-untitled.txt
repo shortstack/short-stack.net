@@ -1,0 +1,52 @@
+---
+date: '2014-03-25T22:03:08+00:00'
+favorite: false
+feature_image: ''
+format: markdown
+slug: intentionally-untitled
+tags:
+- dig south
+- gwig
+- i5k
+- lunch and learn
+- personal growth
+- projects
+- stre.am
+title: Intentionally Untitled
+---
+
+a lot’s been going on in the past few weeks, and i’ve neglected to document any of it. sometimes i wish i was better about taking notes from time to time or at least USING the notepad that stays in my purse. i bought it for that reason, and it’s completely blank. it’s been over a year.
+
+i don’t really know where to start. i guess i’ll start with loki.
+
+i don’t write about her a lot on here these days–mostly because i don’t know what to say that won’t put a lump in my throat. her shoulder (which has bothered her since she was a puppy) is stiff a lot more often these days, and her limp has just gotten noticeably worse over the years. i tried glucosamine pills for 2 months, the best on the market, and they did nothing. she turned 8 this month, which, for a big dog, is getting up there i guess.
+
+the cancer is still there and basically stays in a swollen state, but it still doesn’t seem to be bothering her. that’s all i can hope for. she also has this weird growth on her face that came up about 2 weeks ago, and i’ve put off taking her to the vet. i keep telling myself it’ll be fine. to be honest, i don’t know if i can stomach them telling me it’s another tumor or something. that doesn’t seem to bother her at all, either. i know that sounds horrible and selfish, and it is. it pains me to think about putting her through anymore treatment. i just feel like, at what point is it too much?
+
+i started back on birth control this week–something i had basically sworn off since 2007. for those who didn’t know me back then, between march 2005 and may 2007, i tried 5 different prescriptions, all of which had horrific effects on my mood, depression, anxiety, and basically turned me into a giant pain in the ass who never stopped crying and had no life. it was hell, and is for the most part documented entirely on this blog. i probably left out the worst parts, as i was too embarrassed to admit them. i was another person entirely.
+
+it should go without saying that a lot of thought went into getting back on them again. i kept the prescription in my wallet for weeks before actually going to get it filled. i finally went the other day–3 days in, and so far so good.
+
+i know that a huge piece of why i was so messed up years ago had almost everything to do with everything else going on in my life at the time–boyfriend deployed off and on, hormones, stress, no money, figuring out college, no exercise, living by myself (worst idea ever at the time), generally being a complete idiot. if i could go back, i would throatpunch 19 year old me repeatedly until i got it through my head that none of that shit was worth crying over, worrying over, stop being a whiny bitch, and go have fun. some of my biggest regrets to this day come from that 2 year timespan. at the time, and for a while after, i blamed it all on the pills. then i realized that it was probably more about my life choices than just the pills.
+
+my life is basically the opposite in almost every way imaginable now, so it seemed like the right choice to give it another shot. fingers crossed that it all goes smoothly this time around.
+
+3 days ago marked 1 year since i started using the nike training club app. i really wanted to write something the day of, because it’s such a big milestone for me. i’ve never kept at a workout regimen for more than like 2 months, tops. this is a whole year. this is huge. 167 workouts in 335 days (i skipped all of december, serious fail). that means i basically worked out every other day for a year. the only other chunks i missed were when i was sick, when we were on trips, and when i was hungover (i had 5 skip-worthy hangover days, yuck). and then cheat days, which were usually twice a week. either way, this is huge for me. i feel better than i did before i had caylin, and i dare say better than i did when i was still regularly doing gymnastics.
+
+work has been crazy lately. so many fun projects, and seriously not enough time. i’ve had a handful of late nights over the past week or 2–fun and exhausting. i missed that feeling since it had been several months since the last android project. it’s nice to crave it again :)
+
+brett was out on travel all last week, so instead of sitting at home in the dark on st. patty’s day, i asked my mom if she would stay at the house while i went out with a bunch of friends from work. we started at the [bay street biergarten](http://baystreetbiergarten.com/), and made our way to [closed for business](http://www.closed4business.com/), [the cocktail club](http://www.thecocktailclubcharleston.com/), and finally… waffle house. it was an epic night–i got a tshirt, and had no hangover the next day. thank you, 2am hash browns and chocolate milk.
+
+saturday was the season opener for [the charleston battery](http://charlestonbattery.com/), charleston’s soccer team. it was also a big marketing event for a project i was part of, [GWIG – Go Where I Go](http://gwig.com). check it out and refer some companies! most of our team went, and a bunch of other SPARC folks. we met up for drinks before the game, and then made our way to the stadium. i’d never been to a soccer game, nor had i ever sat in a skybox in any stadium, so that was awesome.
+
+saturday night led to the planning of a triple date (plus caylin!) this week. 2 of the girls at work and their significant others will be going out to dinner with me, brett, and caylin thursday night. i only hope she behaves. she usually does when there are other people to distract her, but really, who knows at this point? it’s hit or miss these days.
+
+in early april, we’re having another product launch–[stre.am! request an invite!](http://stre.am) we’re going to be announcing it at [DIG SOUTH](http://www.digsouth.com/), which is pretty exciting. i am far more involved in this project than GWIG, so i’m nervous and excited at the same time. but it will be fun regardless. i’ve never been, and am stoked to attend this year. i need to go to more than just DEF CON every year. charleston’s tech industry is blowing up, and i have yet to take advantage of it.
+
+speaking of DEF CON, tickets are booked, and the all new (i’m redoing the entire thing, AND built an API for it this time around, AND built a web front end) [hacker tracker](https://play.google.com/store/apps/details?id=com.shortstack.hackertracker) is under way. i’m super excited about this–mostly because it’s going to be much better than the last one, and everything that went into it is stuff that i absolutely wanted to learn how to do this year, and i did it. i don’t gloat about being proud of myself that often, but in this case, i am.
+
+also in april, i signed up to run the i5K here in charleston. i don’t know what i was thinking but i’m kind of geeked about it. i’m not a good “social” exerciser? i guess? i hate working out in public. but it could be fun, and it’s hard not to be enticed by “five kilometers through three hundred years of history”. SPARC’s team is pirate themed, and judging by pictures from previous years, it will be fun. now i just need to run more. i probably should get some better running shoes, too, but… so expensive.
+
+ALSO in late april… this is huge as far as personal goals are concerned… i started building a powerpoint presentation for my very first [lunch and learn](http://management.about.com/od/trainingsites/a/LunchandLearn.htm) at SPARC. i haven’t really announced it aside from coworkers i’m close with, and HR for planning purposes, but i could not be more excited to go through with this. terrified, yes. but i feel like, the subject matter is my turf, and i’m comfortable with it, so i should (should, being the operative word here) nail it. nevertheless, it will be a learning/growing experience and i think it could even be enjoyable. i managed to work unicorns into the slides so… what could go wrong, right? right. as it stands, it’s entitled “AWS/LAMP/Wordpress/Bootstrap Extravaganza”, tagline “I am determined to make this shit fun.” i can’t wait. now i just need brett to go out of town again so i can rehearse in the bathroom without him hearing me sound awkward. i wish i was kidding.
+
+i didn’t really have a direction here, but after re-reading everything i wrote, i realize it kind of took a direction of its own. so much more lately i’m jumping at opportunities to do fun things and NEW things and get out and force myself out of my comfort zone. not to mention spending time with friends. balance is important, and even though i’m 27, and caylin is absolutely incredible, i’ve felt more OLD lately than ever. i don’t want to waste anymore time being bummed about things i missed out on (see aforementioned 2 year period of regret), so here’s to making shit happen. this year is on the up and up.

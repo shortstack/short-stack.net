@@ -1,0 +1,15 @@
+---
+date: '2010-02-03T13:33:31+00:00'
+favorite: false
+feature_image: ''
+format: markdown
+slug: less-than-three
+tags:
+- throwboy
+- valentine's day
+title: less than three
+---
+
+![less than three](/content/images/2010/02/chat_heart_pink_bknd.png "less than three")
+
+i love the idea behind [throwboy](http://throwboy.com), but i think $30 is far too much for a felt & polyfil pillow. still, it’s cute for valentine’s day. :)

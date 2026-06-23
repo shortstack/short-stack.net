@@ -1,0 +1,11 @@
+---
+date: '2008-06-22T19:13:35+00:00'
+favorite: false
+feature_image: ''
+format: markdown
+slug: adam
+tags: []
+title: Adam
+---
+
+i love you. :lovestruck:

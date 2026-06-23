@@ -1,0 +1,19 @@
+---
+date: '2005-09-28T03:43:35+00:00'
+favorite: false
+feature_image: ''
+format: markdown
+slug: braindead
+tags: []
+title: Braindead
+---
+
+today was one hell of a long day. i got to work around 11:30 this morning and was in raley hall from then until about 8PM. i think that’s a little too much for comfort… :biggrin: i did have a break when i went to accounting and when i went to get macado’s with brandi and as usual everyone in the office was goofing off all day but something about answering phones the whole time tends to make someone slowly lose their mind. i don’t know how i manage to get all the wacky ones… the ones that are foreign and not understandable or the ones that speak ebonics to the point where i can’t tell what they’re saying or the ones that are just plain too messed up to begin with. makes things interesting at least!!
+
+my accounting exam went well, i think. i hope. i never can tell how i did on a test so i’m just shooting for a B or an A. it was 50 multiple choice and then we had to calculate the net income, retained earnings, and create a balance sheet. then we had to write a few general journal entries for a company. the mult. choice were pretty easy. there were 1 or 2 that i flat out guessed on. the wording was kinda funky and i had no clue. the problems i liked for the most part but when i was writing out the balance sheet, it didn’t balance. apparently i had a brainfart and forgot that prepaid insurance isn’t a liability. that took me 30 minutes to weed out because at this point i was twitching from frustration. the kid behind me kept snorting and the speakers in the room all of a sudden turned on and were spitting out random static noises for about 10 minutes… that got a little nervewrecking!
+
+joe gave me a ride home (thank you for getting me out of raley!!!) and bryant and i went to dos amigos. i really was wanting a beer tonight but that didn’t happen. mexican was a good substitute and i sat and watched bryant drink his 32oz. dos equis and he sucks for drinking it in front of me. :angry: one of these days i’ll be able to buy one… one day.
+
+i came back to work on mullis’s computer since he brought it over last night and i didn’t get done with it. the video was all screwed up because somehow when he tried to uninstall norton and install mcafee (and whatever else he attempted to do to it) it went haywire. he set it to automatically boot into safemode under msconfig so since safemode’s video settings were all jacked that means nothing was visible so i had to freaking boot off an xp cd, find the boot.ini.backup and replace the current one with it and now i can finally boot it in regular mode but safe mode is still screwed and it is a lost cause. i uninstalled/reinstalled the video drivers and all that stuff and it’s still not doing a damn thing different. it’s like the screen is repeated 6 times over on the page and is slantways and squished together so it is literally impossible to read. i’ve never seen anything like it and i just told him to call dell. i wanna know what this kid did ’cause it is all kinds of messed up.
+
+i’m sleepy and i have to get up at 7 so i’m crashin’ out.

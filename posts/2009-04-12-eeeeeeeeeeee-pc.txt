@@ -1,0 +1,19 @@
+---
+date: '2009-04-12T14:52:04+00:00'
+favorite: false
+feature_image: ''
+format: markdown
+slug: eeeeeeeeeeee-pc
+tags: []
+title: Eeeeeeeeeeee PC!
+---
+
+![laptop](/content/images/2009/04/laptop.jpg "laptop")- Intel Celeron M ULV 900MHz processor
+- Integrated Intel GMA 900 GPU
+- 12GB of Flash-based storage (4GB onboard SSD and 8GB PCI-E mini card SSD)
+- 1GB of DDR2 RAM (667MHz)
+- 8.9-inch screen with 1024 x 600 resolution
+- Ports: 3 USB 2.0, 1 VGA monitor out, headphone jack, microphone input, SD card reader (SDHC compatible), Kensington lock slot, Ethernet 10/100
+- Webcam (1.3 MP)
+
+this is my new baby! thank you, brandon. :lovestruck: i installed [#!crunchbang](http://crunchbanglinux.org) on it last night and i have a feeling i will never be without it from now on.

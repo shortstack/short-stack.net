@@ -1,0 +1,11 @@
+---
+date: '2008-01-16T19:35:50+00:00'
+favorite: false
+feature_image: ''
+format: markdown
+slug: i-chuckled
+tags: []
+title: I Chuckled
+---
+
+[![](http://www.explosm.net/db/files/Comics/Kris/open.png)](http://www.explosm.net/db/files/Comics/Kris/open.png "www.explosm.net")

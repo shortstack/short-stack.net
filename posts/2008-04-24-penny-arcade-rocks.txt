@@ -1,0 +1,13 @@
+---
+date: '2008-04-24T11:02:25+00:00'
+favorite: false
+feature_image: ''
+format: markdown
+slug: penny-arcade-rocks
+tags: []
+title: Penny Arcade Rocks
+---
+
+i love it… :wink:
+
+[![](http://www.penny-arcade.com/images/2008/20080423.jpg)](http://www.penny-arcade.com/images/2008/20080423.jpg "Why Some People Shouldn't Use Twitter")

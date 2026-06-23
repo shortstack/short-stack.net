@@ -1,0 +1,13 @@
+---
+date: '2005-04-06T13:31:35+00:00'
+favorite: false
+feature_image: ''
+format: markdown
+slug: pictures-4
+tags: []
+title: Pictures
+---
+
+these are the links to the last few batches i’ve uploaded lately. if you want the rest, just go under friends and sort by last modified and you can find them. [these](../pictures/friends/erics032305) are from another poker & beer night at eric’s apartment. [these](../pictures/friends/boone033005) are from when rob and brandi and i went to dos amigos in the back of james’s truck, feeding the ducks, and mine and jill’s girls’ night @ the LLC. [these](../pictures/friends/camping033105) are from camping with daniel, eric, and mike last week.
+
+and [these](../pictures/friends/6months040505) are from yesterday. :wink:

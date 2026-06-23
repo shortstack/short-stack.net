@@ -1,0 +1,49 @@
+---
+format: html
+nav: whoami
+nav_order: 1
+parent: ''
+slug: girl
+title: whoami
+---
+
+<ul>
+<li>in 2012, i gave birth to my babygirl, caylin &lt;3</li>
+<li>in 2017, i gave birth to twin girls, zoey &amp; ella &lt;3</li>
+<li>in 2024, i became a stepmama of 2 &lt;3</li>
+<li>i will never turn down a good adventure</li>
+<li>i like to <a href="http://github.com/shortstack">build things</a></li>
+<li>i graduated from appalachian state... a long, long time ago</li>
+<li>i can weld</li>
+<li>i love resin art, needle felting, and 3D printing</li>
+<li>i "wrote" <a href="https://angry.unicorns.lol/book">a book</a></li>
+<li><a href="https://angry.unicorns.lol">i draw weird things</a></li>
+<li>at one point in my life, <a href="/and-they-all-had-names/">i had 40 hermit crabs</a></li>
+<li>my hair has been every color except green</li>
+<li>i have logged a few hours in the air as an amateur cessna pilot, but ran out of time and money and motivation to get my license</li>
+<li><a href="https://www.youtube.com/watch?v=-Yd5_f9mtlM">i fit inside a newspaper stand</a>, and some <a href="http://whitfits.tumblr.com">other things</a></li>
+<li>i love <a href="/girl/concerts/">concerts and live music</a></li>
+</ul>
+<p><img src="/content/images/2025/01/bafkreicu3sw4jloes2tkqxp2svkh35xynv7yr5ugcnrdeep3wo3ovu6kfe-2.jpg" alt="" loading="lazy"></p>
+<p><img src="/content/images/2025/01/bafkreibyowldmcdtqnrtdkuylfdzsf7osoxcs3vw4o7ejvsjbrpekekjzy.jpg" alt="" loading="lazy"></p>
+<p><img src="/content/images/2025/01/bafkreifvyynb2qcqzftxkzhmklmmymohz557ve5uwbhoi5o5eljhfqelpy.jpg" alt="" loading="lazy"></p>
+<p><img src="/content/images/2018/04/me-caylin.jpg" alt="" loading="lazy"></p>
+<p><img src="/content/images/2017/06/IMG_3486-700x467.jpg" alt="" loading="lazy"></p>
+<p><img src="/content/images/2014/09/20140727_0930082-1024x576.jpg" alt="20140727_093008" loading="lazy"></p>
+<p><img src="/content/images/2007/08/loki_thor-700x525.jpg" alt="loki_thor" loading="lazy"></p>
+<p><img src="/content/images/2007/08/caylin-700x467.jpg" alt="caylin" loading="lazy"></p>
+<p><img src="/content/images/2007/08/me_caylin-700x385.jpg" alt="me_caylin" loading="lazy"></p>
+<p><img src="/content/images/2017/02/20170204_122722-700x933.jpg" alt="" loading="lazy"></p>
+<p><img src="/content/images/2007/08/20170603_113350-1-700x1244.jpg" alt="" loading="lazy"></p>
+<p><img src="/content/images/2007/08/WhitneyChampionTwinNewbornSessionImage23.jpg" alt="" loading="lazy"></p>
+<p><img src="/content/images/2007/08/WhitneyChampionTwinNewbornSessionImage6.jpg" alt="" loading="lazy"></p>
+<p><img src="/content/images/2007/08/20170607_094745-700x394.jpg" alt="" loading="lazy"></p>
+<p><img src="/content/images/2020/11/dec02-1.jpg" alt="dec02-1" loading="lazy"></p>
+<p><img src="/content/images/2020/11/jan07-1.jpg" alt="jan07-1" loading="lazy"></p>
+<p><img src="/content/images/2020/11/jul01-1.jpg" alt="jul01-1" loading="lazy"></p>
+<p><img src="/content/images/2020/11/jul05-1.jpg" alt="jul05-1" loading="lazy"></p>
+<p><img src="/content/images/2020/11/may07-1.jpg" alt="may07-1" loading="lazy"></p>
+<p><img src="/content/images/2020/11/oct08-1.jpg" alt="oct08-1" loading="lazy"></p>
+<p><img src="/content/images/2020/11/oct22-1.jpg" alt="oct22-1" loading="lazy"></p>
+<p><img src="/content/images/2020/11/sep02-1.jpg" alt="sep02-1" loading="lazy"></p>
+<p><img src="/content/images/2025/01/bafkreiddebv5sj2ptub2nr5zzcmlw3ke4oplxryf5hvinwvx7on7cwduku.jpg" alt="" loading="lazy"></p>

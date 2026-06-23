@@ -1,0 +1,103 @@
+name: publish-post
+
+on:
+  issues:
+    types: [labeled]
+
+permissions:
+  contents: write
+  issues: write
+  id-token: write
+
+concurrency:
+  group: publish-post-${{ github.event.issue.number }}
+  cancel-in-progress: false
+
+jobs:
+  publish:
+    # only when the owner adds the "publish" label to a not-yet-published post issue
+    # (sender check = even on a public repo, only shortstack can ever trigger a publish)
+    if: >-
+      github.event.sender.login == 'shortstack' &&
+      github.event.label.name == 'publish' &&
+      contains(github.event.issue.labels.*.name, 'post') &&
+      !contains(github.event.issue.labels.*.name, 'published')
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+          cache: pip
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Parse issue form
+        id: parse
+        uses: stefanbuck/github-issue-parser@v3
+        with:
+          template-path: .github/ISSUE_TEMPLATE/new-post.yml
+
+      - name: Generate post
+        id: gen
+        env:
+          POST_TITLE: ${{ steps.parse.outputs.issueparser_title }}
+          POST_TAGS: ${{ steps.parse.outputs.issueparser_tags }}
+          POST_FAVORITE: ${{ steps.parse.outputs.issueparser_favorite }}
+          POST_BODY: ${{ steps.parse.outputs.issueparser_body }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          export NOW_ISO=$(date -u +%Y-%m-%dT%H:%M:%SZ)
+          python issue_to_post.py
+
+      - name: Commit post
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add posts/
+          [ -d content/images ] && git add content/images/ || true
+          git diff --staged --quiet || git commit -m "post: ${{ steps.gen.outputs.slug }} (#${{ github.event.issue.number }})"
+          git push
+
+      - name: Configure AWS credentials (OIDC)
+        uses: aws-actions/configure-aws-credentials@v4
+        with:
+          role-to-assume: arn:aws:iam::762130055263:role/ssnet-blog-deploy
+          aws-region: us-east-1
+
+      - name: Build & deploy
+        env:
+          SSNET_AWS_PROFILE: ""
+        run: python publish.py
+
+      - name: Comment, label, close
+        uses: actions/github-script@v7
+        env:
+          GEN_URL: ${{ steps.gen.outputs.url }}
+          GEN_WARNINGS: ${{ steps.gen.outputs.warnings }}
+        with:
+          script: |
+            const url = "https://short-stack.net" + (process.env.GEN_URL || "");
+            const warns = process.env.GEN_WARNINGS || "";
+            let body = `✅ Published: ${url}`;
+            if (warns.trim()) body += `\n\n⚠️ Warnings:\n${warns}`;
+            await github.rest.issues.createComment({
+              ...context.repo, issue_number: context.issue.number, body });
+            await github.rest.issues.addLabels({
+              ...context.repo, issue_number: context.issue.number, labels: ['published'] });
+            await github.rest.issues.update({
+              ...context.repo, issue_number: context.issue.number, state: 'closed' });
+
+      - name: On failure, report and unlock
+        if: failure()
+        uses: actions/github-script@v7
+        with:
+          script: |
+            const run = `${context.serverUrl}/${context.repo.owner}/${context.repo.repo}/actions/runs/${context.runId}`;
+            await github.rest.issues.createComment({
+              ...context.repo, issue_number: context.issue.number,
+              body: `⚠️ Publish failed — see the [Actions log](${run}). Removed the \`publish\` label; fix and re-add it to retry.` });
+            await github.rest.issues.removeLabel({
+              ...context.repo, issue_number: context.issue.number, name: 'publish' }).catch(() => {});

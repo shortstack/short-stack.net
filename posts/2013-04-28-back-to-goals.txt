@@ -1,0 +1,52 @@
+---
+date: '2013-04-28T20:58:41+00:00'
+favorite: false
+feature_image: ''
+format: markdown
+slug: back-to-goals
+tags:
+- caylin
+- certifications
+- garden
+- goals
+- house
+title: Back to Goals
+---
+
+a year ago february, we went over our personal and professional goals at work with our leads. a year ago february, [i wrote a post about it](http://short-stack.net/when-questioned-about-goals/). these were my goals:
+
+1. take the red hat security exam in june
+2. have this baby
+3. move into a house as soon as we’re financially able
+4. learn to raise said baby
+
+so i can cross off #1. i took the course and the exam. didn’t pass the exam, but retained what i learned in class, and have every intent of taking it again. but it will be a while before i can just throw $800 at a test, or any more thousands of dollars at red hat training. that is just no longer an option. my dreams of working toward my RHCA are very much on hold for the foreseeable future.
+
+i can cross off #2–caylin IS our life now, and it’s incredible.
+
+# 3–happening in 1 month. the house is slated to be done may 23. loki and caylin will finally have their backyard. this makes me excited just thinking about it. the day caylin gets a jungle gym, i am gonna be ALL OVER THAT. I CAN’T WAIT TO RELIVE MY CHILDHOOD. hello, trampoline!!! hello, monkey bars!!! also, hellooo debt!
+
+# 4–this will be ongoing for the next 18 years, at least. and it’s awesome and scary all at the same time.
+
+i learned how to fly a plane (not licensed, but i did it long enough to take off/land/control it myself with a “chaperon”). i learned how to weld. i reached over a million downloads on my apps in the android market. i have a job that i love. i have the cutest baby on the planet. i married the love of my life.
+
+so now what? besides being completely happy where i am in life, gotta have something to move toward.
+
+i was thinking about this when i was in the shower last night, of all places. but it finally dawned on me. i DO know what my goals are going forward, and i’m already on my way to reaching at least one of them. and that is to get in SHAPE.
+
+for the first time in my entire LIFE. i have never worked out and kept at it. i’ve never been happy with my body. not even when i did gymnastics regularly. i’ve never felt good or fit or any of that, and for the first time ever, EVER, i can see and feel my body changing. my mood changing. it is phenomenal. and now that i have actually seen results, i don’t want to quit. and i want to keep at it. and i look forward to it. which has also never happened. not even with zumba, sadly. though that was fun while it lasted. thank you, [nike training club](http://www.nike.com/us/en_us/c/womens-training/apps/nike-training-club).
+
+it’s been over a month and i’ve worked out almost every day, only missing 1 day a week. 2 at the most. once when we were out of town, and once last weekend when i was too hungover. fail.
+
+my other goal will be on hold until we get the house. i want to build a vegetable garden. our new neighbors have one, and if they can do it, i can do it. they are about our age, with an 18 month old little girl. *cough* caylin’s new BFF *cough* i hope. she’s adorable. she even tried to give caylin a hug but then got too shy–caylin thought it was hilarious.
+
+and for a professional goal–continue to work on openstack at work. it’s good stuff to know, and i’m having a lot of fun with it. also keep getting better at puppet, and everything else i do for my project. i’m surrounded by geniuses at sparc, and i learn something new every day.
+
+so that’s it.
+
+1. get in shape
+2. grow a vegetable garden
+3. openstack
+4. puppet
+
+oh, and get a tan. one that doesn’t have to be sprayed on. one day.

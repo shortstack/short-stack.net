@@ -1,0 +1,21 @@
+---
+date: '2009-03-22T16:37:07+00:00'
+favorite: false
+feature_image: ''
+format: markdown
+slug: django-netbeans-pizza
+tags: []
+title: Django, NetBeans, Pizza
+---
+
+last week a couple representatives from TRS Consulting and CGI came and spoke at our AITP meeting. had i known that the guys from TRS Consulting would introduce me to [virtual](http://netbeans.org) [crack](http://djangoproject.com), i might not have attended. :mad:
+
+the guy that gave the presentation basically did a quick introduction to [NetBeans](http://netbeans.org). absolutely brilliant and very dorky man. after he spoke, i quickly informed him that i was to become his new best friend. he and his coworker invited me to join them at murphy’s (awesome little pub in boone) and had i not been stuck in the library until midnight that night, i would have gone. ANYWAY, NetBeans. :) he showed us very briefly how to make a basic web application in a matter of minutes. my response to that was, “so you can recreate [Twitter](http://twitter.com) in like 3 hours?”. his response–“yes”.
+
+of course, i knew that a simple web application like Twitter could be created through a framework like this–i just never realized how (i don’t want to say easy because if it was easy i wouldn’t have lost so much sleep this week) tools like NetBeans and [Django](http://djangoproject.com) have minimized development time.
+
+basically, i have gotten nothing of importance done today at all. adam and i woke up around noon. for the last 4 hours, he’s been playing COD4 yelling at his roommate who is 10 feet away in the living room and i’ve been laying next to him staring at the terminal ~~coding away~~ breaking things. i said, “i’m hungry”, and he pulled up dominos.com, threw me the credit card, and we went on in our little worlds. i’d also like to add that it is a gorgeous, sunny day outside. o\_0 THIS IS PATHETIC.
+
+with that said, i just created my ~~first~~ second “web application”, if you could even call it that, with Django. i created my first “web application” on NetBeans after my meetings the other night. let’s just say… that it involved unicorns. :blush: my second one is a bit more “sophisticated”. when i say sophisticated, i mean it does not include any imaginary creatures or references to weird body parts. to create my second “web application”, [i followed this tutorial on Django’s website](http://docs.djangoproject.com/en/dev/intro/tutorial01/) and have tweaked it enough to know what i’m doing now. definitely one of the best tutorials i’ve tried out for this sort of thing so far.
+
+i have justified my lack of exercise and sunshine today with 2 excuses: 1) i now have something else to put on my resume AND 2) the “web application” i created actually works. HA! days like today are when i really can’t wait until i start working and can invest in a Wii Fit.

@@ -1,0 +1,11 @@
+---
+date: '2008-02-19T14:08:19+00:00'
+favorite: false
+feature_image: ''
+format: markdown
+slug: marshmallows-never-seemed-so-entertaining
+tags: []
+title: Marshmallows Never Seemed So... Entertaining
+---
+
+i saw this video linked on [Dooce](http://dooce.com) but i couldn’t not pass it along.

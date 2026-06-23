@@ -1,0 +1,33 @@
+---
+date: '2011-04-24T20:42:21+00:00'
+favorite: true
+feature_image: ''
+format: markdown
+slug: setting
+tags:
+- cert
+- linux
+- raleigh
+- red hat
+- RHCE
+- RHCSA
+title: Official Red Hatter
+---
+
+![RHCE](/content/images/2011/04/RH_CertifiedEngineer_logo_rgb.jpg "RHCE")
+
+this was by far the hardest goal i’ve set for myself so far… pretty much ever. getting my RHCSA and RHCE in one week. i’ve wanted to do this since college. since before i even got into security. basically since i knew what red hat was, i knew this was something that had to happen in the future, but i had neither the knowledge nor the money to get there.
+
+so here i am, 5-6 years later. a much more experienced linux user. and i have a job that can pay for training. so… last october i submitted a training request to have my company send me up to raleigh for a week to complete the red hat rapid track course, and FINALLY, finally, it happened last week.
+
+and i can’t tell you how glad i am that i made myself do this. i learned *so much*. granted, i was completely braindead and drained by friday afternoon. i am amazed at how much was accomplished in just 4 short days (the last day was exams, so no training).
+
+and i have never had an instructor so knowledgeable AND willing to help AND with the capability to teach something so complex without fail. i gave him glowing reviews on the class survey.
+
+with that said… i got certified. i stayed up until 2:30-3 AM ~~friday night~~ saturday morning waiting for my exam results and i think my heart skipped a beat every time i got a new e-mail. i hate that feeling after an exam. especially one this expensive, not to mention important to me. i think i’d still be crying if i’d failed it.
+
+enough rambling… because this is the part that matters:
+
+[![RHCSA](/content/images/2011/04/RHCSA.png "RHCSA")](/content/images/2011/04/Whitney_Powell_RHCSA.pdf)[![RHCE](/content/images/2011/04/RHCE.png "RHCE")](/content/images/2011/04/Whitney_Powell_RHCE.pdf)
+
+YAAAYUH. :cry:

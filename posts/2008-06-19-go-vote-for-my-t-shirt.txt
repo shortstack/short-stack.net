@@ -1,0 +1,11 @@
+---
+date: '2008-06-19T19:12:21+00:00'
+favorite: false
+feature_image: ''
+format: markdown
+slug: go-vote-for-my-t-shirt
+tags: []
+title: GO VOTE FOR MY T-SHIRT!
+---
+
+[![My Threadless.com Submission ](http://www.threadless.com/subbanner/166589/banner1.png)](http://www.threadless.com/submission/166589/Ice\_Cream\_Sad\_Day)

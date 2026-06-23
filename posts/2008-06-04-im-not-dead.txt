@@ -1,0 +1,11 @@
+---
+date: '2008-06-04T15:21:42+00:00'
+favorite: false
+feature_image: ''
+format: markdown
+slug: im-not-dead
+tags: []
+title: I'm Not Dead...
+---
+
+just busy. i’ll post this evening. lots to talk about. :crazy2:

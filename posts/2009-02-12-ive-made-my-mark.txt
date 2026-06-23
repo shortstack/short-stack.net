@@ -1,0 +1,11 @@
+---
+date: '2009-02-12T20:56:46+00:00'
+favorite: false
+feature_image: ''
+format: markdown
+slug: ive-made-my-mark
+tags: []
+title: I've Made My Mark
+---
+
+my buddy [leander](http://one-button.org) just went to macado’s (local restaurant/pub in boone) and [found this on his table](http://twitpic.com/1ga8s). i will never leave boone. :happy:

@@ -1,0 +1,22 @@
+---
+date: '2013-02-13T11:15:44+00:00'
+favorite: false
+feature_image: ''
+format: markdown
+slug: my-favorite-chili
+tags: []
+title: My Favorite Chili
+---
+
+cook up some rotini pasta and set aside.
+
+brown 1 lb of ground beef in a pan  
+add 1 can of light red kidney beans, drained
+
+in a pot (this could also be done in a slow cooker), pour in 2 cans of tomato soup and 1 cup of water  
+add chili powder, cayenne, red pepper, and black pepper to taste  
+pour in beef and bean mixture
+
+cook over low/med heat for a little while (this is totally up to you)
+
+pour over rotini pasta and throw some cheese on top (i love to add a slice of american cheese) :)

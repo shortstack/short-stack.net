@@ -1,0 +1,11 @@
+---
+date: '2007-12-12T15:28:05+00:00'
+favorite: false
+feature_image: ''
+format: markdown
+slug: london-bound
+tags: []
+title: London Bound
+---
+
+hopefully, the next time i post will be from our hotel room in england! :lol: SO EXCITED!

@@ -1,0 +1,11 @@
+---
+date: '2002-09-02T16:37:35+00:00'
+favorite: false
+feature_image: ''
+format: markdown
+slug: 09-02-02-3
+tags: []
+title: 09/02/02
+---
+
+so much for the ‘not pink’ idea… i’m an idiot.

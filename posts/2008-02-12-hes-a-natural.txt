@@ -1,0 +1,9 @@
+---
+date: '2008-02-12T10:25:06+00:00'
+favorite: false
+feature_image: ''
+format: markdown
+slug: hes-a-natural
+tags: []
+title: He's a Natural ;)
+---

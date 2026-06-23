@@ -1,0 +1,15 @@
+---
+date: '2008-08-08T12:21:08+00:00'
+favorite: false
+feature_image: ''
+format: markdown
+slug: tweakpng
+tags: []
+title: TweakPNG
+---
+
+i’ve been working on a friend of mine’s website for the past week and a half or so and, as usual, i’ve been having the damnedest time getting everything to look identical in internet explorer. everything validates finally, but i was having trouble with PNGs looking different between browsers. i’ve never had this problem until now, but i found a program that fixes the color change in IE. it’s called [TweakPNG](downloads/tweakpng.exe) and it is awesome.
+
+all you have to do is open the PNG file with the program, delete the gAMA entry, save, and voile! your image will look identical in IE and it is now cross-browser friendly. :)
+
+:upyours: that’s for you, microsoft.

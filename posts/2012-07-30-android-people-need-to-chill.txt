@@ -1,0 +1,38 @@
+---
+date: '2012-07-30T19:09:14+00:00'
+favorite: false
+feature_image: ''
+format: markdown
+slug: android-people-need-to-chill
+tags:
+- android
+- angry birds
+- angry birds backup
+- dev
+- emulator
+- ice cream sandwich
+- jellybean
+title: Android People Need To Chill
+---
+
+seriously, dude. there are some crazy ones in google play. and as the number of apps i have available increases, so does my number of wacky emails. some guy actually wrote me an email just to tell me that i was stupid.
+
+this weekend, an issue came up that affected *only* devices running android ice cream sandwich. why this didn’t come up a bit earlier, i have no clue. maybe it hadn’t been pushed to enough devices yet. nevertheless, the issue came up. i got like 8 emails telling me the same thing. half of them panicking and saying something along the lines of, “THIS APP SUCKS, FIX IT OMG”. of course, there were some normal ones in there, too, politely describing the issue. people who understand that there is actually a real human receiving these complaints and not some robot. but most of the time, it’s like… fix it or die. no error messages to go off of, no details, just a lot of frustration and generally very grammatically incorrect anger. or random foreign languages, which… i have completely given up on. sorry. google translate only goes so far.
+
+bottom line, if you send me a bitchy email, you *will* get a bitchy response. especially now that i’m 8 months pregnant and would like nothing more than to throat punch some of the people who email me like their life depends on these game scores. let’s get real for a second–if you are absolutely FREAKING OUT that you can’t get to your scores *right now*, you need to check your priorities.
+
+i am as addicted to angry birds as the next person. i understand that you’ve spent an unbelievable amount of hours trying to get those 3 little stars on every level. i have, too. and even more on these apps. but… there are more important things. it’s a game, people. *it’s only a game.*
+
+anyway, i started working on the fix yesterday. it was brett’s birthday and all he wanted to do was watch the olympics, play xbox, and be lazy, so i geeked out in front of the computer for like 9 hours until i felt like my eyes were bleeding.
+
+the only way to even start on a fix was to find an old phone that i could root and put ice cream sandwich on, since i don’t want to brick my phone or my tablet. i would’ve used an emulator, but as i’ve found out in the past, it’s a pain in the ass to get those rooted *and* working correctly with su. documentation for it on newer versions of android is lacking. and they’re slower. aaand the best part–the emulators don’t work in 64bit linux with an nvidia graphics card. as much as i love nvidia, it seems like they are the source of far too many of my headaches.
+
+so i threw CM7 on an old htc incredible and was finally able to replicate the issue that everyone was freaking out over. what should’ve been a simple fix took entirely too long. between permission errors on the newly rooted phone and trying to use threads properly, it was a pain in the ass.
+
+the only proper java training i’ve had was in the 12th grade. that was 8 years ago. *i don’t remember any of it.* so when i started writing these angry birds apps, i had to learn java all over again. and then 6 months later when i got the balls to do a code review of my own code, i was horrified at what the 6-months-ago-me considered acceptable. so i rewrote all of the apps. and it’s a lot better now. and a lot more commented (thank god). but i’m still learning. and threads are one thing i never dealt with a lot.
+
+around 10:30 last night, i finally got everything working with ice cream sandwich. pushed out updates to the market. emailed every angry androidian back saying the issue was resolved. went to bed feeling like i’d achieved a little something.
+
+and then i woke up to 3 more emails complaining that the apps don’t work in jellybean. FOR THE LOVE OF GOD. I KNOW IT DOESN’T WORK. so do the 6 other android developers making angry birds backup applications. it even says that in every app description i wrote. it never ends. for what it’s worth, the apps AREN’T GOING to work in jellybean unless rovio and/or jellybean revert some permission changes that they made. the only way around it right now is for people with rooted devices. and i’m working on a fix for those people. the rest of them are just gonna have to sit and wait with their panties in a wad.
+
+i need a glass of wine.

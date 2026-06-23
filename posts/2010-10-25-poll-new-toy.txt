@@ -1,0 +1,24 @@
+---
+date: '2010-10-25T13:57:54+00:00'
+favorite: false
+feature_image: ''
+format: markdown
+slug: poll-new-toy
+tags:
+- 3d printer
+- makerbot
+- poll
+- toys
+- welder
+title: 'Poll: New Toy '
+---
+
+brett and i are moving in less than a month to a new townhouse. this townhouse happens to have a huge garage. a garage means i will have a big space for a work bench, that could possibly become home to a new MIG welder and all of my necessary equipment to being welding outside of the classroom, and hopefully without any subsequent electrocution. i don’t really know what i want to make yet. i just know it will happen.
+
+BUT. today, with a little help and inspiration from twitter, i ran across [the MakerBot Cupcake CNC ultimate kit](http://store.makerbot.com/cupcake-cnc-ultimate.html). A FREAKING TINY OPEN SOURCE 3D PRINTER. the best part about it is, **i get to build it myself**, allowing me to [hopefully] become better at soldering and doing crap like this that i never get to do on a daily or even yearly basis. it seems like a lot of fun. and then when it’s all said and done, i can begin making tiny little thingymajiggers of my choosing, assuming i can create a model of a miniature [whatever it is that i want to make].
+
+i just can’t decide. i want help from the internet so that, if anything, i will know what i *really* want to do when someone tells me to go buy a welder and i realize that is not at all what i want to do, or vice versa. if that makes sense.
+
+so… what do you guys think?
+
+[What Should I Get Next?](http://polldaddy.com/poll/3983685/)[online surveys](http://polldaddy.com/features-surveys/)

@@ -1,0 +1,38 @@
+---
+date: '2018-02-20T10:51:09+00:00'
+favorite: false
+feature_image: ''
+format: markdown
+slug: there-and-back-again
+tags:
+- career
+- red hat
+- SPARC
+title: There And Back Again
+---
+
+i had to make a really hard decision last week.
+
+**tl;dr** – i have decided to leave red hat and go back to booz allen / SPARC.
+
+when i took my position at red hat 6 months ago, i had never worked from home full time before. i also knew that most of the team would be traveling a bit more than i’d be able to, but i said i’d travel as much as i could. my manager was ok with that. travel ended up being about 25-30%, which was a good balance for the family. if we didn’t have 2 infants it would’ve made things a little different, but it is what it is and that was where we all landed.
+
+i loved the bit of travel i did have, because it allowed me the face time and coworking time with my teammates and clients, since most of my days are spent tied to my desk and my phone or a bluejeans conference. it also disrupted the monotony, and it got me out of my head.
+
+if any of you have been clued into the last 6 months of my life, postpartum has been an issue/depression in general, thyroid issues (which have since been resolved), hormonal imbalances, a handful of other things going on. these factors, in combination with life with twin babies and a crazy 5 year old, career change… it has been anything but boring.
+
+brett started working from home full time in january since he took a new job, which is great for him. but it also means that we’re here at home all day every day, and so is my mom who takes care of the babies during the day. so not only are we all under one roof 24/7, but i haven’t really seen anyone else in charleston since i started at red hat, aside from literally a handful of lunches and a couple nights out.
+
+i can count the number of times i’ve gotten dressed (and not just going from pajamas to my workout clothes), put makeup on, and gone out during the day on 2 hands.
+
+i’ve been going downhill fast.
+
+upside: i’ve learned a lot. i’ve learned that i can’t work from home this much. i can’t be alone this much. i need to be around other people more than once a month. more than once a week. i need to work with a team and feel like i’m adding value on a daily basis. this is huge for my confidence, productivity, self worth. i need a full plate. i can’t be tied to my phone and my desk. i need to get up and get dressed and go to an office and be productive. i need to be actively involved.
+
+i’ve been a red hat fangirl [for many years now](http://short-stack.net/achievement-unlocked-rhca/). this was supposed to be my dream job. this is not at all how i imagined this going.
+
+red hat has been amazing to me. and my team… the architect team is full of some of the smartest and most incredible people i’ve ever met in my life. i have loved getting to know these nerds. part of what made it such a hard decision. the timing and circumstances were just not in my favor.
+
+that said, last week i accepted an offer to go back to booz allen. i’ll be going “home” to SPARC, and i’m excited to do awesome things there.
+
+on to the next chapter. <3

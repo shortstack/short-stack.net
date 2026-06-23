@@ -1,0 +1,11 @@
+---
+date: '2002-11-04T16:44:00+00:00'
+favorite: false
+feature_image: ''
+format: markdown
+slug: 11-04-02-2
+tags: []
+title: 11/04/02
+---
+
+and yet another COPIER!!! people... what is the POINT! when my counter shows exit pages on URLs other than mine, i know something's a little messed up.

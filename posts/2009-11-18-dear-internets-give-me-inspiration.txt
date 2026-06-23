@@ -1,0 +1,15 @@
+---
+date: '2009-11-18T20:32:00+00:00'
+favorite: false
+feature_image: ''
+format: markdown
+slug: dear-internets-give-me-inspiration
+tags: []
+title: Dear Internets, Give Me Inspiration!
+---
+
+i can’t always tell what you guys enjoy reading about. i’ve noticed that the posts that spike the most interest are ones wherein i make myself look like an idiot. while this is probably true, i still wanna hear it from you. :grin:
+
+send me ideas, questions, or whatever you think i should write about or post on here. i’ve also thought about video blogging but i think my voice sounds like that of a 5 year old. *tell me what you want*! just keep it “tame”. please.
+
+[contact-form 2 “Ask”]

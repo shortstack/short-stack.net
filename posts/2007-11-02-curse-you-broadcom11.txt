@@ -1,0 +1,15 @@
+---
+date: '2007-11-02T23:22:38+00:00'
+favorite: false
+feature_image: ''
+format: markdown
+slug: curse-you-broadcom11
+tags: []
+title: Curse You Broadcom!!!!11
+---
+
+either fedora 7 does not like broadcom wireless cards or my laptop just does not and will never like linux of any flavor. ever. my wireless is still not working. i have tried everything under the sun. when i say everything, i mean everything that i could possibly find on google and forums and wikis and every bit of documentation i could get my hands on.
+
+out of 254 people in the #fedora channel, not one has responded. i’m guessing this is either because 1) they know that i am doomed for failure, or 2) they are enjoying their friday night like normal people and are not sitting inside staring at a terminal window wondering WTF all these errors are for and are less concerned about their wireless connection, and more importantly concerned about booze.
+
+FSCK. :cry:

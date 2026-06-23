@@ -1,0 +1,13 @@
+---
+date: '2006-08-07T05:10:19+00:00'
+favorite: false
+feature_image: ''
+format: markdown
+slug: dammit-2
+tags: []
+title: dammit
+---
+
+uh.. my power supply died on my server. so the pictures are down… AGAIN. they’ll be up soon, i hope. it should only cost like $40 to replace. it’s just a pain in the ass. oh well.
+
+i’m moving monday! next monday, not today.

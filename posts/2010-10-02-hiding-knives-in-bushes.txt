@@ -1,0 +1,73 @@
+---
+date: '2010-10-02T16:11:02+00:00'
+favorite: false
+feature_image: ''
+format: markdown
+slug: hiding-knives-in-bushes
+tags:
+- concert
+- jason aldean
+- lee brice
+title: Hiding Knives In Bushes
+---
+
+[![me & brett](/content/images/2010/10/63881_721471752958_29700336_40235424_5137943_n.jpg)](/content/images/2010/10/63881_721471752958_29700336_40235424_5137943_n.jpg) brett and i went to see jason aldean friday night. this was the first country concert he and i have been to together, and i think, after last night’s experience, that we should go to many more in our future. we had *so much fun*.
+
+i left work and stopped at tj-maxx, thinking i would find something cute to wear to the concert, because i feel like i always wear the same things when i go out. so, i found like 4 dresses for $12 each, bought them, and didn’t even wear a single one! ridiculous! instead, i pouted in my bathroom, washed my hair, put on my make-up, and threw on my camo pants and a defcon t-shirt.
+
+which was exactly what i had been trying to avoid.
+
+i wore the exact same clothes last night that i wore to the avenged sevenfold concert a few weeks ago, and also almost every time he and i have gone out to the bar in the past 6 months. i’m a creature of comfort, and an idiot for thinking i could act otherwise.
+
+[![jason aldean](/content/images/2010/10/62455_721472955548_29700336_40235493_416247_n.jpg)](/content/images/2010/10/62455_721472955548_29700336_40235493_416247_n.jpg) brett had already arranged for a cab to pick us up (both of us wanted to drink and have a good time) so while he went to the store to buy some airplane bottles, i finished off the whiskey in the freezer. which was… 4 and a half shots exactly. seeing as how the cab was going to be at the apartment in 10 minutes, i had no choice other than to do them all in a row. and i don’t think i had ever done that until last night. i probably also shouldn’t do it ever again.
+
+when we got to the coliseum, i wasn’t paying attention and realized i still had my knife in my purse. i already had brett’s airplane bottles of the [worst alcohol ever](http://twitpic.com/2tr9zf) (i have no idea what he was thinking, they were $0.99, and usually i take that as a sign NOT to buy it, whatever, he drank it, not me) in my cargo pockets, since security never checks girls’ pockets, only purses. so i really don’t know why i didn’t just throw my knife in my cargo pocket along with the liquor. again, i’m an idiot.
+
+instead, i handed it to brett all covert-like and he hid it in a freaking bush outside of the coliseum. more specifically, the 3rd bush on the left. i’m not even kidding. and a cop was standing 40 feet away.
+
+we walked up, they searched my purse, and by searched, i mean they glanced at it, and let me walk right in. i could’ve had the liquor and my knife in there and a freaking grenade and a small child and no one would have known the difference. but it was too late, and my knife would have to stay in the bushes all night.
+
+brett was running ahead of me all in a hurry to get to the bathroom, i was like SLOW DOWN DUDE (i have little legs), he turned around and snapped CHILL OUT, and i did not like that at all. and i got super angry at him in like 0.5 seconds and went into bitch mode for the next 10 minutes. which would have been fine, but i have this thing where i don’t just snap out of bitch mode, it takes a few minutes for it to blow over. so he was upset that i was still upset, and kept TALKING about it, which was making me even more upset, so i was finally like YOU’RE MAKING IT WORSE DAMMIT. and he went to get us some beers.
+
+by the time he got back to our seats, i was fine. and everything was peachy keen after that. i just needed a moment.
+
+and then my moment was interrupted by the 16 year old girl behind us, with braces, shorts that could’ve doubled as underwear, and a scream that could very possibly shatter glass had our beer bottles not been made out of plastic. my god, it was so shrill that i nearly doubled over every time i heard it for the rest of the night.
+
+the opening band performed, which i really liked. i don’t remember the name, but they sounded kind of like the dixie chicks only they were australian. they were super twangy and i freaking loved it.
+
+lee brice played, and of course, he played brett’s favorite song of his as soon as he got up to go pee. i got to enjoy it with the screaming chick. lucky me.
+
+[![jason aldean](/content/images/2010/10/62321_721472501458_29700336_40235478_5678640_n.jpg)](/content/images/2010/10/62321_721472501458_29700336_40235478_5678640_n.jpg) brett came back and then i had to pee, so i went up to the girls’ bathroom which was, you know, a mile long. went in, came out, and went to wash my hands when some girl was like, “OH MAH GAAAAHHHHDD i love your outfit!!!!!” i so badly wanted to respond with, “dude, i wore this shit to work today” or something else bitchy and smart-assed (fake compliments are 100 times worse than insults), but instead i just smiled and said thank you. but not before she gave me a half-hug and simultaneously stabbed me in the damn shoulder with her razor sharp and pointy fake nails. OW.
+
+the rest of the night was amazing. jason aldean put on a really good show, and we sang our damn hearts out. he got on stage and was like, “WHO CAME WITH THEIR BFF’S TONIGHT?!” and brett and i, being drunken dorks at that point, turned to each other, threw our beers in the air and just *screamed* like hell.
+
+we got home and brett was struggling more than i was, thanks to his superb liquor choice of the evening, so he just kinda sat on the couch and stared at the TV. i, on the other hand, chugged water and stuffed my face with chicken legs and mashed potatoes until i was positive that my hangover-to-be had been minimized to an acceptable level.
+
+#gallery-5 {
+margin: auto;
+}
+#gallery-5 .gallery-item {
+float: left;
+margin-top: 10px;
+text-align: center;
+width: 33%;
+}
+#gallery-5 img {
+border: 2px solid #cfcfcf;
+}
+#gallery-5 .gallery-caption {
+margin-left: 0;
+}
+/\* see gallery\_shortcode() in wp-includes/media.php \*/
+
+[![](/content/images/2010/10/33615\_721471907648\_29700336\_40235436\_3672072\_n-150x150.jpg)](/content/images/2010/10/33615\_721471907648\_29700336\_40235436\_3672072\_n.jpg)
+
+[![](/content/images/2010/10/40729\_721472830798\_29700336\_40235482\_2596839\_n-150x150.jpg)](/content/images/2010/10/40729\_721472830798\_29700336\_40235482\_2596839\_n.jpg)
+
+[![](/content/images/2010/10/40729\_721472855748\_29700336\_40235487\_652160\_n-150x150.jpg)](/content/images/2010/10/40729\_721472855748\_29700336\_40235487\_652160\_n.jpg)
+
+[![](/content/images/2010/10/40729\_721472870718\_29700336\_40235490\_1582352\_n-150x150.jpg)](/content/images/2010/10/40729\_721472870718\_29700336\_40235490\_1582352\_n.jpg)
+
+[![](/content/images/2010/10/62321\_721472486488\_29700336\_40235475\_1717113\_n-150x150.jpg)](/content/images/2010/10/62321\_721472486488\_29700336\_40235475\_1717113\_n.jpg)
+
+great concert, great night, and not much of a hangover. i love my BFF.

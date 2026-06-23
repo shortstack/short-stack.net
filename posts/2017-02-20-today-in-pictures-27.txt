@@ -1,0 +1,27 @@
+---
+date: '2017-02-20T22:35:26+00:00'
+favorite: false
+feature_image: ''
+format: markdown
+slug: today-in-pictures-27
+tags: []
+title: Today In Pictures
+---
+
+![](/content/images/2017/02/20170220_100007-700x525.jpg)
+
+![](/content/images/2017/02/20170220_114847-700x525.jpg)
+
+![](/content/images/2017/02/20170220_140331-700x525.jpg)
+
+![](/content/images/2017/02/20170220_140449-700x525.jpg)
+
+![](/content/images/2017/02/20170220_163029-700x525.jpg)
+
+![](/content/images/2017/02/20170220_163337-700x525.jpg)
+
+![](/content/images/2017/02/20170220_173031-700x933.jpg)
+
+![](/content/images/2017/02/Screenshot_20170220-115729-700x1244.png)
+
+![](/content/images/2017/02/Screenshot_20170220-115736-700x1244.png)

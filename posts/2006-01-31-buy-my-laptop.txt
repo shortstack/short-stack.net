@@ -1,0 +1,11 @@
+---
+date: '2006-01-31T18:28:37+00:00'
+favorite: false
+feature_image: ''
+format: markdown
+slug: buy-my-laptop
+tags: []
+title: Buy My Laptop!
+---
+
+go [here](http://cgi.ebay.com/ws/eBayISAPI.dll?ViewItem&item=6845202111&rd=1&sspagename=STRK%3AMESE%3AIT&rd=1) and buy it… so i can get rob’s. it’s in great condition and it is what i use for gaming (ut2k3, ut2k4, quake 3, CS, DoD, Battlefield, etc.). it’s awesome. i just need something smaller because, well, i’m small, my backpack is small, and it just works that way.

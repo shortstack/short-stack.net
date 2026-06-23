@@ -1,0 +1,18 @@
+---
+date: '2009-07-01T14:31:22+00:00'
+favorite: false
+feature_image: ''
+format: markdown
+slug: home-surveillance-system
+tags: []
+title: Home Surveillance System
+---
+
+a buddy of mine at work was throwing away a bunch of computer parts/gadgets that he no longer wanted and before he gave away the WHOLE BOX on craigslist (i yelled at him for not showing me this treasure chest of SWEET TOYS! before offering it up to creepy people on the internet :mad: ), i told him i wanted the set of cameras he had.
+
+i am now the proud new owner of 3 (maybe 4, i can’t remember) mini security cameras. [they’re kind of like these](http://cgi.ebay.com/1-3-Sony-CCD-Dome-Color-Camera-CCTV-420TVL-Security-Cam_W0QQitemZ220310879965QQcmdZViewItemQQptZLH_DefaultDomain_0?hash=item334b8d3edd&_trksid=p3286.c0.m14&_trkparms=65%3A12%7C66%3A2%7C39%3A1%7C72%3A1240%7C293%3A1%7C294%3A50) but not exactly.
+
+[![minicam](/content/images/2009/07/minicam1-271x300.jpg "minicam")](http://cgi.ebay.com/1-3-Sony-CCD-Dome-Color-Camera-CCTV-420TVL-Security-Cam\_W0QQitemZ220310879965QQcmdZViewItemQQptZLH\_DefaultDomain\_0?hash=item334b8d3edd&\_trksid=p3286.c0.m14&\_trkparms=65%3A12|66%3A2|39%3A1|72%3A1240|293%3A1|294%3A50)i recently reformatted my web server with centOS and am getting it set up just the way i want it. and now i’m going to install the [video capture card he gave me](http://store.bluecherry.net/Provideo\_PV\_143Na\_p/pv-143na.htm), get some serious extension cables for the cameras, and mount the cameras all over my apartment.
+[![vidcard](/content/images/2009/07/vidcard.jpg "vidcard")](http://store.bluecherry.net/Provideo\_PV\_143Na\_p/pv-143na.htm)i found this program called [ZoneMinder](http://zoneminder.com) that i’m going to try. it works with Linux AND the capture card which means… VOILA!! :grin: streaming home surveillance system. now i can watch loki and thor while i’m at work.
+
+since i forgot i didn’t have to work on friday, this will give a fun little project once i get bored of the pool. i will let everyone know how it works out. :happy:

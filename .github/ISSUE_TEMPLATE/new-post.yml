@@ -1,0 +1,35 @@
+name: New blog post
+description: Write a post; add the "publish" label when ready to go live.
+title: "[post] "
+labels: ["post"]
+body:
+  - type: input
+    id: title
+    attributes:
+      label: Title
+      placeholder: Crossfit Day 1 - Aftermath
+    validations:
+      required: true
+  - type: input
+    id: tags
+    attributes:
+      label: Tags (comma-separated)
+      placeholder: crossfit, life, update
+  - type: dropdown
+    id: favorite
+    attributes:
+      label: Favorite?
+      options:
+        - "no"
+        - "yes"
+      default: 0
+  - type: textarea
+    id: body
+    attributes:
+      label: Body
+      description: >-
+        Markdown. Drag-and-drop images directly into this box — the publish
+        Action downloads them and re-hosts them to S3 automatically.
+      placeholder: Write your post here...
+    validations:
+      required: true

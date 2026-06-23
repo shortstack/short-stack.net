@@ -1,0 +1,13 @@
+---
+date: '2008-07-15T22:59:08+00:00'
+favorite: false
+feature_image: ''
+format: markdown
+slug: database-update
+tags: []
+title: Database Update
+---
+
+i’m in the middle of upgrading wordpress and i’m tired and irritable and i think if i stare at anymore SQL tonight i’m going to freak out. i had enough of that at work today as it is. and i didn’t even get any of my client’s work done tonight that i was supposed to do. i guess… i’ll do it on my lunch break. fjwejfiaw;ef!!!!1#($$#@\*
+
+and i accidentally deleted my smilies. [sam](http://giprincess.org), can you send me yours in a zip? because you have the same ones i had. i will love you forever. :( poo.

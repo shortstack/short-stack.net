@@ -1,0 +1,23 @@
+---
+date: '2007-11-02T06:28:41+00:00'
+favorite: false
+feature_image: ''
+format: markdown
+slug: fedora-8-beta
+tags: []
+title: Fedora 8 Beta
+---
+
+it works… :twisted: almost with no hassle.
+
+rob burned me a CD earlier and we began our journey to get a WORKING LINUX PARTITION on my laptop. evidently, my hardware is too new for the newest releases of ubuntu and for fedora 7 so i’ve been “patiently” waiting waiting the last few months. the initial install went smoothly, but the beta is still a little iffy with my graphics card. it’s actually been a royal pain in the ass. lucky for me, i have connections on the development team who know how to fix these things. too bad he’s asleep in the next room.
+
+so i took it upon myself to get my shit working. i’ve been waiting forever to get fedora up so i can learn it. what better way than to break it first? heh. i got dual boot working (finally fixed my grub and i was very proud of it working on the first try because that has never happened, especially with vista in the picture). so that was out of the way. i also finally got the nvidia drivers to work, but unfortunately i had to disable SELinux Management. i’m sure there’s a way around that somehow. anyway, i got the desktop effects working once i got the graphics working the right way. so now i have wobbly windows and such. woo.
+
+then i everything pretty. :wink:
+
+hopefully customizing it to my liking won’t take that long. i’ve been bookmarking everything and getting themes and wallpapers and all these cool new toys. i also installed [irssi](http://irssi.org) instead of [xchat](http://xchat.org) in hopes of learning something new but i think that’s going to take another all-nighter in itself. i’m not sure if i’m just dumb or sleep-deprived but, damn, it’s tricky.
+
+and aside from all that, i’ve been screwing around with wordpress. i never should have installed it because i will never get anything else done. ever. it’s that simple. i’m addicted to plug-ins. they should probably have meetings for this sort of thing. i mean, it’s 6:30 AM and i should be waking up in an hour.
+
+it’s going to be embarrassing when i have to explain to adam why i slept for the 4 days i stay with him. “oh, i stayed up all night installing linux… and then i blogged about it… and i know we haven’t seen each other since july… please, baby, 5 more minutes…” that’ll go over really well.

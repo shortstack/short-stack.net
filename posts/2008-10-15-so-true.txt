@@ -1,0 +1,13 @@
+---
+date: '2008-10-15T10:27:56+00:00'
+favorite: false
+feature_image: ''
+format: markdown
+slug: so-true
+tags: []
+title: So True
+---
+
+[![](http://pcweenies.net/comics/2008-01-18\_pcw.jpg)](http://pcweenies.net/comics/2008-01-18\_pcw.jpg)
+
+[original article](http://pcweenies.net/2008/01/18/the-usual-suspects/) :tongue:

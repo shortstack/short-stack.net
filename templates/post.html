@@ -1,0 +1,12 @@
+{% extends "base.html" %}
+{% block title %}{{ post.title }} — {{ site.site_title }}{% endblock %}
+{% block content %}
+<article class="post">
+  <h1 class="post-title">{{ post.title }}{% if post.favorite %} <span class="fav" title="favorite">&hearts;</span>{% endif %}</h1>
+  <div class="post-meta"><time>{{ post.date.strftime('%Y-%m-%d %H:%M:%S') }}</time>
+    {% for t in post.tags %}<a class="tag" href="/tag/{{ t }}/">#{{ t }}</a>{% endfor %}
+  </div>
+  {% if post.feature_image %}<img class="post-img feature" src="{{ post.feature_image }}" data-original="{{ post.feature_image }}" loading="lazy">{% endif %}
+  <div class="post-body">{{ body_html|safe }}</div>
+</article>
+{% endblock %}

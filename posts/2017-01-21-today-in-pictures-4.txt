@@ -1,0 +1,19 @@
+---
+date: '2017-01-21T21:51:40+00:00'
+favorite: false
+feature_image: ''
+format: markdown
+slug: today-in-pictures-4
+tags: []
+title: Today In Pictures
+---
+
+![](/content/images/2017/01/20170121_154101-700x525.jpg)
+
+![](/content/images/2017/01/20170121_154135-700x525.jpg)
+
+![](/content/images/2017/01/20170121_154621-700x525.jpg)
+
+![](/content/images/2017/01/20170121_185146-700x525.jpg)
+
+![](/content/images/2017/01/Screenshot_20170121-153720-700x1244.png)

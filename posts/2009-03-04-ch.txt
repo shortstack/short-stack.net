@@ -1,0 +1,13 @@
+---
+date: '2009-03-04T14:07:29+00:00'
+favorite: false
+feature_image: ''
+format: markdown
+slug: ch
+tags: []
+title: C&H
+---
+
+i love it. :grin:
+
+[![Cyanide & Happiness](http://www.explosm.net/db/files/Comics/Kris/salt.png)](http://www.explosm.net/comics/1571/)

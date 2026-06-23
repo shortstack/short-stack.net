@@ -1,0 +1,10 @@
+{% extends "base.html" %}
+{% block title %}Archive — {{ site.site_title }}{% endblock %}
+{% block content %}
+<h1>Archive</h1>
+<ul class="year-list">
+  {% for y in years %}
+  <li><a href="/archive/{{ y.year }}/">{{ y.year }}</a> <span class="count">({{ y.count }})</span></li>
+  {% endfor %}
+</ul>
+{% endblock %}

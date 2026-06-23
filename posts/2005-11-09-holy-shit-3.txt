@@ -1,0 +1,11 @@
+---
+date: '2005-11-09T06:50:55+00:00'
+favorite: false
+feature_image: ''
+format: markdown
+slug: holy-shit-3
+tags: []
+title: Holy Shit
+---
+
+i am so proud of myself. i made my very first batch file that uploads a text file every 3 minutes all day, every day, to my server at home. i had the winamp script originally running on my home computer but now that i’m at school i didn’t think i could get it to update. buuuullll crap, i just went and did it. damn, this makes me happy. on that note, it’s 1:45 AM and now that i got it working, i am gonna crash. goodnight. :cool:

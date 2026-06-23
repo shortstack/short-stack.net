@@ -1,0 +1,11 @@
+---
+date: '2005-05-05T16:44:38+00:00'
+favorite: false
+feature_image: ''
+format: markdown
+slug: picture-update
+tags: []
+title: Picture Update
+---
+
+i just got done uploading allllll the pictures that i had on my camera. i am way too lazy to find all the URLs so you’ll have to find them yourself. picture/videos from merlefest are under shows, pictures/videos from skating the other night are under friends, and pictures from my few days at duke are up under friends also. :cool:

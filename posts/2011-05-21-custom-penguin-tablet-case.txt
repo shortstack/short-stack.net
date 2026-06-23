@@ -1,0 +1,60 @@
+---
+date: '2011-05-21T16:33:33+00:00'
+favorite: false
+feature_image: ''
+format: markdown
+slug: custom-penguin-tablet-case
+tags: []
+title: Custom Penguin Tablet Case
+---
+
+i seriously have the most amazing and crafty friends ever.
+
+my friend amanda (who abandoned her blog, long ago, otherwise i’d link it) made my “me” drawing up there ^^ (also featured on my new business cards) and [makes jewelry](http://www.etsy.com/shop/LittleTreeJewelry/sold).
+
+[the beautimous stacey lynn](http://staceylynnstudio.com/blog/) has not only extremely creative and *flawless* photography skills, she has graciously offered to be my wedding and boudoir photographer (i will be paying her, of course) when the time comes. SO excited.
+
+and just this week [my friend danielle](http://randomaddi.blogspot.com/2011/05/penguin-tablet-case.html), in addition to her awesome cooking skills (she and [her husband paul](http://eclecticaspirations.blogspot.com) are both magicians in the kitchen), made me this absolutely adorable creation:
+
+#gallery-13 {
+margin: auto;
+}
+#gallery-13 .gallery-item {
+float: left;
+margin-top: 10px;
+text-align: center;
+width: 33%;
+}
+#gallery-13 img {
+border: 2px solid #cfcfcf;
+}
+#gallery-13 .gallery-caption {
+margin-left: 0;
+}
+/\* see gallery\_shortcode() in wp-includes/media.php \*/
+
+[![](/content/images/2011/05/SDC12375-150x150.jpg)](/content/images/2011/05/SDC12375.jpg)
+
+[![](/content/images/2011/05/SDC12376-150x150.jpg)](/content/images/2011/05/SDC12376.jpg)
+
+[![](/content/images/2011/05/SDC12378-150x150.jpg)](/content/images/2011/05/SDC12378.jpg)
+
+[![](/content/images/2011/05/SDC12380-150x150.jpg)](/content/images/2011/05/SDC12380.jpg)
+
+[![](/content/images/2011/05/SDC12388-150x150.jpg)](/content/images/2011/05/SDC12388.jpg)
+
+[![](/content/images/2011/05/SDC12391-150x150.jpg)](/content/images/2011/05/SDC12391.jpg)
+
+[![](/content/images/2011/05/SDC12392-150x150.jpg)](/content/images/2011/05/SDC12392.jpg)
+
+[![](/content/images/2011/05/SDC12398-150x150.jpg)](/content/images/2011/05/SDC12398.jpg)
+
+i wish i could make things like this, but so far i’m only halfway decent at making pillows (stuff it and sew it and move on). she finally acquired her own sewing machine, and she knew i wanted a case for my samsung galaxy, so thursday i met her for lunch and she gave me my new tablet case.
+
+i. love. it. the outside is super velvety soft. it even has a little pocket, and my phone fits perfectly.
+
+since she just got into making these, but is obviously great at it, i told her she needs to make more things and sell them. she is hesitant.
+
+**so here’s the million dollar question…**
+
+[Would You Buy One?](http://polldaddy.com/poll/5071068/)

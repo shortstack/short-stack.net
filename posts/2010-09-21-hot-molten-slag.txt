@@ -1,0 +1,25 @@
+---
+date: '2010-09-21T09:42:06+00:00'
+favorite: false
+feature_image: ''
+format: markdown
+slug: hot-molten-slag
+tags:
+- slag
+- welding
+title: Hot Molten Slag
+---
+
+![](/content/images/2010/09/stick-welding.jpg "stick-welding") things that taste better than [hot molten slag](http://wiki.answers.com/Q/What_is_slag_from_welding):
+
+1. cold slag
+2. chalk
+3. rotten bananas
+4. fertilizer
+5. spray-on tans
+6. adhesive
+7. dog food
+8. nyquil
+9. moldy bread
+
+also, it hurts. in case you didn’t know.

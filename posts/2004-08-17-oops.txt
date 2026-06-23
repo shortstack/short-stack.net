@@ -1,0 +1,13 @@
+---
+date: '2004-08-17T23:49:01+00:00'
+favorite: false
+feature_image: ''
+format: markdown
+slug: oops
+tags: []
+title: oops
+---
+
+this is why i hate news scripts. i accidentally archived every damn post. i hate the internet. :angry:
+
+**[edit]** and i fixed it. i’m a frickin genius. **[/edit]**

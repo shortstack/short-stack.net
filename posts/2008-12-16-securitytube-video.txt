@@ -1,0 +1,15 @@
+---
+date: '2008-12-16T22:40:38+00:00'
+favorite: false
+feature_image: ''
+format: markdown
+slug: securitytube-video
+tags: []
+title: SecurityTube Video
+---
+
+my final grade in my security class was to create a video “tutorial” to submit online at [securitytube.net](http://securitytube.net). we picked groups about 2 months ago and everyone waited until the last minute to do their video–within the last couple of days. our group was no exception as this was by far the least daunting task any of us had left for the rest of our classes.
+
+i asked the department chair if i could borrow a computer from one of the labs in the CIS department that we could use to hook old hard drives up to that we got at ram’s rack (local thrift store). the point of our video was to demonstrate the importance of removing personal data before throwing out old computer parts. basically, we went dumpster diving and found tossed out hard drives and tried to get all the data off of them to see what we could find. and then we very explicitly showed how to “properly” dispose of hard drives when they are no longer of use to their owner.
+
+a few people came to my apartment last night after we finally left the computer lab. our intent on going to my apartment was to work on the video. we quickly got sidetracked by the TV and the animals, among other things. more people showed up and suddenly i had a small party on my hands. o\_0 which was fine. i love the company. we did eventually get around to the video and it turned out… okay? i guess. i’m really glad my professor has a fantastic sense of humor.

@@ -1,0 +1,11 @@
+---
+date: '2005-04-11T16:13:44+00:00'
+favorite: false
+feature_image: ''
+format: markdown
+slug: irritated
+tags: []
+title: Irritated
+---
+
+you know what’s reeeeally annoying? when appalnet craps out during registration. go figure that my registration is supposed to be right now. i need to fix my schedule. :angry: and every kid on campus has called tech. support at this point and informed us that appalnet isn’t working and that we need to fix it. **appalnet is not our job!!!** thank you. :smile: have a nice day.

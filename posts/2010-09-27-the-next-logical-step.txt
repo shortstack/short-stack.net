@@ -1,0 +1,27 @@
+---
+date: '2010-09-27T15:30:47+00:00'
+favorite: false
+feature_image: ''
+format: markdown
+slug: the-next-logical-step
+tags:
+- CEH
+- cissp
+- RHCE
+- welding
+title: The Next Logical Step
+---
+
+i passed my [CEH](http://eccouncil.org/certification/certified_ethical_hacker.aspx) exam on friday.
+
+and today i got endorsed for my full [CISSP](https://www.isc2.org/cissp) (woot!).
+
+this is really exciting for me. mostly because if you had told me 2 years ago that i would have both of these certifications already, i would have said *you’re shitting me*. we were lucky enough at ASU to have 2 security classes–one focusing on the CEH, the other on the first 5 domains of the CISSP. they were fun, challenging, and gave me another excuse to spend my life in front of a computer. and the final exams were BRUTAL.
+
+so… it gives me great pleasure to say that i’ve accomplished those personal goals. :cry:
+
+it also leaves me with nothing to study for. and that feels weird. i have websites to work on, welding to do, but i still have this hole where i feel like i should be learning something new. so maybe… just maybe… 2011 will be the year wherein i earn my [RHCE](http://www.redhat.com/certification/rhce/). or something equally ridiculous.
+
+i think i’m losing my mind.
+
+and right after i typed that sentence i signed up for next semester’s MIG welding class.

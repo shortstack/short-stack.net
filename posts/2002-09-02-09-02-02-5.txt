@@ -1,0 +1,11 @@
+---
+date: '2002-09-02T16:38:40+00:00'
+favorite: false
+feature_image: ''
+format: markdown
+slug: 09-02-02-5
+tags: []
+title: 09/02/02
+---
+
+you guys… the content is not up yet. it will be up later. i do have to go to school, and to work, and i have a life. be patient :)

@@ -1,0 +1,13 @@
+---
+date: '2006-03-28T22:17:14+00:00'
+favorite: false
+feature_image: ''
+format: markdown
+slug: new-web-host
+tags: []
+title: New Web Host
+---
+
+for the past 4 years or so, i’ve hosted my website on my windows box at home. today, i bought 50 GB of server space and am in the process of getting everything up and running… so, if the site is buggy for a little while, that’s why. it should make things a little bit faster, also.
+
+**[edit]** having a few problems… apparently the server i put my site on has php installed in safe mode…. and it isn’t working. :sad: i will fix it after i go take this writing test. **[/edit]**

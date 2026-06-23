@@ -1,0 +1,24 @@
+---
+date: '2011-05-08T20:08:30+00:00'
+favorite: false
+feature_image: ''
+format: markdown
+slug: weekends-are-for
+tags:
+- brett
+- food
+- weekends
+title: Weekends Are For
+---
+
+sleeping in.
+
+spending the afternoon tanning in the sun in the bed of my truck. country music blaring from the garage. brett next to me. cold beers in our hands.
+
+cold cut sandwiches, pineapple, and afternoon movies. followed by an afternoon nap.
+
+steak dinners on the couch.
+
+followed by fresh cut mango, apple pie, ice cream, glass of wine, and a gory movie.
+
+life is good.

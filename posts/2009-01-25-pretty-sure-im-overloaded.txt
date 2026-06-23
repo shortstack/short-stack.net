@@ -1,0 +1,21 @@
+---
+date: '2009-01-25T15:45:25+00:00'
+favorite: false
+feature_image: ''
+format: markdown
+slug: pretty-sure-im-overloaded
+tags: []
+title: Pretty Sure I'm Overloaded
+---
+
+my professor has required that for this semester’s portion of my independent study, on top of completing my paper and submitting it to the conference, i need to create a blog that contains my results and anything else i see fit that relates to it.
+
+there isn’t really any content on it yet but i created a new subdomain last night and installed drupal and have everything set up for when i get my surveys finished and filled out for my research.
+
+[the blog can be found here.](http://osfemales.short-stack.net/) :blush:
+
+i’m at adam’s for the weekend and i’ve been surprisingly productive. i have almost all of the paperwork filled out for my new job (i finally accepted one of the offers i got!! :grin: ), i bought a CCNA book that i plan on working towards along with my :Security+, i got that blog up, ordered pizzas for monday’s AITP kickoff meeting… it feels pretty good.
+
+i’m unbelievably nervous about tomorrow’s meeting, though. my professor e-mailed us over the weekend and said on the sign-up sheets alone, we have 254 people who say they are coming to the meeting. given that these are all college students like myself, we estimate that about 60% of them will actually come. but that’s only students from the classes to which we passed out sign-up sheets. consequently, i called little caesar’s yesterday and ordered 67 pizzas for tomorrow’s meeting.
+
+i’m contemplating on dropping my managing security class for this semester. IS project is going to be a big enough load as it is with strategic management and internet technologies on the side, plus my research paper and being lab manager for both security classes, and not to mention AITP president which has me bound up in 2-3 meetings a week for AITP alone. throw in OSUM (formerly ALUG) and the fact that i’m going to attempt to tackle 2 certifications this semester, i’m pretty sure i need to drop my security class. i did all the labs for both security classes last semester so i’m basically repeating all the work i did in the fall. after having written that out and reading it back to myself, i realize i sound like an idiot for even taking the class. :( i think i just made my decision.

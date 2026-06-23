@@ -1,0 +1,664 @@
+---
+date: '2023-03-08T11:24:20+00:00'
+favorite: true
+feature_image: ''
+format: markdown
+slug: end-of-an-era
+tags: []
+title: End of an Era <3
+---
+
+it's hard to put into words how much running OpenSOC has meant over the years. but i'm gonna try.
+
+![Screenshot-2023-02-18-at-10.13.05-PM](/content/images/2023/02/Screenshot-2023-02-18-at-10.13.05-PM.png)
+
+i'll spare the repetitiveness--a brief summary of what OpenSOC is, if you're unfamiliar, is above. but it has become so much more than that.
+
+what started as Eric's brainchild years ago, a project he started in order to train his own SOC at his previous job, evolved into one of our biggest contributions, if not the biggest, to the infosec community after we joined forces.
+
+we poured 5 years of literal blood, sweat, and tears into building and evolving and growing OpenSOC, almost exclusively because we knew how much of an impact it had on the people who played. job opportunies, learning opportunities, an intellectual challenge. it was a grind, but a worthy grind.
+
+it is something we are truly proud of. something i am truly proud of, and am honored to be a part of.
+
+OpenSOC got me a keynote address at one of the best security conferences in the industry. OpenSOC allowed me to grow my skillsets a hundred fold. OpenSOC introduced me to some of the best and brightest people in the security field, some of whom contributed to it in huge ways. OpenSOC was a catalyst for Recon, for our team, my career, and my personal life.
+
+i'd like to highlight some of the best parts from each of our events. picking less than a dozen photos for some of these was basically impossible.
+
+# 2018
+
+### DakotaCon
+
+this was our first public event. 4 of us headed to south dakota, not knowing that basically a blizzard was waiting for us upon arrival. we got rental cars and ventured into the abyss, headed for dakota state university.
+
+![20180325_195849](/content/images/2023/02/20180325_195849.jpg)
+
+we had a small classroom full of participants, Eric gave his talk, "50 shades of Graylog", and the event wound up being a success, despite some hiccups in the beginning. we learned our first lesson of traveling with the range--always have spare cables.
+
+this was also the first and only (so far) time that i was able to make Eric laugh cry in front of a group of students and it was glorious.
+
+![20180322_233010](/content/images/2023/02/20180322_233010.jpg)
+
+![20180324_110126](/content/images/2023/02/20180324_110126.jpg)
+
+![3qjOpHw5m9boX2xr4_Lv_kRAOwIZKKgRyQRAEdk-4yUgFnr-953f9S9UJFntVTZpPYfXTES0CqzIvPcz2hkMaY3XgeZbQYGX-kRtAKMLcehUfwsmuQ0SMGhr-sk3T-xpeoaQ5MILsfUG7WJMDj2VWhX7rSqfA3LZ9Y399UkLSVveXb-XnNNau81E41eR9KNEoUJnGMoHNOWwhpZDiU_YpS_OfgIR9TN0MLriCt-64eq4PO](/content/images/2023/02/3qjOpHw5m9boX2xr4_Lv_kRAOwIZKKgRyQRAEdk-4yUgFnr-953f9S9UJFntVTZpPYfXTES0CqzIvPcz2hkMaY3XgeZbQYGX-_kRtAKMLcehUfwsmuQ0SMGhr_-sk3T-xpeoaQ5MILsfUG7WJMDj2VWhX7rSqfA3LZ9Y399UkLSVveXb-XnNNau81E41eR9KNEoUJnGMoHNOWwhpZDiU_YpS_OfgIR9TN0MLriCt-64eq4PO.png)
+
+![maxresdefault](/content/images/2023/02/maxresdefault.jpg)
+
+### ISSW
+
+this was a really fun conference. especially since it started out with an obligatory trip to fry's (RIP). we bought bawls and toys, and all was well in the world.
+
+![20180411_133235](/content/images/2023/02/20180411_133235.jpg)
+
+the event was relatively small, but it had a lot of community involvement. the lock picking crew was in the room with us, which made for great entertainment.
+
+one of our participants even played the entire event on his phone. which is doable, since the tools are all web based, but ill-advised. he seemed to regret that decision, and i think his eyes were melting out of his head by the end, but powered through anyway.
+
+![20180411_164121](/content/images/2023/02/20180411_164121.jpg)
+
+![20180412_091015](/content/images/2023/02/20180412_091015.jpg)
+
+![20180412_102910](/content/images/2023/02/20180412_102910.jpg)
+
+### BSides SATX
+
+this event was a blast. we started the trip with a Bucee's stop, and we were on our way to San Antonio.
+
+![20180615_130046](/content/images/2023/02/20180615_130046.jpg)
+
+we got to St. Mary's and set up shop.
+
+![20180616_071411](/content/images/2023/02/20180616_071411.jpg)
+
+![20180617_114627-ANIMATION](/content/images/2023/02/20180617_114627-ANIMATION.gif)
+
+![20180616_072503](/content/images/2023/02/20180616_072503.jpg)
+
+![20180616_072704](/content/images/2023/02/20180616_072704.jpg)
+
+![20180616_074946](/content/images/2023/02/20180616_074946.jpg)
+
+the range, in all its sprawling glory.
+
+if you look closely, you can see the toaster emblem stuck on our Ubiquiti USG. appropriate because of how hot these things get on the regular.
+
+..we'll get back to that soon 😐
+
+![20180616_103324](/content/images/2023/02/20180616_103324.jpg)
+
+### DEF CON 26
+
+DEF CON 26 was our first big event. especially for me.
+
+we'd been attending DEF CON for years, but we'd never run an event. this gained a lot of publicity for our small but scrappy crew. we were nervous but so, so excited.
+
+the range had grown a little bit, and now fit in 3 pelican cases instead of 2.
+
+![20180808_154218](/content/images/2023/02/20180808_154218.jpg)
+
+![20180808_150722](/content/images/2023/02/20180808_150722.jpg)
+
+i was also giving a talk that year on the Hacker Tracker, [a project that has been near and dear to my heart since 2012](/in-my-spare-time/).
+
+![20180809_091439](/content/images/2023/02/20180809_091439.jpg)
+
+![20180809_145237](/content/images/2023/02/20180809_145237.jpg)
+
+![IMG_8191](/content/images/2023/02/IMG_8191.jpg)
+
+![IMG_8226](/content/images/2023/02/IMG_8226.jpg)
+
+![IMG_20180809_211706](/content/images/2023/02/IMG_20180809_211706.jpg)
+
+![IMG_20180809_211751](/content/images/2023/02/IMG_20180809_211751.jpg)
+
+![20180809_145253](/content/images/2023/02/20180809_145253.jpg)
+
+this had nothing to do with OpenSOC, obviously, but it was part of what made this year so magical for me. i got to pour my heart into 2 projects that directly made an impact on a community that had already done so much for me since 2009.
+
+OpenSOC ended up being a blast. stressful, but we made it happen.
+
+in true Bromiley fashion, he brought us some of the best Vegas breakfast around before our event started. i will never forget eggslut sammiches as long as i live.
+
+![20180809_095029](/content/images/2023/02/20180809_095029.jpg)
+
+we had a to overcome a few hurdles throughout the event, including DEF CON network issues, given the complex nature of the environment we were running.
+
+![20180811_162751](/content/images/2023/02/20180811_162751.jpg)
+
+it all worked out in the end, but for a portion of the event we ended up running the range out of one of our hotel rooms on cellular. it wasn't ideal, but it got the job done.
+
+![IMG_4060](/content/images/2023/02/IMG_4060.jpg)
+
+stats from the event are [here](https://blog.reconinfosec.com/blue-team-village-def-con-26), but we had nearly 300 people participating at our first DEF CON. the room was packed, the music was on point, the blue team village vibe was epic, and i will never forget the energy in that room.
+
+![IMG_20180814_225347](/content/images/2023/02/IMG_20180814_225347.jpg)
+
+![IMG_8166](/content/images/2023/02/IMG_8166.jpg)
+
+we found ourselves with enough downtime one evening to actually roam the halls of DEF CON.
+
+since we allowed the contest to run all night, we ran into other people at the con playing OpenSOC. for us, this was a defining "WE MADE IT!" moment.
+
+![IMG_8212](/content/images/2023/02/IMG_8212.jpg)
+
+some of these nerds ended up winning the event the following year, which would earn them a DEF CON black badge, and eventually a spot on our volunteer team.
+
+![20180812_122333](/content/images/2023/02/20180812_122333.jpg)
+
+![20180810_210442](/content/images/2023/02/20180810_210442.jpg)
+
+obligatory photo of the bathtub of beer at the Graylog hotel party.
+
+![20180812_212627](/content/images/2023/02/20180812_212627.jpg)
+
+![IMG_8268](/content/images/2023/02/IMG_8268.jpeg)
+
+obligatory photo of Kyle and i on Fremont Street after we finished running the event.
+
+we went out in a blaze of glory that night.
+
+### Texas Cyber Summit
+
+Texas Cyber Summit started out with, yes, another trip to Bucee's. kolaches FTW. if i remember right, my flights got screwed up this year and i ended up having to drive to San Antonio from Dallas in a rental.
+
+small sacrifice. i am always down for a road trip.
+
+![20181011_133355](/content/images/2023/02/20181011_133355.jpg)
+
+![20181011_174638](/content/images/2023/02/20181011_174638.jpg)
+
+Eric, putting all the things together.
+
+![20181011_180227](/content/images/2023/02/20181011_180227.jpg)
+
+![20181011_194838](/content/images/2023/02/20181011_194838.jpg)
+
+![20181012_091615](/content/images/2023/02/20181012_091615.jpg)
+
+obligatory range and toaster pic.
+
+![20181012_091631](/content/images/2023/02/20181012_091631.jpg)
+
+![20181012_144019](/content/images/2023/02/20181012_144019.jpg)
+
+obligatory badge pic.
+
+![20181013_165235](/content/images/2023/02/20181013_165235.jpg)
+
+we had a smaller turnout at this event, but the folks who participated were committed. one of the winners at this event also ended up being a solid member of our volunteer crew.
+
+![IMG_20181014_191637](/content/images/2023/02/IMG_20181014_191637.jpg)
+
+this photo makes me smile, and sad at the same time. [Nolan was a dear friend who passed away](https://blog.reconinfosec.com/a-tribute-to-devnull), and our next DEF CON would have a lot of tributes to him. he was a huge part of making DEF CON 26 a success, a critical member of the blue team village, and just an amazing soul.
+
+> had a hotdog today, and funny enough, couldn't stop thinking about one of the last rants i heard this guy go on... we all miss you, [@d3vnull42](https://twitter.com/d3vnull42?ref_src=twsrc%5Etfw) 💙🌭🥃😔 <https://t.co/EKv2mhmN2Z>
+>
+> — Whitney Champion 🍪🚀 infosec.exchange/@shortstack (@shortxstack) [November 16, 2018](https://twitter.com/shortxstack/status/1063251826307416074?ref_src=twsrc%5Etfw)
+
+### BSides DC
+
+this might be my least favorite event we ever ran.
+
+1. our USG overheated. which is why the toaster is appropriate (i would later draw an angry refrigerator to replace it). it bricked itself, and thank god for [mr. Jack Daniel](https://mastodon.social/@jack_daniel), our hero, who brought us a Sophos firewall. thank god, a second time, that Eric knew the ins and outs of those things--he rebuilt our network on the fly, while Mr. Matt Bromiley tap danced in front of our participant audience mid event to keep them entertained while they waited for us to continue.
+2. we had a huge incident come in during the event. this meant we were running OpenSOC, and also juggling an IR, so we basically didn't get to sleep and we were angry and full of nerd rage for most of the event.
+
+![20181025_180659](/content/images/2023/02/20181025_180659.jpg)
+
+despite our setbacks, we proved once again that we could make it through just about anything. the event ended up being another success.
+
+we had a room full of active participants, and we made some [amazing connections](https://www.youtube.com/watch?v=A2grfGWgy3I) at this event.
+
+![20181026_155111](/content/images/2023/02/20181026_155111.jpg)
+
+![20181026_190029](/content/images/2023/02/20181026_190029.jpg)
+
+![20181026_190033](/content/images/2023/02/20181026_190033.jpg)
+
+here's an angry Eric and Bromiley forensicating during our "downtime".
+
+![20181027_152450-1](/content/images/2023/02/20181027_152450-1.jpg)
+
+# 2019
+
+### BSides Austin
+
+i failed at my job as photographer at this event. i only got a handful, which is very unlike me.
+
+since much of our team is Austin based, and Eric had spoken at BSides Austin in the past, this was almost a required event for us.
+
+![20190327_140814](/content/images/2023/02/20190327_140814.jpg)
+
+pictured above--part of our Hak5 rubber ducky scenario. we ended up retiring this scenario, mostly because we had a knack for losing said ducky when we took it on trips. and it also required a physical device to maintain and configure and rely on, which ended up being more trouble than it was worth. as you can see. computers are fun.
+
+at some point during this event, something went wrong unrelated to OpenSOC (related to dayjob) so i spent much of the event heads down troubleshooting instead of enjoying the conference.
+
+![20190329_161718](/content/images/2023/02/20190329_161718.jpg)
+
+another success, however, and a great turnout.
+
+![Screenshot_20190329-192448_Chrome](/content/images/2023/02/Screenshot_20190329-192448_Chrome.jpg)
+
+### DEF CON 27
+
+oh, how i equally loathed and absolutely loved this event. let me first set the stage by saying that the pressure was turned all the way up for this one.
+
+1. we had already run one OpenSOC at DEF CON, and we knew it was going to be more participants, more scenarios, more everything than the last one.
+2. we were running this event immediately after running our 4 day training at Black Hat, which was where most of the pressure came from... we had hard drives failing in the range that required more than one RAID rebuild during the training days.
+3. the stress of the above 2 points was enough to send me into full body hives within hours of wheels down in Las Vegas. since i had never had hives before, i didn't know was happening, and thought it was some crazy allergic reaction to something in the hotel. spoiler--it was just stress. severe stress.
+
+![7208b94820ebd43b3602012e80f5aa98bc9ede3d-14](/content/images/2023/02/7208b94820ebd43b3602012e80f5aa98bc9ede3d-14.jpg)
+
+![20190802_093830](/content/images/2023/02/20190802_093830.jpg)
+
+![20190802_113936](/content/images/2023/02/20190802_113936.jpg)
+
+here's me about an hour after i got to Las Vegas and settled into my hotel room.
+
+![20190802_163912](/content/images/2023/02/20190802_163912.jpg)
+
+here's my leg about an hour later. this was all over me. all. over. i'm literally getting goosebumps and chills looking at this now because i remember how uncomfortable i was for the next 4 days.
+
+![20190802_235327](/content/images/2023/02/20190802_235327.jpg)
+
+that night, i was already losing my mind. i went all over mandalay and the luxor looking for a blanket or a sheet that wasn't hotel distributed and found nothing but this by the wee hours of the morning--a giant shark blanket. i would sleep on it for the next few nights until i realized that it had nothing to do with the sheets at all.
+
+i woke up every hour or so every night to rub cold soda cans and washcloths soaked in ice water on my skin. i rotated towels lined with ice cubes in my bed so i could find some relief. cold showers were the only kind i took, and i stayed on a constant drip of benadryl, whiskey, and cough drops. it was awful. the saving grace those first few days was that the halls of Black Hat are always freezing and so are the classrooms, and the womens bathrooms were almost always empty when i needed to disappear to breathe.
+
+if you didn't know how much stress and anxiety could manifest itself physically, i was a walking demonstration of what not to do.
+
+![20190802_154819](/content/images/2023/02/20190802_154819.jpg)
+
+![20190804_081940](/content/images/2023/02/20190804_081940.jpg)
+
+the range no longer lived in the pelican cases that year. we upgraded to the big guy on the right corner.
+
+![20190807_165715](/content/images/2023/02/20190807_165715.jpg)
+
+so big that it was driven to Las Vegas, and then we had to rent a car to move it from Mandalay Bay to the Flamingo to transfer it from Black Hat to DEF CON. you could hear its wheels echoing as it rolled through the casino floor.
+
+it was beautiful. 🥲
+
+![20190802_164026](/content/images/2023/02/20190802_164026.jpg)
+
+![20190804_082019](/content/images/2023/02/20190804_082019.jpg)
+
+so Black Hat ended, which meant much of the stress had subsided. it was wildly successful, so in the end it was all worth it.
+
+this was also about the time i realized that i wasn't dying of some weird plague or allergy and that it was all self inflicted and that's equally bad, but less scary. the hives began subsiding over the next several hours after Black Hat ended. the more you know.
+
+![20190808_111440](/content/images/2023/02/20190808_111440.jpg)
+
+our shirts were shipped to the hotel, and i'd just like to point out how badass they were that year.
+
+![20190808_120910](/content/images/2023/02/20190808_120910.jpg)
+
+these Hacker Tracker signs were new that year, and made me oh so proud. <3
+
+![20190808_152335](/content/images/2023/02/20190808_152335.jpg)
+
+the range, big and beautiful and glowing, during OpenSOC in the Blue Team Village.
+
+![img_0879](/content/images/2023/02/img_0879.jpg)
+
+range-ops-ing during the event.
+
+![IMG_5005](/content/images/2023/02/IMG_5005.JPG)
+
+![IMG_5008](/content/images/2023/02/IMG_5008.JPG)
+
+shots of the village at peak OpenSOC. that room was magical.
+
+![20190808_155518](/content/images/2023/02/20190808_155518.jpg)
+
+some of the organizers set this up for Nolan in the village. his parents came that year, and we honored him with the scenario we wrote featuring little snippets of him. his parents talked with all of us and i was in tears.
+
+![Recon-BTV-4](/content/images/2023/02/Recon-BTV-4.jpg)
+
+some of our crew and some of the BTV organizers, and a badge for Nolan. <3
+
+![EBjxIZUUcAAuFl5](/content/images/2023/02/EBjxIZUUcAAuFl5.jpeg)
+
+obligatory DEF CON shenaningans.
+
+![IMG_4992](/content/images/2023/02/IMG_4992.JPG)
+
+v3rbaal and h4r0ld got married at DEF CON that year, in the Blue Team Village. the village that they met through and organized together across continents. freaking epic. i love those two.
+
+![image_from_ios-1](/content/images/2023/02/image_from_ios-1.jpg)
+
+badge hacking at dinner. outside. in the heat. i'd just like to note that it was sweet, sweet relief to be able to be outside in the heat and not burst into bright red death all over finally.
+
+![image_from_ios](/content/images/2023/02/image_from_ios.jpg)
+
+the art that year was just so cool.
+
+![image](/content/images/2023/02/image.png)
+
+here is some of our crew waiting for our turn at the closing ceremonies. the first DEF CON closing ceremony i've ever attended to date, and i've been going since 2009. it was massive and crowded and i immediately remembered why i never went.
+
+![IMG_5021](/content/images/2023/02/IMG_5021.JPG)
+
+the moment we had all been waiting for. OpenSOC was deemed a Black Badge event that year, which was a massive honor and testament to our all of our efforts. we were to speak at the closing ceremonies and present the Black Badges to the winning team and talk a little about OpenSOC. this was both terrifying and incredible.
+
+![Photo-on-8-13-19-at-3.34-PM](/content/images/2023/02/Photo-on-8-13-19-at-3.34-PM.jpg)
+
+the last ridiculous part of the whole event was when i left for the airport, already late, got out of the taxi, and my phone fell out of my lap and into the road. i didn't notice. a car ran over it. i had already gone inside, had a minor panic attack, ran outside, and someone found it and returned it to a desk. somehow, it was still somewhat functional (albeit slightly dangerous with shards of glass poking me in the fingers and face, screen flickering) and i didn't miss my flight.
+
+### Texas Cyber Summit
+
+this was now our second TCS event, and this one had a better turnout than the first. the event was bigger with more attendees in general, and we had a great class.
+
+![20191009_221029](/content/images/2023/02/20191009_221029.jpg)
+
+getting the room set up the night before.
+
+![20191009_235141](/content/images/2023/02/20191009_235141.jpg)
+
+i love this picture of me because this scooter would later kick my ass. we'll get to that.
+
+![20191010_084108](/content/images/2023/02/20191010_084108.jpg)
+
+OpenSOC signage.
+
+![20191010_163828](/content/images/2023/02/20191010_163828.jpg)
+
+obligatory badge pic. you'll notice... the year is wrong. this was actually TCS 2019. i don't know.
+
+![20191010_164617](/content/images/2023/02/20191010_164617.jpg)
+
+obligatory [Hackers](https://www.youtube.com/watch?v=5T_CqqjOPDc) viewing during the event.
+
+![20191011_075805](/content/images/2023/02/20191011_075805.jpg)
+
+obligatory Texas shaped waffles. until that day, i had no idea this was a thing. where i come from, they don't make Carolina shaped waffles. either that, or i missed out for 35 years.
+
+![20191011_134243](/content/images/2023/02/20191011_134243.jpg)
+
+the scooter i mentioned. this is what it did to me. we all went out on scooters for dinner and drinks, and on the way there, i hit a bump and wound up with several more. my knees were effed, and i literally showed San Antonio my ass.
+
+don't scooter in a skirt.
+
+i haven't scootered since.
+
+![20191011_152238](/content/images/2023/02/20191011_152238.jpg)
+
+peak OpenSOC during the event!
+
+![20191012_170310](/content/images/2023/02/20191012_170310.jpg)
+
+TCS closing ceremonies. this event was a blast and i spent some time on the San Antonio Riverwalk after the event was over before heading home. the Iron Cactus is a forever favorite.
+
+### BSides DC
+
+i'm posting this picture because this was the first time i wore these pants in public. on the plane to DC. i got some spectacular double takes.
+
+luckily, we didn't have an IR blow up during this BSides DC. but we did have other issues. like the air conditioning not working in the room. and if i remember right, we had another issue with *another* USG crapping out mid event and Bromiley had to do more tap dancing until we got the issue resolved.
+
+![20191024_141445](/content/images/2023/02/20191024_141445.jpg)
+
+we stayed at my most favorite hotel for this event. i had never stayed at a Moxy before but i absolutely have to stay at one again. it was a blast. and they give you a free drink coin/token upon arrival.
+
+![20191024_180328](/content/images/2023/02/20191024_180328.jpg)
+
+the whole place just looked and felt like a party.
+
+![20191024_190159](/content/images/2023/02/20191024_190159.jpg)
+
+they had shuffleboard in the lobby, and some other games.
+
+![20191024_225721](/content/images/2023/02/20191024_225721.jpg)
+
+![IMG_1668](/content/images/2023/02/IMG_1668.jpeg)
+
+Aaron and Eric snuggling in the lounge.
+
+![20191024_230715](/content/images/2023/02/20191024_230715.jpg)
+
+![20191025_090108](/content/images/2023/02/20191025_090108.jpg)
+
+![20191025_091111](/content/images/2023/02/20191025_091111.jpg)
+
+obligatory badge pic. i loved this year's badge.
+
+![20191025_192328](/content/images/2023/02/20191025_192328.jpg)
+
+our very hot room.
+
+![20191025_192337](/content/images/2023/02/20191025_192337.jpg)
+
+do you know what happens when you cram a hundred nerds and a hundred laptops into a room and turn the AC off? take a guess.
+
+![20191025_203551](/content/images/2023/02/20191025_203551.jpg)
+
+### CactusCon
+
+this was our first CactusCon, and quickly became one of our favorite conferences to attend. good people, a lot of blue team focus, wicked cool art, great talks, just a fun vibe all around.
+
+![20191206_173153](/content/images/2023/02/20191206_173153.jpg)
+
+![20191206_164239](/content/images/2023/02/20191206_164239.jpg)
+
+![20191206_173024](/content/images/2023/02/20191206_173024.jpg)
+
+how cool are all of these?! ^^^
+
+![20191207_170141](/content/images/2023/02/20191207_170141.jpg)
+
+mr. Bromiley being the best hype man, as always.
+
+![20191205_182109](/content/images/2023/02/20191205_182109.jpg)
+
+another fun fact about mr. Bromiley--he always knows where the good food is. or how to find it. if you're ever in Mesa, this place is amazing.
+
+this event was a hit--so much so that job offers and connections were made between teams and organizers.
+
+"reasons we do this for 500, Alex"
+
+![ELNdhRtUcAEftvq](/content/images/2023/02/ELNdhRtUcAEftvq.jpeg)
+
+i also had the honor of keynoting this event. the best part--i got to talk about everything we had poured into OpenSOC up until that point.
+
+![ELNl6jcU4AA75m-](/content/images/2023/02/ELNl6jcU4AA75m-.jpeg)
+
+if you look closely, you can almost see me over the podium.
+
+another fun fact about mr. Bromiley--he will buy you shots of whiskey before you have to give a talk because he believes in you, but also knows how terrified you are.
+
+![ELNYggcVUAAaZQx](/content/images/2023/02/ELNYggcVUAAaZQx.jpeg)
+
+we got to bring OpenSOC. nerds got to play OpenSOC. we got to speak about OpenSOC. and we got to eat delicious food. 5 stars, would attend again.
+
+# 2020
+
+### Camp COVID
+
+and then the world got weird. it's hard to fathom that it's been 3 years now, almost to the day, that the world went upside down. at least where i was living at the time. march 16, 2020. i will never forget.
+
+here's something i don't think anyone ever knew--i drew the Camp COVID patch as a joke (we all cope differently, and i make weird "art") when all this started.
+
+i showed the badge to Eric and he was like, we have to do this. we have to make this a thing. we asked the community, and they said yes. so we did.
+
+> Recon and the <https://t.co/ppYocDgP90> team are considering running a free OpenSOC Blue Team CTF for folks looking to stay sharp while at WFH Camp COVID! Seats would be limited, but we'll support as many as we can on a first-come basis. Any interest from the [#infosec](https://twitter.com/hashtag/infosec?src=hash&ref_src=twsrc%5Etfw) crowd? [pic.twitter.com/C0pejKbhRn](https://t.co/C0pejKbhRn)
+>
+> — Recon InfoSec (@Recon\_InfoSec) [March 21, 2020](https://twitter.com/Recon_InfoSec/status/1241370942246391808?ref_src=twsrc%5Etfw)
+
+we ran an event in april of 2020, called Camp COVID, and it was a hit. it was a ton of work, and it was exhausting, and we were all working from home with kids and the chaos and the world ending, but we did it.
+
+and people loved it, and people had fun, so it was worth it.
+
+![ETo8FQOXYAIXNsL-1](/content/images/2023/02/ETo8FQOXYAIXNsL-1.jpeg)
+
+### DEF CON 28
+
+this was also a weird event. a virtual DEF CON, a first of its kind. but we still made it happen.
+
+![20200805_212406](/content/images/2023/02/20200805_212406.jpg)
+
+needless to say, we hung out in pajamas for 99% of the event.
+
+![20200806_133203](/content/images/2023/02/20200806_133203.jpg)
+
+there's Lennart being awesome, talking about Graylog. several of our friends and teammates participated in the Blue Team Village that year, including but not limited to giving demos of the tools that would be used during OpenSOC.
+
+![Eew3NkPWsAIqMXL](/content/images/2023/02/Eew3NkPWsAIqMXL.jpeg)
+
+osquery FTW.
+
+![Eewk4mSUwAAlH8Q](/content/images/2023/02/Eewk4mSUwAAlH8Q.jpeg)
+
+aaand TJ geeking out on some ELK! we love our TJ.
+
+it was so fun to watch.
+
+![20200806_192450](/content/images/2023/02/20200806_192450.jpg)
+
+![20200807_175429-2](/content/images/2023/02/20200807_175429-2.jpg)
+
+here's Eric, deep in the throes of OpenSOC.
+
+virtual or not, running OpenSOC is rough no matter how you cut it. scenarios, scenario validation, fixing questions/answers in the scoreboard, keeping an eye on the tools throughout the event and the ops behind them, the range ops, all of it.
+
+we could be virtual for every event and it would still be the same lift.
+
+the best part about doing events in person is feeling the energy and being a part of the event, so, 2020 was rough, but still a success.
+
+![20200822_172754](/content/images/2023/02/20200822_172754.jpg)
+
+i'd be remiss not to show our OpenSOC shirts for 2020. epic.
+
+![Ee-HK8rWAAIkJvw](/content/images/2023/02/Ee-HK8rWAAIkJvw.jpeg)
+
+a running tradition for all of our events is the "tall screenshot". i forget when it started, but i had a chrome extension that would scroll to take a screenshot of the whole page, no matter how ridiculous it was, so i was forever deemed the taker of tall screenshots.
+
+pretty sure this is a cropped tall screenshot.
+
+### Grayhat
+
+we ran an event for [Grayhat 2020](https://www.blueteamvillage.org/events/grayhat2020/), and because it was 2020, it was another virtual event.
+
+i (sadly) do not have anything from this one. 2020 was ruff.
+
+# 2021
+
+### DEF CON 29
+
+we did DEF CON 29 a little differently.
+
+![IMG_8945](/content/images/2023/02/IMG_8945.jpg)
+
+we didn't stay on the strip. we got an AirBnB with the team and it was the best decision we ever made.
+
+![20210805_114851](/content/images/2023/02/20210805_114851.jpg)
+
+nerd luggage.
+
+![20210805_191501](/content/images/2023/02/20210805_191501.jpg)
+
+rolling up to lunch with the team after landing in Vegas.
+
+![20210805_200018](/content/images/2023/02/20210805_200018.jpg)
+
+Eric and i came up with the idea of the nostalgic sticker pack sometime before DEF CON, and ordered them just in time. they were a hit.
+
+everyone wanted some of these bad boys.
+
+![20210805_200115](/content/images/2023/02/20210805_200115.jpg)
+
+![20210805_200627](/content/images/2023/02/20210805_200627.jpg)
+
+![IMG_8952](/content/images/2023/02/IMG_8952.jpg)
+
+this AirBnB was amazing. games everywhere. pool. privacy. no slot machine noises.
+
+![20210806_041802](/content/images/2023/02/20210806_041802.jpg)
+
+obligatory DC29 badge pics.
+
+![20210806_041812](/content/images/2023/02/20210806_041812.jpg)
+
+have i mentioned that the OpenSOC team is awesome? i think this was before our fam dinner at Buca di Beppo.
+
+![20210806_221108](/content/images/2023/02/20210806_221108.jpg)
+
+nerding with friends and playing with glowsticks in one of the DC lounges.
+
+![20210807_193728](/content/images/2023/02/20210807_193728.jpg)
+
+![20210807_202134](/content/images/2023/02/20210807_202134.jpg)
+
+Eric and TJ taking advantage of downtime at the house.
+
+![20210808_004450](/content/images/2023/02/20210808_004450.jpg)
+
+we roll deep.
+
+![20210808_161818](/content/images/2023/02/20210808_161818.jpg)
+
+Eric and TJ again.
+
+![CD175F7F-E268-4DDA-B3AC-9E441A1FB222](/content/images/2023/02/CD175F7F-E268-4DDA-B3AC-9E441A1FB222.jpg)
+
+we had our team, and our work cut out for us. but damn that year was fun.
+
+![IMG_8961](/content/images/2023/02/IMG_8961.jpg)
+
+![IMG_8965](/content/images/2023/02/IMG_8965.jpg)
+
+Michael kept us fueled on homemade guac. we swam. we played. we watched all the movies. we enjoyed the hell out of that year.
+
+this was also the first time our (almost) whole team had been together, so that was huge.
+
+![IMG_8968](/content/images/2023/02/IMG_8968.jpg)
+
+![IMG_8984](/content/images/2023/02/IMG_8984.jpg)
+
+fam dinner.
+
+![IMG_8988](/content/images/2023/02/IMG_8988.jpg)
+
+![IMG_9064](/content/images/2023/02/IMG_9064.jpg)
+
+good friends at the Paris bar <3
+
+![IMG_8994](/content/images/2023/02/IMG_8994.jpg)
+
+ubering to DEF CON.
+
+![IMG_9005](/content/images/2023/02/IMG_9005.jpg)
+
+this ^ is Andrew. Andrew is good people. we love Krit and loved working with them. fun fact--Kelley (our amazing PM at Recon, who hired me at SPARC in 2011 and i poached for Recon a couple years ago) and i met the Krit guys way back when at one of our first SPARC Hackathons (2012? 2013?) and they won.
+
+and then they built epic things for us at Recon.
+
+and then they got acquired by GreyNoise. i met (other) Andrew of GreyNoise at ShmooCon 2016, when he stayed at our AirBnB, before GreyNoise was even a thing.
+
+i feel so old putting this all into words, but i am so proud to know these people, and share a small part in their journeys.
+
+![IMG_9020](/content/images/2023/02/IMG_9020.jpg)
+
+![IMG_9050](/content/images/2023/02/IMG_9050.jpg)
+
+# all this to say
+
+we have loved building OpenSOC for you.
+
+we have loved playing OpenSOC with you.
+
+we have loved teaching you.
+
+we have loved mentoring you.
+
+we have loved learning with you.
+
+we have loved experiencing all of this with you.
+
+OpenSOC is and will always be near and dear to our hearts, and we will be giving back in plenty of other ways going forward.
+
+keep leveling each other up.
+
+thank you.
+
+<3
+
+![download](/content/images/2023/03/download.png)

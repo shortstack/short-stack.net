@@ -1,0 +1,13 @@
+---
+date: '2006-07-26T01:51:32+00:00'
+favorite: false
+feature_image: ''
+format: markdown
+slug: irritated-2
+tags: []
+title: irritated
+---
+
+installing apache 2 http server and an ftp server behind a router simultaneously after already setting up this stupid router at my dad’s house where they’ve got everything (phone, tv, internet) through the same modem is absolute hell and i’m about to shoot myself from frustration. this was too much to take on during a grumpy night, still not having heard from adam so i’m antsy about that, and did i mention i’m grumpy? maybe i’m PMSing but i’m in an extremely irritable mood right now and all i want is a budweiser and a good movie and to hear from my baby as soon as possible to make everything right in my little bubble of a world. after this mess gets fixed, or maybe it won’t depending on my mental stability at this juncture, i’ll hopefully be going to winston and hanging out at matt and byrd’s because somehow stepping foot in that house became instant relaxation last night. maybe it’s just having the right friends around that i haven’t seen in so long. it made me happy.
+
+this server shit will be up eventually. fjekwl;afasdfsd789sf32481!!!1 :yell:

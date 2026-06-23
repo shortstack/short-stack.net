@@ -1,0 +1,18 @@
+---
+date: '2009-05-12T16:31:37+00:00'
+favorite: false
+feature_image: ''
+format: markdown
+slug: procrastination
+tags: []
+title: Procrastination
+---
+
+instead of being productive and packing and getting ready for my move on thursday, i’ve successfully done all of the following:
+
+* [created a Google profile](http://www.google.com/profiles/whitney.ellis.powell)
+* [created a Dandy ID profile](http://www.dandyid.org/id/shortstack)- …which led to creating about a million other profiles on a million other websites
+* created the [Jorp development blog](https://apps.sourceforge.net/wp/jorp/)
+* scheduled my Security+ certification exam! finally!
+
+i have gotten zero packing done today. :grr:

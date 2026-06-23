@@ -1,0 +1,29 @@
+site_title = "short-stack.net"
+site_description = "Personal blog — archives since 2001."
+base_url = "https://short-stack.net"
+author = "Whitney Champion"
+posts_per_page = 25
+rss_count = 50
+
+# External nav links, interleaved with page nav links by nav_order.
+# (whoami=1, contact=5 → these sit between them)
+[[nav_links]]
+label = "portfolio"
+url = "https://whitneychampion.com/portfolio"
+nav_order = 2
+
+[[nav_links]]
+label = "art"
+url = "https://angry.unicorns.lol"
+nav_order = 3
+
+[[nav_links]]
+label = "shop"
+url = "https://etsy.com/shop/artbyshortstack"
+nav_order = 4
+
+[aws]
+profile = "ssnet"
+site_bucket = "ssnet-blog-site"
+images_bucket = "ssnet-blog-images"
+cloudfront_distribution_id = "E1A14OZ1KIHM8D"

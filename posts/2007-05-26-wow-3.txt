@@ -1,0 +1,11 @@
+---
+date: '2007-05-26T00:07:38+00:00'
+favorite: false
+feature_image: ''
+format: markdown
+slug: wow-3
+tags: []
+title: wow
+---
+
+finland is the weirdest freaking country i have ever been to in my life. hands down. this is going to take a lot of getting used to.

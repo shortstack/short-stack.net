@@ -1,0 +1,342 @@
+---
+date: '2015-11-05T23:03:03+00:00'
+favorite: false
+feature_image: ''
+format: markdown
+slug: aws-reinvent
+tags:
+- amazon
+- aws
+- conference
+- las vegas
+- party
+- re:invent
+- re:play
+title: AWS re:Invent
+---
+
+* this conference was at a scale like i’d never seen. i’ve been to CES… bigger, by far, yes. but still pales in comparison to the level of detail and effort put into this thing
+* went through ATL, got exciting airport dinner  
+  ![DSC_2103](/content/images/2015/11/DSC_2103-700x394.jpg)
+* flew in and got to vegas around 7, got taxi to treasure island  
+  ![DSC_2108](/content/images/2015/11/DSC_2108-700x394.jpg)
+
+![DSC_2110](/content/images/2015/11/DSC_2110-700x394.jpg)
+
+* had a head cold since 2 days prior, getting worse  
+  ![DSC_2113](/content/images/2015/11/DSC_2113-700x394.jpg)
+
+![DSC_2114](/content/images/2015/11/DSC_2114-700x394.jpg)
+
+* checked in, showered, took myself to dinner and had a couple drinks, then stayed in on the first night  
+  ![DSC_2124](/content/images/2015/11/DSC_2124-700x394.jpg)  
+  ![DSC_2125](/content/images/2015/11/DSC_2125-700x394.jpg)
+* walked to the venetian, totally lost. so many floors. asked a random guy for directions, but he walked me there instead. got my badge and AWS hoodie (stoked), quickest badge line i’ve ever been in  
+  ![DSC_2126](/content/images/2015/11/DSC_2126-700x394.jpg)
+
+![DSC_2127](/content/images/2015/11/DSC_2127-700x394.jpg)
+
+![DSC_2128](/content/images/2015/11/DSC_2128-700x394.jpg)
+
+![DSC_2129](/content/images/2015/11/DSC_2129-700x394.jpg)
+
+![DSC_2131](/content/images/2015/11/DSC_2131-700x394.jpg)
+
+![DSC_2134](/content/images/2015/11/DSC_2134-700x394.jpg)
+
+![IMG_20151006_090505](/content/images/2015/11/IMG_20151006_090505-700x525.jpg)
+
+* in awe at everything at this point
+* waited in line entirely too long for a bagel
+* tuesday was the gameday hackathon, random teams of 4 assigned, got there an hour early, waited for my team  
+  ![DSC_2132](/content/images/2015/11/DSC_2132-700x394.jpg)
+
+![DSC_2136](/content/images/2015/11/DSC_2136-700x394.jpg)
+
+![DSC_2135](/content/images/2015/11/DSC_2135-700x394.jpg)
+
+![DSC_2137](/content/images/2015/11/DSC_2137-700x394.jpg)
+
+* my team is me, a self proclaimed noob, and a guy who says he has some experience, but is now mostly managerial. also he has to leave for 2 out of the 6 hours for meetings. i don’t have high hopes. many of the other teams have 4 people, not 3, and after hearing some of their conversations, more experience than my teammates. i’m confident in my abilities, carry on. also, unicorns!  
+  ![DSC_2140](/content/images/2015/11/DSC_2140-700x394.jpg)
+
+![DSC_2141](/content/images/2015/11/DSC_2141-700x394.jpg)
+
+![DSC_2142](/content/images/2015/11/DSC_2142-700x394.jpg)
+
+![DSC_2143](/content/images/2015/11/DSC_2143-700x394.jpg)
+
+![DSC_2144](/content/images/2015/11/DSC_2144-700x394.jpg)
+
+* gameday starts, it’s themed “unicorn rentals”, we manage the servers that run the web application that manages the unicorn rental business, everyone is in full character and it is incredible
+* the challenge starts, i hold our team in top 3 out of 100 teams, we are crushing it for about 3.5 hours, and then i start to feel even sicker. fever is hitting. head is killing me. they start throwing more traffic at us, we’re scaling and doing ok, but hadn’t implemented elasticache yet. dropped in place for a while during our rebuild, then got back up in top 10  
+  ![DSC_2145](/content/images/2015/11/DSC_2145-700x394.jpg)  
+  ![DSC_2149](/content/images/2015/11/DSC_2149-700x394.jpg)
+* our team name is [xkcd150](https://xkcd.com/150/). because… yes  
+  ![DSC_2151](/content/images/2015/11/DSC_2151-700x394.jpg)
+
+![DSC_2148](/content/images/2015/11/DSC_2148-700x394.jpg)
+
+* i feel like i’m going to throw up, i have to bail. this is not like me–especially not at an event like this. team later tells me they came in 13th. feeling accomplished! i slept from 5pm until 5:30am the following morning, feeling worlds better
+* breakfast at the coffee shop, OJ, fruit and banana nut muffin  
+  ![DSC_2156](/content/images/2015/11/DSC_2156-700x394.jpg)
+
+![DSC_2158](/content/images/2015/11/DSC_2158-700x394.jpg)
+
+![DSC_2157](/content/images/2015/11/DSC_2157-700x394.jpg)
+
+* went to the keynote, so many lights, DJ, music, the place is HUGE. i mean HUGE… never seen this many people in a room in my life. taking it all in. squished in between a million strangers, still trying to get work done on hotspot through it all. eavesdropping on everyone. so many people to learn from
+* so many announcements… none of which apply to govcloud, but… new toys nonetheless  
+  ![DSC_2161](/content/images/2015/11/DSC_2161-700x394.jpg)
+
+![DSC_2164](/content/images/2015/11/DSC_2164-700x394.jpg)
+
+![DSC_2165](/content/images/2015/11/DSC_2165-700x394.jpg)
+
+![DSC_2162](/content/images/2015/11/DSC_2162-700x394.jpg)
+
+![DSC_2170](/content/images/2015/11/DSC_2170-700x394.jpg)
+
+![DSC_2171](/content/images/2015/11/DSC_2171-700x394.jpg)
+
+![DSC_2172](/content/images/2015/11/DSC_2172-700x394.jpg)
+
+![DSC_2174](/content/images/2015/11/DSC_2174-700x394.jpg)
+
+![DSC_2176](/content/images/2015/11/DSC_2176-700x394.jpg)
+
+![DSC_2178](/content/images/2015/11/DSC_2178-700x394.jpg)
+
+![DSC_2183](/content/images/2015/11/DSC_2183-700x394.jpg)
+
+![DSC_2184](/content/images/2015/11/DSC_2184-700x394.jpg)
+
+![DSC_2186](/content/images/2015/11/DSC_2186-700x394.jpg)
+
+* met up with SPARC’s AWS rep for a coffee and a chat–nice to meet people you’ve only spoken with via email in person finally. helps to put a face with a name :)
+* met up with mark, the guy brett and i met at the roulette tables at DEF CON.  
+  ![DSC_2189](/content/images/2015/11/DSC_2189-700x394.jpg)
+* wandered the vendor area with him for a while
+* vendor hall is overwhelming, scoop up a bunch of swag, start sweating due to anxiety and panic mode begins to set in… i found the developer lounge and a bean bag, made myself comfortable and settled in and got some work done  
+  ![DSC_2190](/content/images/2015/11/DSC_2190-700x394.jpg)
+
+![DSC_2191](/content/images/2015/11/DSC_2191-700x394.jpg)
+
+![DSC_2192](/content/images/2015/11/DSC_2192-700x394.jpg)
+
+* back on my feet
+* went to every devops/security/compliance talk i could get into. lines move fast but they are super long before they start moving. felt very much like def con in that regard  
+  ![DSC_2193](/content/images/2015/11/DSC_2193-700x394.jpg)
+
+![DSC_2194](/content/images/2015/11/DSC_2194-700x394.jpg)
+
+![DSC_2195](/content/images/2015/11/DSC_2195-700x394.jpg)
+
+![DSC_2196](/content/images/2015/11/DSC_2196-700x394.jpg)
+
+![DSC_2198](/content/images/2015/11/DSC_2198-700x394.jpg)
+
+* ran into mark again at one of the security talks  
+  ![DSC_2199](/content/images/2015/10/DSC_21991-e1445969466395-700x394.jpg)
+* free snacks and drinks everywhere  
+  ![DSC_2200](/content/images/2015/11/DSC_2200-700x394.jpg)
+
+![DSC_2202](/content/images/2015/11/DSC_2202-700x394.jpg)
+
+![DSC_2203](/content/images/2015/11/DSC_2203-700x394.jpg)
+
+![DSC_2204](/content/images/2015/11/DSC_2204-700x394.jpg)
+
+![DSC_2205](/content/images/2015/11/DSC_2205-700x394.jpg)
+
+![DSC_2206](/content/images/2015/11/DSC_2206-700x394.jpg)
+
+* met up with sean (another DEF CON/layerone buddy), we run around for a while and then get dinner and drinks together across the street at a little mexican bar, bar segundo. got some strawberry drink  
+  ![DSC_2208](/content/images/2015/11/DSC_2208-700x394.jpg)
+
+![DSC_2209](/content/images/2015/11/DSC_2209-700x394.jpg)
+
+![DSC_2210](/content/images/2015/11/DSC_2210-700x394.jpg)
+
+![DSC_2214](/content/images/2015/11/DSC_2214-700x394.jpg)
+
+![DSC_2216](/content/images/2015/11/DSC_2216-700x394.jpg)
+
+![DSC_2217](/content/images/2015/11/DSC_2217-700x394.jpg)
+
+![DSC_2218](/content/images/2015/11/DSC_2218-700x394.jpg)
+
+* run to CVS and back to hotel to shower and get ready for the pub crawl
+* also had to pick up tickets to the sinatra show, totally forgot about will call
+* went to public house to FINALLY meet @sawaba (adrian) and @dberkholz (donnie) for the first time. so excited.  
+  ![DSC_2220](/content/images/2015/11/DSC_2220-700x394.jpg)
+* donnie had to fly out, so adrian and i went to the rest of the pub crawl. i lost sean somewhere in the mix.
+* pub crawl was awesome, but the part of it that was at madame tussaud’s wax museum was the best. also they had tiny cheeseburgers, and free whiskey  
+  ![DSC_2221](/content/images/2015/11/DSC_2221-700x394.jpg)
+
+![DSC_2225](/content/images/2015/11/DSC_2225-700x394.jpg)
+
+![DSC_2224](/content/images/2015/11/DSC_2224-700x394.jpg)
+
+![DSC_2223](/content/images/2015/11/DSC_2223-700x394.jpg)
+
+![DSC_2222](/content/images/2015/11/DSC_2222-700x394.jpg)
+
+![DSC_2230](/content/images/2015/10/DSC_2230-e1445969449627-700x1244.jpg)
+
+![DSC_2233](/content/images/2015/10/DSC_2233-e1445969454261-700x1244.jpg)
+
+![DSC_2253](/content/images/2015/10/DSC_2253-700x394.jpg)  
+![DSC_2238](/content/images/2015/11/DSC_2238-700x394.jpg)
+
+![DSC_2239](/content/images/2015/11/DSC_2239-700x394.jpg)
+
+![DSC_2241](/content/images/2015/11/DSC_2241-700x394.jpg)
+
+![DSC_2244](/content/images/2015/11/DSC_2244-700x394.jpg)
+
+![DSC_2245](/content/images/2015/11/DSC_2245-700x394.jpg)
+
+![DSC_2248](/content/images/2015/11/DSC_2248-700x394.jpg)
+
+![DSC_2254](/content/images/2015/11/DSC_2254-700x394.jpg)
+
+* awkward photoshoot with mini me  
+  ![IMG_20151008_005224](/content/images/2015/11/IMG_20151008_005224.jpg)
+* made it through the wax museum just in time for the sintra show. adrian told me he’d never been to a show EVER, so he bought a ticket. loved it. it was… absolutely incredible. i didn’t stop smiling the whole time. the pianist was frank’s pianist for years, same with the band… just… gushing  
+  ![DSC_2255](/content/images/2015/11/DSC_2255-700x394.jpg)
+* went and grabbed dinner at the yardbird after… weirdest spicy caesar salad i’ve ever had, uncut stalks of romaine, delicious but awkward. amazing mac and cheese. followed by deep fried oreos… fried in RICE KRISPIES, served with CHOCOLATE ICE CREAM and DARK CHOCOLATE, omg… to die for  
+  ![DSC_2257](/content/images/2015/11/DSC_2257-700x394.jpg)
+* had a few drinks, was responsible, went to bed at a reasonable hour, but not before organizing all my swag from the day  
+  ![DSC_2258](/content/images/2015/11/DSC_2258-700x394.jpg)
+* woke up early the next morning in time for the next keynote, got there an hour ahead of time for breakfast again. more fruit and banana nut muffins and OJ… creature of comfort here  
+  ![DSC_2263](/content/images/2015/11/DSC_2263-700x394.jpg)
+
+![DSC_2264](/content/images/2015/11/DSC_2264-700x394.jpg)
+
+![DSC_2266](/content/images/2015/11/DSC_2266-700x394.jpg)
+
+![DSC_2267](/content/images/2015/11/DSC_2267-700x394.jpg)
+
+![DSC_2269](/content/images/2015/11/DSC_2269-700x394.jpg)
+
+![DSC_2271](/content/images/2015/11/DSC_2271-700x394.jpg)
+
+* made my way to the keynote, sat in the way back so i could get work done without people over my shoulders for an hour
+* moved up to the front before it started, badass DJ playing, so much fun. keynote was incredible, yet again.  
+  ![DSC_2276](/content/images/2015/11/DSC_2276-700x394.jpg)
+
+![DSC_2281](/content/images/2015/11/DSC_2281-700x394.jpg)
+
+![DSC_2286](/content/images/2015/11/DSC_2286-700x394.jpg)
+
+![DSC_2289](/content/images/2015/11/DSC_2289-700x394.jpg)
+
+![DSC_2291](/content/images/2015/11/DSC_2291-700x394.jpg)
+
+![DSC_2292](/content/images/2015/11/DSC_2292-700x394.jpg)
+
+* more security talks…  
+  ![DSC_2295](/content/images/2015/11/DSC_2295-700x394.jpg)
+* went back to the public house to have lunch alone and sit and unwind. sat down, looked to my left, and there was mark again. so we had drinks and food and talked until he had to leave  
+  ![DSC_2297](/content/images/2015/11/DSC_2297-700x394.jpg)
+
+![DSC_2298](/content/images/2015/11/DSC_2298-700x394.jpg)
+
+![DSC_2299](/content/images/2015/11/DSC_2299-700x394.jpg)
+
+* i went back to the conference hall and went to a few more talks. deep dive on VPNs and a lambda talk  
+  ![DSC_2301](/content/images/2015/11/DSC_2301-700x394.jpg)
+
+![DSC_2302](/content/images/2015/11/DSC_2302-700x394.jpg)
+
+![DSC_2303](/content/images/2015/11/DSC_2303-700x394.jpg)
+
+![DSC_2305](/content/images/2015/11/DSC_2305-700x394.jpg)
+
+![DSC_2310](/content/images/2015/11/DSC_2310-700x394.jpg)
+
+* met up with sean at the lambda talk, went to dinner after at buddy’s, an italian place in the venetian or palazzo… not sure. sangria and pizza and calamari. SO good.  
+  ![DSC_2311](/content/images/2015/11/DSC_2311-700x394.jpg)
+* back to hotel to shower and clean up before the re:Play party… had no idea what to expect
+* met up with adrian before the party at public house… ordered an irish coffee. he showed up right as i ordered it. lesson learned: don’t chug irish coffee  
+  ![DSC_2312](/content/images/2015/11/DSC_2312-700x394.jpg)
+
+![DSC_2314](/content/images/2015/11/DSC_2314-700x394.jpg)
+
+![DSC_2317](/content/images/2015/11/DSC_2317-700x394.jpg)
+
+![DSC_2318](/content/images/2015/11/DSC_2318-700x394.jpg)
+
+![DSC_2322](/content/images/2015/11/DSC_2322-700x394.jpg)
+
+* we finally found our way to the party. evidently they moved it into a parking lot this year because last year was inside and just too small. the whole place was blocked off with ginormous shipping containers… never seen anything like this in my life. one big square, split into 4 squares. a club, a totally geeked out area (video games, bot wars, robots, quad copters, everything), a super active area (sky diving tunnel, dodge ball, inflatable obstacle course), and a lounge (mini golf, pool, couches, ping pong). all of which were stocked with 1 or more open bars. wide open area in the middle of all of it. waiters and waitresses walking around with plates of tiny DELICIOUS food everywhere… just… unreal. the people watching was the best. [zedd was the DJ](https://www.zedd.net/) for the night… never seen a dance party like this in my life. hung out with mark and his wife and their friends for a while, hung out with sean for a while, people watched and ran around and just took it all in. got a re:Play shirt. watched adrian and mark destroy some nerds in dodgeball. toward the end of the night i said screw it, i’m going to the club area. because i want to experience a zedd party. i found a little empty circle to call my own and just went for it. another girl near me and i kept making eye contact that just said “OMG THIS IS AWESOME”. it was surreal.  
+  ![DSC_2325](/content/images/2015/11/DSC_2325-700x394.jpg)
+
+![DSC_2327](/content/images/2015/11/DSC_2327-700x394.jpg)
+
+![DSC_2328](/content/images/2015/11/DSC_2328-700x394.jpg)
+
+![DSC_2330](/content/images/2015/11/DSC_2330-700x394.jpg)
+
+![DSC_2334](/content/images/2015/11/DSC_2334-700x394.jpg)
+
+![DSC_2335](/content/images/2015/11/DSC_2335-700x394.jpg)
+
+![DSC_2336](/content/images/2015/11/DSC_2336-700x394.jpg)
+
+![DSC_2339](/content/images/2015/11/DSC_2339-700x394.jpg)
+
+![DSC_2344](/content/images/2015/11/DSC_2344-700x394.jpg)
+
+![DSC_2347](/content/images/2015/11/DSC_2347-700x394.jpg)
+
+![DSC_2350](/content/images/2015/11/DSC_2350-700x394.jpg)
+
+![DSC_2348](/content/images/2015/11/DSC_2348-700x394.jpg)  
+![DSC_2358](/content/images/2015/11/DSC_2358-700x394.jpg)
+
+![DSC_2367](/content/images/2015/11/DSC_2367-700x394.jpg)
+
+![DSC_2377](/content/images/2015/11/DSC_2377-700x394.jpg)
+
+![DSC_2388](/content/images/2015/11/DSC_2388-700x394.jpg)
+
+![DSC_2390](/content/images/2015/11/DSC_2390-700x394.jpg)
+
+* found adrian when it was all over with. party was from 8-midnight.
+* he and i walked back to the venetian
+* watched some girl get arrested. there was a random explosion of croissants everywhere, followed by a man in a wheelchair projectile vomiting, and this girl who (seemingly) robbed someone. older cop tried to arrest her and failed, just started man handling her, her top came off, her girlfriends all swarmed the scene. we stood there in shock because… croissants and vomit and what not. it made no sense at all.
+* got breakfast… because it’s like 1am and why not? hash browns and eggs and sausage FTW. so good.
+* mid breakfast, adrian says, “oh my god, that guy in the tinder shirt wearing the sunglasses just raised his arms in the air, screamed, and threw his glasses”. me, “HOLY SHIT THAT’S PATRICK!” and then i took off running. another DEF CON/layerone friend. works at tinder. so much fun. ran after him through the venetian, they were on their way to some club down the strip. no thank you.
+* hugs and said goodbye. said goodnight to adrian. went upstairs and slept like a rock.
+* friday was the last day. went to a great talk from a guy at coinbase. and another on AWS config rules  
+  ![DSC_2392](/content/images/2015/11/DSC_2392-700x394.jpg)
+
+![DSC_2394](/content/images/2015/11/DSC_2394-700x394.jpg)
+
+![DSC_2396](/content/images/2015/11/DSC_2396-700x394.jpg)
+
+![DSC_2397](/content/images/2015/11/DSC_2397-700x394.jpg)
+
+![DSC_2398](/content/images/2015/11/DSC_2398-700x394.jpg)
+
+* went back to the public house. this has now officially become my home base. patrick told me he’d meet up with me there for lunch and drinks. shrimp cocktails and wings and fries and all the whiskeys. the bartender screwed up some other guy’s order (twice) and gave me the extra drinks. so that was fun. and convenient.  
+  ![DSC_2399](/content/images/2015/11/DSC_2399-700x394.jpg)
+
+![DSC_2400](/content/images/2015/11/DSC_2400-700x394.jpg)
+
+![DSC_2403](/content/images/2015/11/DSC_2403-700x394.jpg)
+
+![FB_IMG_1444431972333](/content/images/2015/10/FB_IMG_14444319723331-700x933.jpg)
+
+* i had a plane to catch, so patrick walked me to the bell hop. got my luggage, got a taxi, and off i went.  
+  ![DSC_2413](/content/images/2015/11/DSC_2413-700x394.jpg)
+
+![DSC_2423](/content/images/2015/11/DSC_2423-700x394.jpg)
+
+and off i went.
+
+another successful vegas trip. this was vegas trip #9 for me. so… i’m kind of over the vegas part of vegas. but i do go to at least 1 show every time i’m there. gamble every now and again. but, for me, it’s not vegas without a con, and good friends, and good stories.
+
+so much fun. can’t wait til next year.

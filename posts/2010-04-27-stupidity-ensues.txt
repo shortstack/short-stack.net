@@ -1,0 +1,33 @@
+---
+date: '2010-04-27T13:44:27+00:00'
+favorite: false
+feature_image: ''
+format: markdown
+slug: stupidity-ensues
+tags:
+- clients
+- freelance
+title: Stupidity Ensues
+---
+
+so, remember the [client drama i was having a while back](http://short-stack.net/2010/03/05/freelancing-nightmare/)?
+
+it’s still not over.
+
+to be fair, i’ve been paid in full for 1 of the 2 websites i did for Company X. BUT… i am still owed $400. Website A was completed months ago. i was paid 100% for Website A. Website B was completed months ago. i was paid 50% for Website B. the other 50%? they’re trying to dangle it over my head (i will explain momentarily). this does not amuse me, whatsoever.
+
+first of all, i have not taken any legal action. **yet**. mostly because that costs money, time, and is probably more of a pain in the ass than it’s really worth. also because shortly after i made that post, i was paid $400 for one of the websites. this seemed like a step in the right direction. or so i thought. however, still missing the other $400, i’ve decided to lean in that direction. i will leave out those details because they don’t really matter. i’m writing this because i’m pissed off and i want to share my angst.
+
+i spoke with Client X (finally) last week. he said he was going to speak to Company X, who would send him a check in the amount of $400 by monday (yesterday), and he would then paypal the $400 to me. simple enough. i said okay. i e-mailed him yesterday to see if he received the check. *he did not receive the check.*
+
+THIS is where it gets interesting.
+
+evidently, Company X told Client X there were “minor” changes that needed to be made to Website A (YES, the website i’ve been paid for already), and threw in some excuse about someone being in the hospital. normally, i’d be more understanding/compassionate/whatever, but since it’s the second time i’ve heard this excuse in 2 weeks from the same person for the same reason, about a payment that should have been paid MONTHS AGO, and they’ve been dragging me through this mess since september, i don’t really give a rat’s ass. a company should have its priorities straight, but that is clearly one item out of a long list of things this company is lacking.
+
+it’s also worth mentioning that the “minor” issues that sprung up are a result of poor implementation of the design, **on their part**. i was already out of the picture. in other words, don’t give an idiot a task like restoring an entire database.
+
+so they’re dangling Website A over my head, in order to get me to do work, for stuff THEY screwed up, FOR FREE, *just* so i’ll quit bitching about the other $400 from Website B.
+
+i’ve got news for you, Company X–NOT GONNA HAPPEN!
+
+in the meantime, i’m calling in a favor from a friend.

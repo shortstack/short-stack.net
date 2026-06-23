@@ -1,0 +1,13 @@
+---
+date: '2008-03-04T23:22:38+00:00'
+favorite: false
+feature_image: ''
+format: markdown
+slug: who-thinks-of-this-crap
+tags: []
+title: Who Thinks Of This Crap?
+---
+
+seriously, i’m curious at this point. is there is a paying job that involves thinking up stupid spam like this?
+
+![](http://short-stack.net/images/scottishmen.png)

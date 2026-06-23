@@ -1,0 +1,13 @@
+---
+date: '2006-10-05T21:04:41+00:00'
+favorite: false
+feature_image: ''
+format: markdown
+slug: heading-home-2
+tags: []
+title: heading home
+---
+
+adam called. we got bored at work this morning.
+
+back to work! sort of. there’s not shit to do in here today besides obsessively reorganize the CDs. and watch last night’s south park episode which was HILARIOUS! if anyone else watched it, i hope you laughed your ass off. and LOST. if anyone saw the first 15 minutes of it, fill me in.

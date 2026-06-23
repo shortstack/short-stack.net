@@ -1,0 +1,11 @@
+---
+date: '2006-11-14T15:47:28+00:00'
+favorite: false
+feature_image: ''
+format: markdown
+slug: tunnel-painting
+tags: []
+title: tunnel painting =)
+---
+
+gaming club & ALUG joined forces last night after our meeting and [painted the tunnels](http://65.190.111.238/pictures/LANs/tunnelpainting111306/) on campus. we probably painted more than we should have but we felt that it was necessary to get our point across in a very noticeable and slightly overboard way. i think we had edited everything that was already written to say “i

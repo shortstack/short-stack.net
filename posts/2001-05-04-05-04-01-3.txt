@@ -1,0 +1,11 @@
+---
+date: '2001-05-04T16:42:00+00:00'
+favorite: false
+feature_image: ''
+format: markdown
+slug: 05-04-01-3
+tags: []
+title: 05/04/01
+---
+
+Hold up….I just realized something. I did blog 2 days ago, just not yesterday. Where the heck did my posts go. That’s really really not cool…shhhhhhhiat

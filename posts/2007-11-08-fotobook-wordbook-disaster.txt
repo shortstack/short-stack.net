@@ -1,0 +1,17 @@
+---
+date: '2007-11-08T19:49:07+00:00'
+favorite: false
+feature_image: ''
+format: markdown
+slug: fotobook-wordbook-disaster
+tags: []
+title: Fotobook + Wordbook = DISASTER
+---
+
+i don’t know how many people have tried this. it seems logical to be able to use fotobook AND wordbook on the same wordpress install, seeing as how they both link your blog to facebook. this is definitely not the case.
+
+for over a week i’ve been looking everywhere for the solution to this problem and finally when i was reading the discussion about the plug-ins on facebook, someone mentioned they had wordbook installed. ever since then, things quit working. i don’t really care much for wordbook seeing as how all it does it stick my blogs on facebook, which i’m not entirely sure i want to do anyway now that i think about it. i’m fine with the world seeing what i write, but the people that want to see it will find it. i don’t necessarily care for nosy people i may or may not be good friends with.
+
+fotobook works. for now. i’m still working on installing gallery2 because EVENTUALLY, i’d like to have ALL my pictures in gallery format instead of an ugly directory. let’s see… i’ve got about 18 gigabytes of pictures, and thousands of albums. i am going to estimate that it will take me about 6 years to get all my pictures imported into gallery2. yep.
+
+who am i kidding? now that adam is home, that time frame just doubled. i’ll be married with children, a pair of gerbils, and a mortgage payment before i get all that done. and the likelihood that i will hate computers by that point in my life? …judging by the way things are going this evening, i’d say the chances are up there.

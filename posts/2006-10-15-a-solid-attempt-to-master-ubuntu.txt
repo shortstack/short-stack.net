@@ -1,0 +1,15 @@
+---
+date: '2006-10-15T21:48:02+00:00'
+favorite: false
+feature_image: ''
+format: markdown
+slug: a-solid-attempt-to-master-ubuntu
+tags: []
+title: a solid attempt to master ubuntu
+---
+
+ALUG (appalachian linux users group) had a LAN friday night. i stayed until 4:30-5 in the morning. some stayed ’til who knows when. i definitely reformatted again. i didn’t reformat everything though, i kept windows and reformatted my slackware partition and said screw slack and i got ubuntu instead. i didn’t like it before simply because we had it on one of the computers at work and it seemed laggy, but looking back, that computer sucked, and my laptop has been running beautifully. i am proud to say that i’ve been making leaps and bounds since installing it. compiling shit and installing new programs and even getting my wireless working have been things that i have been able to do myself and normally i’d just look at rob and be like “fix it”. i tried that and he eventually said “figure it out” so i had to figure it out before i cried for not having wireless because so help me god if i can’t get on the internet to talk in IRC after i’ve been drinking. SO… in a nutshell, i’m going to conquer linux one of these days and the only thing stopping me from going back to windows is photoshop.
+
+the past week has been pretty crazy. classes have been slow and i’ve been pretty much worthless when it comes to getting anything done. i got paid so i’ve been able to get a few things out of the way like my parking tickets and rob’s $50 and i’ll be able to get my car inspected tomorrow. the pet thing with the office is all straightened. i bought adam a few things to send to him so i’ve got a package almost done. i don’t have any papers or exams except for my economics exam wednesday. my lab is due tuesday but that will be really easy and he grades easy too. i have to make the graphics for the gaming club. i have the fliers all finished but i still have to make a banner for mass mailings and a graphic for the website. i’m going to officially make a point this week to get ALL my shit done. it’s a 4 day weekend and the last thing i want is for it all to be hanging over my head. the week after this week i have 3 exams and then i’ll have yet another weekend to look forward to at fort bragg. and then halloween!!! i’m so excited.
+
+i’m going to go back to screwing around with ubuntu……….. :tongue:

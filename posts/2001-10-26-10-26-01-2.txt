@@ -1,0 +1,11 @@
+---
+date: '2001-10-26T20:17:00+00:00'
+favorite: false
+feature_image: ''
+format: markdown
+slug: 10-26-01-2
+tags: []
+title: 10/26/01
+---
+
+i'm workin on the mp3 player on here... gimme a lil bit...

@@ -1,0 +1,80 @@
+---
+date: '2013-10-26T22:33:14+00:00'
+favorite: false
+feature_image: ''
+format: markdown
+slug: a-busy-week
+tags:
+- boone hall plantation
+- capture the flag
+- caylin
+- charleston
+- hacking
+- halloween
+- infosec
+- nostalgia
+- pumpkin
+- pumpkin patch
+- SPARC
+- volunteer
+- windwood farms
+title: A Busy Week
+---
+
+i was fortunate enough this week to do some awesome things that i don’t normally have the opportunity to do.
+
+the first was on thursday. the charleston metro chamber of commerce held its annual cyber security conference. i’d never been until this year, oddly enough, and certainly never thought i’d be participating. i was reluctant at first, but some coworkers convinced me to team up and join the hacking demo/capture the flag competition. i’d only ever watched CTF events before, and hadn’t used any of that skillset in over 2 years, so i was anxious.
+
+i spent last week brushing up on metasploit and watching cbt nugget videos, and went to the conference not at all knowing what to expect.
+
+i got to the event and had to park on the other side of campus, but it was a nice morning so i had an enjoyable walk. it was at the same community college where i took all my welding classes. all of the shop/industrial type class students were standing outside hanging out, lounging at the picnic tables before class. brought back memories of the motley crue of guys i welded with and all of our off-the-wall picnic table discussions. such a weird combination of personalities, but we all got along really well and had a great time. my walk to the conference made me miss those saturday mornings.
+
+i finally got to the event and i was the only one not wearing a suit (holey jeans, tshirt, hoodie, boots). i didn’t see any of the other competitors, or my team, so i felt incredibly underdressed and a little out of place. contractors all had their booths set up with swag–i felt like i was at our college of business job fair all over again. and, once again, underdressed. a few minutes later, one of my teammates, mark, showed up, sans suit. instant relief. i grabbed a plate of fruit and a chugged a coffee. other teams slowly trickled in over the next 45 minutes. there were a lot of familiar faces from my SPAWAR days, which was interesting, for lack of a better word.
+
+the contest started at 10. no internet, no cell phone, no nothing. just you, kali linux, and your man pages, and any notes you brought with you. you were only allowed to attack target boxes–not your competition. and that’s about it. by the time lunch rolled around, i still hadn’t gotten up to use the restroom AND i was starving. uncomfortable doesn’t quite cover it.
+
+lunch was at 12:30-ish. it was catered–seasoned chicken, penne pasta with some kind of cheese sauce, wild rice, a freaking delicious salad, rolls, and dessert, which i didn’t get to because i filled up on everything else. it was… awesome. i’m pretty easy to please, but i thought this was one of the best meals i’d had in a long time. i don’t know how i didn’t get 2 plates.
+
+we finished at 2. they put the scores up on the projector–we came in 3rd out of 8. we were only a couple points shy of the 2nd place team, and considering the fact that one of our guys had never done any of this before, and me and the 3rd teammate hadn’t done this stuff in years, i was pretty damn proud of us. plus, it was nice to get my hands dirty with this stuff again. i gotta admit, i miss it.
+
+fast forward to friday morning… friday i volunteered at [windwood farm](http://www.windwoodfarm.org/), which is, in short, a home for boys who have been abused or neglected. it is a beautiful farm in awendaw, SC, on 100+ acres of fields and ponds. they have nature trails, horses, goats, donkeys, paddle boats, a basketball court, playgrounds, gardens, a school, 2 houses for the boys, and so much more. it is incredible. my jaw dropped as soon as we pulled into the property.
+
+5 of us volunteered to help paint the interior of one of the houses. they get volunteers to help repaint twice a year, because the walls just get beat up so much over time. 12 boys under one roof, especially boys under these circumstances, can do a lot of damage. they had a couple of men putting up beadboard throughout the downstairs, so our job was to repaint all of the doors, and then paint the beadboard. all glossy white. here are before photos:
+
+[![20131025_123619](/content/images/2013/10/20131025_123619-1024x768.jpg)](/content/images/2013/10/20131025_123619.jpg)
+
+[![20131025_123625](/content/images/2013/10/20131025_123625-1024x768.jpg)](/content/images/2013/10/20131025_123625.jpg)
+
+after photos:
+
+[![20131025_151647](/content/images/2013/10/20131025_151647-1024x768.jpg)](/content/images/2013/10/20131025_151647.jpg)
+
+[![20131025_151654](/content/images/2013/10/20131025_151654-1024x768.jpg)](/content/images/2013/10/20131025_151654.jpg)
+
+the pictures don’t do it justice, and i didn’t get enough. but it made it so much cozier in there. not bad for amateurs! they fed us pizza, and we played the directv 90’s hits station all day. beautiful weather, super friendly dogs, a GREAT group of people (could not ask for better company, seriously)–it was so much fun. i want to do more volunteer work, because you can’t beat that feeling. and for such a good cause, too. it breaks your heart hearing about these boys, but then when you see them running around on this farm playing together, knowing they are being taken care of by such amazing people–it’s awesome.
+
+aaand fast forward to today.
+
+brett and i finally took caylin to the pumpkin patch. we ate lunch at mellow mushroom first. i love their pizza, but i love their garlic cheese bread even more. god it’s good. i could just eat that.
+
+[![20131026_145736-1024x768](/content/images/2013/10/20131026_145736-1024x7681.jpg)](/content/images/2013/10/20131026_145736-1024x7681.jpg)
+
+[![20131026_145822-1024x768](/content/images/2013/10/20131026_145822-1024x7681.jpg)](/content/images/2013/10/20131026_145822-1024x7681.jpg)
+
+after lunch, we drove up to the pumpkin patch down the street at boone hall plantation. i think we’ve been every year except last year. i don’t think we even got pumpkins last year, which is sad. i don’t know what happened. but it was absolutely beautiful weather. little kids decked out in halloween outfits everywhere. the smell of good food and the outdoors. caylin got to run a muck and smack pumpkins. she’s just happy when she gets to walk around ANYWHERE. the first pumpkin she picked had a buttcrack–awesome, but not good carving material.
+
+[![20131026_152413](/content/images/2013/10/20131026_152413-1024x768.jpg)](/content/images/2013/10/20131026_152413.jpg)
+
+[![20131026_152358](/content/images/2013/10/20131026_152358-1024x768.jpg)](/content/images/2013/10/20131026_152358.jpg)
+
+[![20131026_152007](/content/images/2013/10/20131026_152007-1024x768.jpg)](/content/images/2013/10/20131026_152007.jpg)
+
+[![20131026_153344](/content/images/2013/10/20131026_153344-1024x768.jpg)](/content/images/2013/10/20131026_153344.jpg)
+
+[![20131026_154525](/content/images/2013/10/20131026_154525-1024x768.jpg)](/content/images/2013/10/20131026_154525.jpg)
+
+[![20131026_154530](/content/images/2013/10/20131026_154530-1024x768.jpg)](/content/images/2013/10/20131026_154530.jpg)
+
+all in all, pretty great past 3 days. also this week, i bought outdoor halloween decorations. i hope to get pics of the final product tomorrow after we carve our pumpkins. :)
+
+YAY.

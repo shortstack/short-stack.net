@@ -1,0 +1,32 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>{% block title %}{{ site.site_title }}{% endblock %}</title>
+<meta name="description" content="{{ site.site_description }}">
+<link rel="icon" href="/favicon.ico" sizes="any">
+<link rel="alternate" type="application/rss+xml" title="{{ site.site_title }}" href="/rss.xml">
+<link rel="stylesheet" href="/style.css">
+</head>
+<body>
+<header class="site-header">
+  <a class="brand" href="/">$ cat blog</a>
+  <button class="nav-toggle" aria-label="Toggle menu" aria-controls="site-nav" aria-expanded="false">menu&nbsp;▾</button>
+  <nav id="site-nav">
+    {% for np in site.nav_pages %}<a href="{{ np.url }}"{% if np.external %} target="_blank" rel="noopener noreferrer"{% endif %}>{{ np.label }}</a>{% endfor %}
+    <a href="/archive/">archive</a>
+    <a href="/search/">search</a>
+    <a href="/rss.xml">rss</a>
+    <a class="navfav" href="/favorites/" title="favorites" aria-label="favorites">&hearts;</a>
+  </nav>
+</header>
+<main>{% block content %}{% endblock %}</main>
+<footer class="site-footer">
+  <span class="prompt">$</span> {{ site.author }} — short-stack.net — since 2001
+</footer>
+<script src="/img-fallback.js" defer></script>
+<script src="/nav.js" defer></script>
+{% block scripts %}{% endblock %}
+</body>
+</html>

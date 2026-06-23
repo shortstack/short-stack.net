@@ -1,0 +1,11 @@
+---
+date: '2002-09-17T21:21:52+00:00'
+favorite: false
+feature_image: ''
+format: markdown
+slug: 091702-2
+tags: []
+title: 091702
+---
+
+quick plug to this guy for the sweet flash card he made me. he lives only a few minutes from me, and goes to calvary (where i went for 6th grade). cool beans.

@@ -1,0 +1,15 @@
+---
+date: '2009-02-19T21:52:44+00:00'
+favorite: false
+feature_image: ''
+format: markdown
+slug: survey-transfer
+tags: []
+title: Survey Transfer
+---
+
+i’ve become increasingly disappointed in survey monkey so i transferred my survey for my research paper to [www.survs.com](http://survs.com). :upyours: it’s free and basically does everything survey monkey charges $20 for.
+
+so. if you’re a female in computing/IT/open source, [go take my survey, please](http://tinyurl.com/cadxer)!
+
+thank you to everyone from [the systers mailing list](http://systers.org) for helping me out. :)

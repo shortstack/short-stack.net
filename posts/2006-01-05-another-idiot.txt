@@ -1,0 +1,11 @@
+---
+date: '2006-01-05T03:18:27+00:00'
+favorite: false
+feature_image: ''
+format: markdown
+slug: another-idiot
+tags: []
+title: Another Idiot
+---
+
+[this](http://www.realpics.net/profile.php?id=49395) isn’t me either. why are people so stupid?

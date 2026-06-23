@@ -1,0 +1,65 @@
+---
+date: '2011-04-18T23:41:09+00:00'
+favorite: false
+feature_image: ''
+format: markdown
+slug: survived-day-one
+tags:
+- certifications
+- linux
+- NCSU
+- north carolina
+- raleigh
+- red hat
+- RHCE
+- RHCSA
+title: Survived Day One
+---
+
+i made it through my first day of red hat training. for those of you unfamiliar with the subject, [this is the course i’m taking all week](https://www.redhat.com/courses/rh300_rhce_rapid_track_course_and_rhce_exam/). i am SHOCKED that it went by so quickly today, really. i don’t usually do well in classrooms. in terms of attention span, i don’t really have one. but since this class is all hands on, i wasn’t ever sitting idle listening to a teacher drone on, and i was like a sponge.
+
+it’s such a good feeling when things just hit you and you’re like… i get it. i love that feeling. when it comes to you easily and you retain it. me and computers get along this way, and i am thankful for that. because come friday, when i’m staring at my exam objectives, aaaaargh. i don’t even want to think about it yet.
+
+i’d say about 95% of today’s material was review. the only part i had never really done before was the iscsiadm stuff, and i have a feeling i won’t be doing much of it in the future, either (minus, you know, the exam). but it’s good to know. and, it could happen, i guess. i have a feeling the rest of the week is only going to get more intense.
+
+but i am really loving the class so far. the instructor is *fantastic*. the dude has written like 70 books on unix/linux in his lifetime, and… that is just… mind-boggling.
+
+they gave us lots of cool toys on our first day. not including the workbook because the damn thing is 400+ pages long, and i don’t consider that a cool toy. but they gave us 4GB flash drives (with sweet redhat logo and strange rubbery outer shell), another RH sticker to add to my collection, RH highlighter, really nice RH notebook with a RH pen. i am a sucker for cool swag. i’ve been told by JB that we get a shirt when we pass the exam, but we shall see about that.
+
+while i’m here this week, i’m staying at JB’s house. he lives about 3 miles from campus and one of his roommates is out for the week, so i get my own room and bathroom. WIN. also, it helps that he works at red hat and i can bug him with questions. which i’m certain i will do throughout the week.
+
+random pictures from this week so far:
+
+#gallery-7 {
+margin: auto;
+}
+#gallery-7 .gallery-item {
+float: left;
+margin-top: 10px;
+text-align: center;
+width: 33%;
+}
+#gallery-7 img {
+border: 2px solid #cfcfcf;
+}
+#gallery-7 .gallery-caption {
+margin-left: 0;
+}
+/\* see gallery\_shortcode() in wp-includes/media.php \*/
+
+[![last night's dinner](/content/images/2011/04/IMAG0530-150x150.jpg)](/content/images/2011/04/IMAG0530.jpg)
+:   my calzone the size of a small baby
+
+[![the goods](/content/images/2011/04/IMAG0531-150x150.jpg)](/content/images/2011/04/IMAG0531.jpg)
+:   the goods
+
+[![red hat :)](/content/images/2011/04/IMAG0532-150x150.jpg)](/content/images/2011/04/IMAG0532.jpg)
+:   red hat :)
+
+[![red hat on NCSU campus](/content/images/2011/04/IMAG0535-150x150.jpg)](/content/images/2011/04/IMAG0535.jpg)
+:   red hat on NCSU campus
+
+[![red hat on NCSU campus](/content/images/2011/04/IMAG0536-150x150.jpg)](/content/images/2011/04/IMAG0536.jpg)
+:   red hat on NCSU campus
+
+website work is done, blog is done, and now it is time for more angry birds.

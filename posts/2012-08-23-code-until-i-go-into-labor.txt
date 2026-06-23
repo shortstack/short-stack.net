@@ -1,0 +1,28 @@
+---
+date: '2012-08-23T11:56:31+00:00'
+favorite: false
+feature_image: ''
+format: markdown
+slug: code-until-i-go-into-labor
+tags:
+- hackathon
+- labor
+- SPARC
+title: Code Until I Go Into Labor
+---
+
+[![](/content/images/2012/08/HACKATHON_Header_logo.png)](http://hackathon.sparcedge.com) the company i work for had their very first hackathon last year, and has since decided to make it an [annual event](http://hackathon.sparcedge.com). a bunch of teams of 1-3 people draw random ideas for an application to develop, and they spend a 10-hour day building the application for either android, iOS, or windows.
+
+last year, my partner and i won “flashiest app” award for our very cheesy “chatty cathy” themed application. i forget the specifics of what our app was actually supposed to do, but it had a pull string and made noises and played different snarky stephen colbert remarks depending on user input and various categories. since i had very minimal experience building android apps at the time, and even less doing so with a partner (who i barely knew at the time), it was an interesting 10 hours. but an excellent learning experience, nonetheless. :) they’re doing the judging and app ideas a little differently this time around, but it’s the same general idea. and probably with more booze this time, too.
+
+so this year, when the hackathon planning started, i found out it was scheduled for 2 days before my due date. i could not think of a worse time to spend 10 hours coding java. i decided to sit the hackathon out this year.
+
+and then like 3 weeks ago, i must have been feeling sadistic, because i signed up anyway. the prizes are amazing, and if i don’t give birth by the 25th, i will just be sitting at home that saturday anyway. what the hell, right?
+
+the hackathon is the day after tomorrow, and now i’m terrified. brett started making fun of me last night, joking about what if my water breaks while i’m debugging my crap code, panicking about whether i should stay for the hackathon judging and awards, or go to the hospital (hospital, obviously, but he was amused). granted, less than 15% of women have their water break before they go into labor, but i could think of few things more humiliating than being in the middle of a nerd fest when that happens. far worse than the time i puked after playing quake at one of our [AppalachLANs](http://gaming.appstate.edu/) back at school.
+
+nevertheless, i’m still going to make an attempt. i will see how the day goes. it’s going to be incredibly uncomfortable, so i plan on being super fashionable–sweatpants, t-shirt, sports bra, and a bean bag chair if it gets bad enough.
+
+there are almost 30 teams this year, and i’m going in alone this time, so it will be tough. i figured if i had to forfeit in the middle of the event, it would be unfair to any teammates, so i’m rocking it solo. i will most certainly look like a lunatic, but… such is life.
+
+bottom line–wish me luck! :happy: so that either i go into labor before saturday, or that caylin holds out for me until after the hackathon madness.

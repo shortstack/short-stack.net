@@ -1,0 +1,23 @@
+---
+date: '2013-02-13T10:56:45+00:00'
+favorite: false
+feature_image: ''
+format: markdown
+slug: my-favorite-mashed-taters
+tags: []
+title: My Favorite Mashed Taters
+---
+
+this probably makes enough taters for 3 people but brett and i usually eat the whole thing. they’re my absolute favorite to make with steak and green beans :)
+
+cut 1 russet potato into 8 blocks  
+boil for about 20-30 minutes or until it falls apart with a fork
+
+mash in a bowl
+
+add 1/3 cup cream cheese (or however much you want, i could eat cream cheese with a spoon)  
+2 tbsp butter  
+1 tbsp milk  
+salt and pepper to taste
+
+mix and serve :)

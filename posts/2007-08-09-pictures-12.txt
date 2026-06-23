@@ -1,0 +1,15 @@
+---
+date: '2007-08-09T00:31:42+00:00'
+favorite: false
+feature_image: ''
+format: markdown
+slug: pictures-12
+tags: []
+title: pictures
+---
+
+i FINALLY got the [scandinavia pictures](http://75.177.42.39/pictures/trips/scandinavia051507-060807/) online. it took a few days of not touching my server but they’re there now. my adventures of denmark, sweden, finland, and norway are now available. higher resolution pictures are available if the landscape photos aren’t big enough. there was some incredible scenery and even the high res. pictures and video don’t do it justice. i would go back in a heartbeat if i could.
+
+in other news, my new laptop came today. i love it… with one exception. HP needs to quit putting so much CRAP on brand new computers. who needs all this shit? seriously. the first thing i did was go into add/remove programs and uninstalled every single thing on that list. it’s fine now. :smile: i’m going to have to continue tweaking vista to not be so vista-like. and then i will get linux working on my other partition. yesss!
+
+gym time.

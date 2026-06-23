@@ -1,0 +1,103 @@
+---
+date: '2010-08-04T16:00:13+00:00'
+favorite: false
+feature_image: ''
+format: markdown
+slug: there-are-no-words
+tags:
+- annapolis
+- beach
+- brett
+- defcon
+- home
+- vegas
+title: There Are No Words
+---
+
+let me start out by saying that… my weirdness is not random. at all. my mom is weird. my dad is weird. my weirdness was, unavoidably, inherited. and i can never thank my parents enough.
+
+HOWEVER, they still catch me off guard from time to time.
+
+i received an e-mail from my dad this morning. its only contents were “IFP.” obviously, having no idea, i called and asked him what the hell “IFP” meant.
+
+> me: dad, what is IFP?  
+> dad: welllllllllllllll you know BRB… and you know LOL… and you don’t know IFP?  
+> me: yes, dad  
+> dad: it means…. Index Finger Pinky! i made it up!  
+> me: wow  
+> dad: you know, you really should use it!
+
+awesome.
+
+on a side note, i’ve been absent from the blogosphere lately. not really on purpose. since brett and i moved into the new apartment, i’ve found that having a separate room for the computers has significantly minimized my time spent staring at my laptop… it’s SO fantastic. although, my addiction to my droid, online scrabble, and TBS sitcoms keep me entirely occupied, and probably just as useless.
+
+i’ve also been a bit of a traveler lately. home for my birthday, hilton head with brett, annapolis/DC for work, vegas for ~~work~~ DEFCON!!!
+
+doing more, writing less. there is such a thing as technology overload, and until last month, i think i was just about there.
+
+to make up for the hiatus, here are happy fun pictures from the last month.
+
+#gallery-1 {
+margin: auto;
+}
+#gallery-1 .gallery-item {
+float: left;
+margin-top: 10px;
+text-align: center;
+width: 33%;
+}
+#gallery-1 img {
+border: 2px solid #cfcfcf;
+}
+#gallery-1 .gallery-caption {
+margin-left: 0;
+}
+/\* see gallery\_shortcode() in wp-includes/media.php \*/
+
+[![](/content/images/2010/08/20859\_699238977618\_29700336\_39536486\_5927731\_n-150x150.jpg)](/content/images/2010/08/20859\_699238977618\_29700336\_39536486\_5927731\_n.jpg)
+
+[![](/content/images/2010/08/36355\_699239346878\_29700336\_39536530\_6255718\_n-150x150.jpg)](/content/images/2010/08/36355\_699239346878\_29700336\_39536530\_6255718\_n.jpg)
+
+[![](/content/images/2010/08/35815\_699239491588\_29700336\_39536549\_5900335\_n-150x150.jpg)](/content/images/2010/08/35815\_699239491588\_29700336\_39536549\_5900335\_n.jpg)
+
+[![](/content/images/2010/08/36355\_699239371828\_29700336\_39536534\_4315255\_n-150x150.jpg)](/content/images/2010/08/36355\_699239371828\_29700336\_39536534\_4315255\_n.jpg)
+
+[![](/content/images/2010/08/34202\_699239741088\_29700336\_39536576\_4697212\_n-150x150.jpg)](/content/images/2010/08/34202\_699239741088\_29700336\_39536576\_4697212\_n.jpg)
+
+[![](/content/images/2010/08/37002\_700591232688\_29700336\_39582348\_2289702\_n-150x150.jpg)](/content/images/2010/08/37002\_700591232688\_29700336\_39582348\_2289702\_n.jpg)
+
+[![](/content/images/2010/08/37002\_700591237678\_29700336\_39582349\_1405515\_n-150x150.jpg)](/content/images/2010/08/37002\_700591237678\_29700336\_39582349\_1405515\_n.jpg)
+
+[![](/content/images/2010/08/35364\_700590583988\_29700336\_39582296\_3685843\_n-150x150.jpg)](/content/images/2010/08/35364\_700590583988\_29700336\_39582296\_3685843\_n.jpg)
+
+[![](/content/images/2010/08/37707\_700591068018\_29700336\_39582331\_1743340\_n-150x150.jpg)](/content/images/2010/08/37707\_700591068018\_29700336\_39582331\_1743340\_n.jpg)
+
+[![](/content/images/2010/08/34316\_700591656838\_29700336\_39582385\_2723419\_n-150x150.jpg)](/content/images/2010/08/34316\_700591656838\_29700336\_39582385\_2723419\_n.jpg)
+
+[![](/content/images/2010/08/37686\_700821276678\_29700087\_39593088\_8087404\_n-150x150.jpg)](/content/images/2010/08/37686\_700821276678\_29700087\_39593088\_8087404\_n.jpg)
+
+[![](/content/images/2010/08/34368\_700592085978\_29700336\_39582414\_2762279\_n-150x150.jpg)](/content/images/2010/08/34368\_700592085978\_29700336\_39582414\_2762279\_n.jpg)
+
+[![](/content/images/2010/08/38232\_703626070848\_29700336\_39690256\_4132593\_n-150x150.jpg)](/content/images/2010/08/38232\_703626070848\_29700336\_39690256\_4132593\_n.jpg)
+
+[![](/content/images/2010/08/38814\_703626285418\_29700336\_39690278\_6209954\_n-150x150.jpg)](/content/images/2010/08/38814\_703626285418\_29700336\_39690278\_6209954\_n.jpg)
+
+[![](/content/images/2010/08/39787\_705963626368\_29700336\_39781967\_5045688\_n-150x150.jpg)](/content/images/2010/08/39787\_705963626368\_29700336\_39781967\_5045688\_n.jpg)
+
+[![](/content/images/2010/08/39754\_705965672268\_29700336\_39782119\_5001764\_n-150x150.jpg)](/content/images/2010/08/39754\_705965672268\_29700336\_39782119\_5001764\_n.jpg)
+
+[![](/content/images/2010/08/38553\_705964429758\_29700336\_39782017\_770970\_n-150x150.jpg)](/content/images/2010/08/38553\_705964429758\_29700336\_39782017\_770970\_n.jpg)
+
+[![](/content/images/2010/08/39787\_705963631358\_29700336\_39781968\_5653186\_n-150x150.jpg)](/content/images/2010/08/39787\_705963631358\_29700336\_39781968\_5653186\_n.jpg)
+
+[![](/content/images/2010/08/39763\_705965138338\_29700336\_39782073\_8174044\_n-150x150.jpg)](/content/images/2010/08/39763\_705965138338\_29700336\_39782073\_8174044\_n.jpg)
+
+[![](/content/images/2010/08/39754\_705965717178\_29700336\_39782127\_2264790\_n-150x150.jpg)](/content/images/2010/08/39754\_705965717178\_29700336\_39782127\_2264790\_n.jpg)
+
+[![](/content/images/2010/08/39736\_705963556508\_29700336\_39781962\_7370805\_n-150x150.jpg)](/content/images/2010/08/39736\_705963556508\_29700336\_39781962\_7370805\_n.jpg)
+
+[![](/content/images/2010/08/39167\_705965946718\_29700336\_39782147\_6652621\_n-150x150.jpg)](/content/images/2010/08/39167\_705965946718\_29700336\_39782147\_6652621\_n.jpg)
+
+[![](/content/images/2010/08/38658\_705966176258\_29700336\_39782171\_3583386\_n-150x150.jpg)](/content/images/2010/08/38658\_705966176258\_29700336\_39782171\_3583386\_n.jpg)
+
+[![](/content/images/2010/08/38658\_705966136338\_29700336\_39782163\_3102502\_n-150x150.jpg)](/content/images/2010/08/38658\_705966136338\_29700336\_39782163\_3102502\_n.jpg)

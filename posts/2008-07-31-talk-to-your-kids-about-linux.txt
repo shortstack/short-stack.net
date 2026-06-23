@@ -1,0 +1,19 @@
+---
+date: '2008-07-31T15:01:20+00:00'
+favorite: false
+feature_image: ''
+format: markdown
+slug: talk-to-your-kids-about-linux
+tags: []
+title: Talk To Your Kids About Linux
+---
+
+one of my closest [friends](http://robspace.net) who graduated from ASU was the one who formally introduced me to linux, the linux users group, and basically an entirely new realm of nerdiness during my freshman year. he sent me this yesterday from [xkcd](http://xkcd.com) and truer words have never been ~~spoken~~ drawn.
+
+[![](http://imgs.xkcd.com/comics/cautionary.png)](http://imgs.xkcd.com/comics/cautionary.png)…because that has totally happened before. and the alt tag on the comic reads “This really is a true story, and she doesn’t know I put it in my comic because her wifi hasn’t worked for weeks,” and all i could think of was junior year of college when i took slackware off of my laptop and tried my hand at installing linux on my own. and had no wireless for entirely too long.
+
+last winter, rob was staying in boone for the night to do some presentations around campus and crashed at my apartment. i had recently installed (as in that day) fedora 8 on my new laptop and had gotten it working as a dual boot with vista (pain in the freaking ass). let’s just say, wireless with broadcom drivers and brand spanking new fedora 8 was not the easiest feat in the world, either. and i pulled an all-nighter while he slept all nice and cozy at my apartment. he woke up and i’m guessing his thoughts were along the same lines as “I’m too late…” :geek: despite the huge amount of sleep i’ve lost, i couldn’t say thank you enough for getting me to where i am now.
+
+thanks to you, rob, i’m now able to break shit on my own, pull an all-nighter, and fix it all by myself. :wink:
+
+this better pay off. :happy: and by pay off i mean i better get a sweet job. and cookies.

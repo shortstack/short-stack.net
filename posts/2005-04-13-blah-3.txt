@@ -1,0 +1,11 @@
+---
+date: '2005-04-13T01:44:23+00:00'
+favorite: false
+feature_image: ''
+format: markdown
+slug: blah-3
+tags: []
+title: Blah
+---
+
+i am exhausted and it is only tuesday and i haven’t done jack crap besides lab and hebron. i’m crashing. hopefully tomorrow will be another good day. :smile:

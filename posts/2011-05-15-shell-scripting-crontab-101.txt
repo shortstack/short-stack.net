@@ -1,0 +1,69 @@
+---
+date: '2011-05-15T20:05:37+00:00'
+favorite: false
+feature_image: ''
+format: markdown
+slug: shell-scripting-crontab-101
+tags:
+- bash
+- crontab
+- linux
+- shell scripting
+- tutorial
+title: Shell Scripting & Crontab 101
+---
+
+the other day, a friend asked me for help with a simple shell script that was making her angry. and it got me thinking–there are so many people who use linux or unix and don’t use it to anywhere near its full potential.
+
+there are so many things you can do that people don’t realize that will make your life easier.
+
+### example–regular backups.
+
+i don’t know how many people use crontab on a regular basis. i don’t either! but that’s because i set it up once, and i leave it alone. and that’s all it takes, unless you keep adding to it.
+
+i tweeted the other day–it’s like scripting your own maid. you make a sort of “to do” list in bash, and you stick it in a cron job, and you sit back, and it does everything for you.
+
+easy peasy, right? right.
+
+### first, you need your backup script.
+
+as an example, i will be backing up my pictures directory. this is like my most prized possession on my computer because it basically holds all of my memories since 1998, AND all my VHS-ripped home movies since birth. it’s pretty near and dear to my heart. **it needs to be backed up.**
+
+if you’re like me and keep all your things in one giant place (like a separate partition or hard drive), this will be simple. if you have things saved in many places, or if you want to also regularly back up your /home or /etc or /var directories, just add a few more lines to the following.
+
+# !/bin/bash rsync -arv /home/shortstack/Pictures/ /media/External/Pictures/Backup
+
+> **rsync -arv**       this will archive (preserves symbolic links, permissions, etc) directories/files recursively  
+> **/home/shortstack/Pictures**       this is the directory you want to back up  
+> **/media/External/Pictures/Backup**       this is the destination directory
+
+using your favorite text editor (i am partial to vi), save this in a file and name it **backup.sh**. make sure to chmod it to 777, or just something executable.
+
+if you need to back up more things, duplicate and modify line #3 to meet your needs.
+
+### then, you just stick it in a cron job.
+
+if you aren’t familiar with crontab, here is a quick run-through. you basically need to add one line to **/etc/crontab**:
+
+30 02 \* \* 1-5 /home/shortstack/Documents/backup.sh
+
+### what do the numbers mean?
+
+very simple: minute, hour, day of month, month, day of week. so this line will run my backup.sh script at 2:30 AM every week day (M-F). you can tweak these numbers to meet your needs.
+
+the following short codes can also be used:
+
+> @reboot runs at startup  
+> @yearly 0 0 1 1 \* (also, @yearly)  
+> @monthly 0 0 1 \* \*  
+> @weekly 0 0 \* \* 0  
+> @daily 0 0 \* \* \* (also, @midnight)  
+> @hourly 0 \* \* \* \*
+
+@weekly /home/shortstack/Documents/backup.sh
+
+this will run backup.sh once a week.
+
+this is a very simple, very basic example. but it is also very useful and is something (i feel like) every linux user should use/abuse/rely on.
+
+at the very least, you now have zero excuse for losing all your things. ;)

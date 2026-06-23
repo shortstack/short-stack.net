@@ -1,0 +1,11 @@
+---
+date: '2006-01-17T04:28:25+00:00'
+favorite: false
+feature_image: ''
+format: markdown
+slug: new-layout-3
+tags: []
+title: New Layout
+---
+
+i’m working on the new layout so if the page is quirky for a while tonight, bear with me.

@@ -1,0 +1,18 @@
+---
+date: '2002-10-18T21:34:00+00:00'
+favorite: false
+feature_image: ''
+format: markdown
+slug: 10-18-02
+tags: []
+title: 10/18/02
+---
+
+what’s up you guys! i just got home, and god i’m tired.  
+school was incredibly boring, as usual. i nearly fell asleep in english. i’m getting a little tired of talking about edgar allan poe. he’s a great writer, don’t get me wrong. but, mrs. conrad has gone overboard.
+
+i dropped off jordan & andy (it could’ve been tommy, but they’re twins, and i have yet to figure out how to tell them apart) and southwest elementary, and then me & doug met up at mcdonalds afterwards. we sat there for a while and ended up going back to my house. my internet is now fixed :D thank you doug! so my site is somewhat back up. you have to use an IP address, but i don’t care. as long as domain.com figures out whatever they’re doing over there, i’ll be happy. however, if they don’t figure it out, i’m gonna be uber PISSED OFF!
+
+i went home and took a shower and cleaned my room and all that good stuff. at around 6 or so i left to go to cameron’s house. he lives at least 15 minutes away from me. big al came back from texas to visit! i’ve missed him bunches, and he’s one of my closest friends. god i was so happy when he told me he was coming home. that was the highlight of my school year. i had met up with him during 3rd lunch today, and he sat with me for a little bit, and then walked me to my 6th period class. but anyway, he’s staying at cameron’s house until sunday morning. so i hung out with him and cameron and ryan for a few hours tonight. it was so much fun; they’re such sweethearts. i don’t want him to go back to texas :( he’s gonna go up to pizza hut tomorrow with ed when i’m working, so that’ll be good.
+
+i’m gonna go work on the site and try to figure out what’s going on with the DNS. i’ll post later.

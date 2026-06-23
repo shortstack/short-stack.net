@@ -1,0 +1,23 @@
+---
+date: '2008-03-26T23:57:30+00:00'
+favorite: false
+feature_image: ''
+format: markdown
+slug: twitter-tools-fix
+tags: []
+title: Twitter-Tools Fix
+---
+
+after installing and re-installing twitter-tools about 12 times, i finally decided to actually LOOK at the plugin code to see what it was that was making the link to my twitter RSS feed be at the top of my tweets list all the time. i will blame my past attemps on laziness because i just didn’t want to mess with it. now i’m extremely bored and took a minute to write an if statement. oh, what an exciting life i lead. :wink: so here’s the fix for it. just replace “#” with the number associated with your RSS feed/user\_timeline– ex. http://…/user\_timeline/8094902.rss.
+
+if ($tweet->tw\_id != ‘#’)
+{
+…
+}
+
+place this around the following code in the “aktt\_sidebar\_tweets” function:
+
+$output .= ‘ ‘. aktt\_make\_clickable(wp\_specialchars ($tweet->tw\_text)).’
+twitter\_username.’/statuses/’.$tweet->tw\_id.'”> ‘.aktt\_relativeTime($tweet->tw\_created\_at, 3).’‘.”\n”;
+
+if you have any problems, let me know. it worked for me. :smile:

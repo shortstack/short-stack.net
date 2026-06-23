@@ -1,0 +1,11 @@
+---
+date: '2002-11-18T07:28:00+00:00'
+favorite: false
+feature_image: ''
+format: markdown
+slug: 11-18-02
+tags: []
+title: 11/18/02
+---
+
+class is boooorrrriinnng… ;x

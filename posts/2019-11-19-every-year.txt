@@ -1,0 +1,11 @@
+---
+date: '2019-11-19T21:03:11+00:00'
+favorite: false
+feature_image: ''
+format: markdown
+slug: every-year
+tags: []
+title: every year
+---
+
+october and november hit, and mental health becomes a dumpster fire.

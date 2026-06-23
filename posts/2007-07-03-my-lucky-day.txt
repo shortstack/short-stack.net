@@ -1,0 +1,11 @@
+---
+date: '2007-07-03T23:02:41+00:00'
+favorite: false
+feature_image: ''
+format: markdown
+slug: my-lucky-day
+tags: []
+title: my lucky day
+---
+
+was it a coincidence that i had EXACTLY $.70 in my pocket to get a twix out of the vending machine? i think not…! :biggrin:

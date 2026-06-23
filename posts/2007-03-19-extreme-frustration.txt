@@ -1,0 +1,11 @@
+---
+date: '2007-03-19T21:42:29+00:00'
+favorite: false
+feature_image: ''
+format: markdown
+slug: extreme-frustration
+tags: []
+title: extreme frustration
+---
+
+i think i just got off the phone with the dumbest person at this university. i want to shoot myself in the foot. holy hell.

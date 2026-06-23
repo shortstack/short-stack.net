@@ -1,0 +1,11 @@
+---
+date: '2009-02-28T15:59:07+00:00'
+favorite: false
+feature_image: ''
+format: markdown
+slug: i-tweet-myself
+tags: []
+title: I Tweet Myself
+---
+
+if you haven’t seen this video, please, watch it now. [ijustine](http://ijustine.com), you’re my e-hero.

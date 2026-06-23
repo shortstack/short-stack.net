@@ -1,0 +1,32 @@
+---
+date: '2011-03-01T20:37:29+00:00'
+favorite: true
+feature_image: ''
+format: markdown
+slug: angry-birds-vectors-and-carpal-tunnel
+tags:
+- angry birds
+- drawings
+- illustrator
+- TIG
+- welding
+title: Angry Birds Vectors... and Carpal Tunnel
+---
+
+i’ve been working on a side project since this weekend, and this side project ended up requiring me to draw my own angry birds because there are no good quality vectors on the internet. at least that i can find. maybe my google-fu is sucking these days.
+
+anyhow, i figured i would put them up as freebies, in the event that someone else wants to use them. i only drew 2 of the birds, because my freaking hand started twinging after 2 hours of drawing in adobe illustrator. my eyes also started to cross. i’m not an artist, and i don’t usually draw, and after last night i remember why.
+
+it should also be said that this post is in effort to further procrastinate staring at java for the rest of the evening.
+
+![angry birds](/content/images/2011/03/web.jpg "angry birds")
+
+the files are on dropbox. no credit or link back is required.
+
+– [click to download the red bird](https://s3.amazonaws.com/angry-birds-vectors/red_bird.ai)  
+– [click to download the yellow bird in the slingshot](https://s3.amazonaws.com/angry-birds-vectors/slingshot.ai)  
+– [click to download the extras](https://s3.amazonaws.com/angry-birds-vectors/angrybirds_xtra.ai)
+
+in other news, my TIG welding class started this past saturday and i think i’m going to like this even better than stick and MIG. i can’t wait to go back, even if it is at 9AM on a saturday. again. my class is about the same size as my last one, with a couple familiar faces, which is nice. but i’m still the only girl. it’s a… strange bunch, to say the least.
+
+in the middle of class, my instructor called me out in front of everyone, and told them that i was the best stick and MIG welder in both of his classes, and i swear to god my face turned as red as that damned bird.

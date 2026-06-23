@@ -1,0 +1,45 @@
+---
+date: '2010-03-05T12:53:34+00:00'
+favorite: false
+feature_image: ''
+format: markdown
+slug: freelancing-nightmare
+tags:
+- clients
+- freelance
+title: Freelancing Nightmare
+---
+
+\*NOTE: this is long, so get comfy. i apologize ahead of time.
+
+have you ever been to [clients from hell](http://clientsfromhell.tumblr.com/)? whether you just want to know that you’re not the only one dealing with a terrible client, or you want a good laugh, i highly recommend it. i have had more than a handful of scenarios that are worthy of being quoted on this site, which reminds me–i really need to start writing them down.
+
+if i haven’t said it enough, i love my day job. my Big Girl Job. i love information security. it fascinates me. i have learned more in the past 9 months than i learned through all of college. i enjoy my day at work, and when i come home every night, i generally get right to working on websites. brett or i will cook dinner–he settles in playing his xbox, and i get to coding. my hours are weird, because not every freelance web developer has the same routine. that’s one upside to any kind of freelance work–making your own hours. i’ve realized that clients don’t always understand that. sometimes… sometimes they think that because you make your own hours means they can help you *define* those hours.
+
+example: this morning, i got a call from Company X (i will leave all names anonymous from here on out) at 7:38 AM. this is the same client i was griping about yesterday on [twitter](http://twitter.com/shortxstack/status/9989811437). i didn’t answer the phone. i let it go to voicemail, and moments later received the voicemail, accompanied by an e-mail.
+
+it is not out of the ordinary for things like this to happen. that does not make them acceptable. a few months ago, i got sick of allowing my clients to walk all over me (which was 100% my fault, there need to be boundaries) so i defined my own hours. i told them (nicely) that i am at my Big Girl Job during the day, and everything else (website related) is to be taken care of during the week, in the evenings between 5 and 9 PM. that is a small window, but so far it is working. they can e-mail me all they want, but for the most part, all website related work will be done during those 4 hours.
+
+well, this winter things picked up a bit. i had a lot on my plate, and still do. some odds and ends are being tied up, some projects are just hanging there waiting on the client to come forth with updates, and some are just starting up. it’s a big mix, but i keep track of everything in spreadsheets and i’m pretty good at keeping it all organized.
+
+one thing that i make SURE of, whether i stay organized or not, is that there are invoices. invoices, *invoices*, **invoices**. and some form of a binding statement that says, yes, i will pay you this amount of money. there are a couple (literally) that i don’t worry about because, A) they are friends, and B) they have been loyal to me for years. because the moment a client starts changing numbers on me–there’s a problem. man, i just started realizing how many nightmarish stories i can tell you all. so many blog entries to come of this. i must not forget.
+
+anyway, way back in september, i was contacted by Client X (who i have recently found out is actually an independent contractor for Company X, which i mentioned earlier). Client X needed 2 websites to be completed because their company, Company X, did not have enough resources (whether it was time, money, or people, i don’t know) to get them done. we both signed a contract, saying i would be subcontracted to complete these 2 websites. i sent Client X 2 invoices–one for each website. the invoices stated that 50% of the website would be paid for up front, and the remaining 50% would be paid upon completion of the site. this is how i do every project, and so far it has worked out in my favor. i promptly received the first 50%, for both websites, via PayPal. we were good to go, i thought.
+
+i completed both sites fairly quickly. there were a few minor changes that were done over the course of 2-ish months. basically, the sites have been completed and sitting, waiting on my server for about 4-ish months now.
+
+now, i found out a couple weeks ago that Client X is no longer working for Company X. this only came up in conversation via e-mail (which have been few and far between, *terrible* communication on their part) after i sent the 523th bitchy e-mail, demanding i get paid for the work i did. MONTHS ago.
+
+i’ve been bitching and moaning to and about Client X for months now, but never took any kind of legal action. the amount of money i am owed is not a small amount, but in my mind, it is not worth going to court over. the only reason i asked about lawyers on twitter yesterday was to get other opinions on how to get things moving in the right direction so this can be finished. if that did not work, then i would be more inclined to take some sort of legal action. evidently, a lot of people thought small claims court was a feasible idea. i know nothing about that sort of thing, so the thought alone scares me. i’d like to avoid that if at all possible.
+
+i started making phone calls. i called Client X, roughly 4 times, before i got any kind of feedback. i called Company X at least 20 times yesterday, and all i got was answering machines. FINALLY, a representative from Company X called me, but because i can’t have my phone in the lab i work in, i missed it. awesome. phone tag really blows.
+
+on my drive home, i spoke with Client X. he finally answered his phone, and i’m sure he regretted it immediately afterward. i was not psychotic, but i was not exactly friendly. my e-mails started out friendly, but over the last 4 months, they got a little uglier. i’ve heard the *exact* same story at least a dozen times from Client X, and yesterday’s phone call was no different. i hung up, and because i was *so fed up with everything* (i already had just one of those days yesterday… forgot my badge, spilled coffee TWICE, spilled ravioli EVERYWHERE, spilled pears EVERYWHERE, smashed my finger, it was just irritating), i went home and took a 20 minute, scalding hot shower, followed by 20 minutes of laying on my bed and staring at the ceiling. then i asked brett to go buy us a case of beer. thank you, babe–you are awesome.
+
+after all that, i didn’t exactly sleep well last night.
+
+and then i got the call from Company X this morning at 7:30. i did not need that. but after listening to the voicemail, and reading the e-mail this morning, i’ve decided that Company X is not who i need to be angry at. Client X deserves to feel my wrath. all of it. come to find out, he hasn’t been working with Company X for “a long while now” according to them. which COMPLETELY explains why this is a nightmare in the first place. if an independent contractor leaves a company, and continues to deal with Company X’s clients, that is a recipe for disaster. and serious communication FAIL. and confusion. and all of the above. depending on what kind of contract they have, that can be considered breach of contract–something i do NOT want to become involved in. Company X told me that if i put the sites back online (i took them down, hoping the process would speed up with some motivation), he could get the deal finalized with their clients (the companies whose websites i’d created) and i will be paid by next week.
+
+with all that said, i should have gone to Company X months ago. however, i did not know to do that since i had no idea, until recently, that Client X didn’t work there anymore. all along, i thought i was still dealing with Company X through Client X. definitely *not* the case.
+
+currently, i am waiting for an e-mail response from Company X about this whole ordeal being patched up. the sites are live again and their clients are viewing them, and *hopefully* giving them the final payments. which will hopefully be given to me by next week. hopefully this nightmare will be over. hopefully. thank you, representative from Company X, for not screwing around. you are a good man. cross all your fingers, all your toes, all your eyeballs, please. i will let you know what happens.

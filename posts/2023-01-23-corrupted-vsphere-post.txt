@@ -1,0 +1,153 @@
+---
+date: '2023-01-23T21:19:09+00:00'
+favorite: false
+feature_image: ''
+format: markdown
+slug: corrupted-vsphere-post
+tags: []
+title: Repairing A Corrupted vCenter PostgreSQL DB
+---
+
+![Screen-Shot-2023-01-23-at-2.13.32-PM](/content/images/2023/01/Screen-Shot-2023-01-23-at-2.13.32-PM.png)
+
+the fun of running a lab also comes with the fun of troubleshooting things you wouldn't otherwise have to troubleshoot in a properly managed/replicated/backed up environment. like figuring out how a database within vcenter that you didn't even know about got corrupted during a power failure and how to fix it.
+
+this is not my area of expertise, nor do i ever wish for it to be, but if we wish to run OpenSOC at any point in the future without rebuilding a million pieces of the puzzle (something we absolutely do not have time for), i needed to figure this out.
+
+TL;DR - vcenter won't work if vmware-vpxd isn't running (along with many other services, but this was the most problematic one in our case). vmware-vpxd won't run if vmware-vpostgres isn't running. vmware-vpostgres won't run if things are clobbered.
+
+typically the vcenter UI takes minutes to come up, but i waited and waited and eventually logged in to find that the `/sdk` endpoint was unavailable. i assumed one of the required services hadn't started, so i SSH'ed in to see what went wrong where.
+
+steps i took to get things back in order are below. this is by no means an exhaustive solution, and it will undoubtedly not work in every case. but it worked in mine. running v6.7.
+
+i hope this helps anyone who encounters similar problems, since i ran into articles like [this](https://communities.vmware.com/t5/vCenter-Server-Discussions/VCSA-services-not-starting/td-p/2732967) a few times and almost gave up hope.
+
+since i knew we had a power failure and the system likely got hard powered off, i went ahead and ran `pg_resetxlog`.
+
+### clear the write-ahead log
+
+```
+su vpostgres -s /bin/sh
+pg_resetxlog -f /storage/db/vpostgres
+exit
+service-control --start vmware-vpostgres
+```
+
+vpostgres still wouldn't start, so i continued. i started seeing errors about state files having the wrong magic number in the postgres logs.
+
+```
+PANIC:  replication slot file "pg_replslot/vpg_archiver/state" has wrong magic number: 1743 instead of 17112225
+LOG:  startup process (PID 24143) was terminated by signal 6: Aborted
+```
+
+### remove old state files
+
+```
+mv /storage/db/vpostgres/pg_replslot/vpg_archiver /opt
+mv /storage/db/vpostgres/pg_logical/replorigin_checkpoint /opt
+service-control --start vmware-vpostgres
+```
+
+to my surprise, postgres started. i went to start vpxd, and it failed again.
+
+### find the corrupted entries in vpxd.log
+
+```
+2023-01-23T17:24:10.040Z warning vpxd[36077] [Originator@6876 sub=InvtVmDb] Failed to load VPX_VM record from DB. Host id: '7583' is not found in the inventory for VM id: '5247'
+2023-01-23T17:24:10.041Z warning vpxd[36077] [Originator@6876 sub=InvtVmDb] Failed to load VPX_VM record from DB. Host id: '7583' is not found in the inventory for VM id: '8649'
+2023-01-23T17:24:10.041Z warning vpxd[36077] [Originator@6876 sub=InvtVmDb] Failed to load VPX_VM record from DB. Host id: '7583' is not found in the inventory for VM id: '4412'
+2023-01-23T17:24:10.041Z warning vpxd[36077] [Originator@6876 sub=InvtVmDb] Failed to load VPX_VM record from DB. Host id: '7583' is not found in the inventory for VM id: '8132'
+2023-01-23T17:24:10.041Z warning vpxd[36077] [Originator@6876 sub=InvtVmDb] Failed to load VPX_VM record from DB. Host id: '7583' is not found in the inventory for VM id: '2614'
+2023-01-23T17:24:10.041Z warning vpxd[36077] [Originator@6876 sub=InvtVmDb] Failed to load VPX_VM record from DB. Host id: '7583' is not found in the inventory for VM id: '5681'
+2023-01-23T17:24:10.041Z warning vpxd[36077] [Originator@6876 sub=InvtVmDb] Failed to load VPX_VM record from DB. Host id: '7583' is not found in the inventory for VM id: '128'
+2023-01-23T17:24:10.042Z warning vpxd[36077] [Originator@6876 sub=InvtVmDb] Failed to load VPX_VM record from DB. Host id: '7583' is not found in the inventory for VM id: '8911'
+2023-01-23T17:24:10.042Z warning vpxd[36077] [Originator@6876 sub=InvtVmDb] Failed to load VPX_VM record from DB. Host id: '7583' is not found in the inventory for VM id: '7320'
+2023-01-23T17:24:10.042Z warning vpxd[36077] [Originator@6876 sub=InvtVmDb] Failed to load VPX_VM record from DB. Host id: '7583' is not found in the inventory for VM id: '4064'
+```
+
+```
+cat /var/log/vmware/vpxd/vpxd.log | grep "Failed to load VPX_VM record from DB"
+```
+
+i saw a ton of errors in here, and this is completely new territory for me. i noted the article above, which suggested restoring from a backup that we did not have. since that wasn't an option, this was kind of a hail mary.
+
+i decided to remove the problematic entries from the inventory in the vcenter database.
+
+### find the database password in the config
+
+```
+cat /etc/vmware/service-state/vpxd/embedded_db.cfg | grep PGUSER_PASSWORD
+```
+
+### log into the database
+
+```
+su vpostgres -s /bin/sh
+psql -d VCDB postgres
+```
+
+### delete the corrupted entries
+
+you will need to run the following commands for each corrupted machine by replacing `<VM_ID_HERE>` with the ID of the machines identified in the log file.
+
+you can script it or just copy paste, depending on how many errors you ran into.
+
+i don't envy your situation either way.
+
+```
+delete from VPX_COMPUTE_RESOURCE_DAS_VM where VM_ID=<VM_ID_HERE>;
+delete from VPX_COMPUTE_RESOURCE_DRS_VM where VM_ID=<VM_ID_HERE>;
+delete from VPX_GUEST_DISK where VM_ID=<VM_ID_HERE>;
+delete from VPX_VIRTUAL_DEVICE where ID=<VM_ID_HERE>;    
+delete from VPX_VM_CONFIG_INFO where ID=<VM_ID_HERE>;
+delete from VPX_VM_DS_SPACE where VM_ID=<VM_ID_HERE>;
+delete from VPX_VM_FILE_LAYOUT_EX where VM_ID=<VM_ID_HERE>;
+delete from VPX_VM_FLE_DISK_LAYOUT where VM_ID=<VM_ID_HERE>;
+delete from VPX_VM_FLE_FILE_INFO where VM_ID=<VM_ID_HERE>;
+delete from VPX_VM_FLE_SNAPSHOT_LAYOUT where VM_ID=<VM_ID_HERE>;
+delete from VPX_VM_STATIC_OVERHEAD_MAP where VM_ID=<VM_ID_HERE>;
+delete from VPX_VM where ID=<VM_ID_HERE>;
+delete from VPX_ENTITY where ID=<VM_ID_HERE>;
+\quit
+service-control --start vmware-vpxd
+```
+
+vpxd started. \o/
+
+### reboot
+
+i rebooted to see if my issues would allow all the vcenter services to come up on their own.
+
+they all did.
+
+once i was able to log into vcenter in the web UI, i moved all my "discovered virtual machines" back to where they needed to be. nothing was lost in the process.
+
+i did, however, start seeing `You have no privileges to view this object or it does not exist` in the web UI after a few minutes.
+
+i went back to the vpxd logs:
+
+vpxd had died again.
+
+```
+SQLError was thrown: "ODBC error: (XX002) - ERROR: index "pk_vpx_proc_log" contains corrupted page
+```
+
+### reindex (maybe)
+
+i had some indexing errors. you may not. YMMV. i reindexed the indexes that had errors.
+
+```
+su vpostgres -s /bin/sh
+psql -d VCDB postgres
+reindex index pk_vpx_proc_log;
+```
+
+### reboot (again)
+
+i rebooted again to make sure everything was running smoothly. so far, i haven't had any further issues. and still, no data loss.
+
+so, if you think your database is completely hosed, it may not be. 🤷
+
+and hopefully this spares you the hours that it wasted for me.
+
+![jennifer-lawrence-the-mocking-jay](/content/images/2023/01/jennifer-lawrence-the-mocking-jay.gif)

@@ -1,0 +1,36 @@
+---
+date: '2011-01-21T21:28:47+00:00'
+favorite: false
+feature_image: ''
+format: markdown
+slug: visions-of-pcaps-danced-in-my-head
+tags:
+- bash
+- c
+- coding
+- Dreams
+- python
+- shell scripting
+- sql
+- tshark
+- wireshark
+title: Visions of Pcaps Danced In My Head
+---
+
+in high school, all i did was code. coded websites–for fun, for my high school, and for the company i worked for. coded for class. i had pascal, c++, and java–one each year. and calculus on top of that. everything was code and numbers… *all the time*. i even coded at all of our LAN parties when i couldn’t stare at counter strike or battlefield any longer.
+
+before i got to college, i planned on majoring in computer science (big surprise). i started out on the computer science track when i got to appalachian, and before i even got that far, i was like, no way am i doing that again. i was so sick of coding. it was never anything worthwhile in class. those of you who have taken those classes know how it is. “make a program that simulates a library check in system” or “make a block game” or “create a poll”. never anything that really grabs you. and it definitely never does anything useful.
+
+so i switched majors to computer information systems. we had visual basic .net and asp.net. we had a course that supposedly taught us how to make websites but, really, it didn’t. there was a java class which i didn’t take but it was available. oh, and i did take database. i think (?) that’s it, as far as coding goes.
+
+my senior year (the second one, not the first, 5 year winner here) “team” project was to create a system for a client of our choice that did something for the company. which is vague, but we had basically free rein as long as it had a frontend (website or GUI), some sort of middleware code, and a backend (database). mine was all php and sql. i did EVERY bit of it by hand, and i did 90% of it in a single 4-day weekend when i had the flu and only got out of bed to pee. notice i didn’t say shower because i don’t think i showered for those 4 days. it was… not awesome.
+
+basically, until i got to where i am now, in the real world, my coding adventures have all been segmented. it’s been one or the other. pascal was all pascal. c++ was all c++. java was all java. websites are their own animal. you can see a pattern.
+
+basically, until i got to where i am now, my dreams were all IN ONE LANGUAGE OR THE OTHER. none of this mix and match shit. during my senior project, my dreams in sql were so freaking vivid that i actually worked a problem out that i had been having with my queries in my dream, woke up the next morning, and wrote it down, and it worked. THAT is dedication.
+
+but lately? at work? i’ve been all over the place. shell scripting. python scripting. coding in c. every. single. day. and not to mention working with network traffic/packet captures throughout ALL of it… wireshark/tshark queries can be a language all in their own. oh, and let’s not forget sed. regular expressions can [DIAF](http://www.urbandictionary.com/define.php?term=D.I.A.F.). again, i do love it. it’s challenging and satisfying and my brain hurts when i come home every day…
+
+but there have been repercussions, and those repercussions consist of pcap files scrolling through wireshark while i sleep. this week i’ve been trying to match syn packets with their correct tcp stream using a mix of c and python, so last night while i was dreaming i was looking for rst packets like my life depended on it (literally) and, let me tell you, i did not sleep well. python has this lovely function called os.walk that my mind likes to attempt while i’m not looking. the loops i wrote in my shell scripts reappear throughout my dream as if the entire dream is a python script that i keep running over and over and over again. everything i do has this ominous speech bubble over it telling me, “you are doing this as root… THIS COULD BE DANGEROUS”. the tasks in my dream life are divvied up and scheduled as cron jobs.
+
+IT IS A MESS. i need sleep in order to do these things and retain my sanity. and i don’t know a cure for it other than a bottle of wine. which is what i’m about to do. because blogging on a friday night is probably the last thing on the list of cures for nerdy dreams. i need more hobbies.

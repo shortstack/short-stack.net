@@ -1,0 +1,12 @@
+---
+date: '2006-11-29T23:36:28+00:00'
+favorite: false
+feature_image: ''
+format: markdown
+slug: pissed-2
+tags: []
+title: pissed
+---
+
+fuck school  
+and fuck the exam schedule

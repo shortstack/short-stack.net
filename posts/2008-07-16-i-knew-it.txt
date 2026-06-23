@@ -1,0 +1,11 @@
+---
+date: '2008-07-16T16:49:39+00:00'
+favorite: false
+feature_image: ''
+format: markdown
+slug: i-knew-it
+tags: []
+title: I Knew It!
+---
+
+there HAD to come a day when someone out there would tell me that ice cream is good for me. i just knew it. if you don’t believe me, [read it yourself](http://digg.com/health/10_things_that_are_suprisingly_good_for_you).

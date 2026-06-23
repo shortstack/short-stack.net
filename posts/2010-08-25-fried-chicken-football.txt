@@ -1,0 +1,73 @@
+---
+date: '2010-08-25T10:22:26+00:00'
+favorite: false
+feature_image: ''
+format: markdown
+slug: fried-chicken-football
+tags:
+- boone
+title: Fried Chicken & Football
+---
+
+this weekend was long overdue.
+
+i’m actually kind of surprised i made it 5 months without going to boone.
+
+brett and i left charleston around 1:30 on friday, which was a little later than we’d hoped. i needed to get my oil changed and my tires rotated so that set me back about an hour. and $60. stupid cars and their stupid maintenance.
+
+anyway, we made pretty good time, getting into boone right around dinner time. it was move-in weekend, which means dinner time in boone == gridlocked. nightmare, nightmare! lucky for us, we made it to the cabin without too much of a hassle, got cleaned up, and decided it would be best to eat dinner in banner elk that night. seven devils is about 15-20 minutes from boone, so this was just easier. boone can wait ’til saturday.
+
+and it ended up being like… the best dinner of my LIFE. we went to the [hearthstone tavern and grille](http://www.hearthstonetavern.net/). if you ever take a trip to the mountains, GO THERE. you will *not* regret it. it’s a little pricey ($20+ a plate), but it is so worth it. you should really get a reservation, but since brett and i don’t really plan these kinds of things, we walked in not knowing what to expect, and definitely underdressed. which meant we sat at the bar and ate… which actually worked out perfectly because they had the football game playing and a guy in the corner singing and playing guitar. it was awesome.
+
+he ordered fried chicken with mashed taters and okra (amazing). i had the blackened chicken alfredo. it was THE best alfredo i’ve ever had in my life. i had no idea alfredo could be that good. i don’t even really *like* alfredo that much anymore, to be honest, but i had one of my weird cravings. so now, i will never be able to eat alfredo at any other restaurant as long as i live.
+
+and the whole night, this older man sat next to us, and he was HILARIOUS. i love listening to old guys tell stories… this one was no different. he bought brett and i each a double shot of jack daniel’s, so that made him even more awesome. i gave him a big hug before we left and actually, i’m kind of bummed that i might not ever see him again!
+
+we went back to the cabin and drank beer and watched ESPN, which led to a long, drawn out discussion (dude, brett can talk about football for HOURS. and HOURS. it’s ridiculous. he studies it like it’s his JOB) about whether or not brett favre is a turd or not. i don’t think he’s a turd–just indecisive. and brett doesn’t really think he’s a *turd*, per se… he just disagrees with him making long, drawn out decisions without acknowledging the effects they have on his team, and he went on and on, with more reasons, and i love it when he talks football, because i learn a lot, and he gets to talk about football. and i really think he should’ve gone into sportscasting instead of computers. seriously. dude’s a natural.
+
+![tweet](/content/images/2010/08/tweets.png "tweet")that about sums up that night. and the whole weekend.
+
+i got to see a lot of good friends i hadn’t seen in FAR too long. i got my fix of fries and nachos at macado’s (not exactly crossfit friendly, WHATEVER, it’s been 5 months). we got to go to hebron (we still went even though it rained, and now i will never climb slippery boulders again), and we got to go to fan fest. the weather cleared up just in time for ASU’s scrimmage. brett literally watched the [radar on his droid](http://www.droidapps.org/radar-now-animated-weather-radar/) the entire time we were at macado’s. he said he had to make sure the storm was “tapering” so it wouldn’t be raining during the football game. and sure enough, it tapered. i’ve never seen someone so obsessed with a weather radar for an entire hour.
+
+#gallery-3 {
+margin: auto;
+}
+#gallery-3 .gallery-item {
+float: left;
+margin-top: 10px;
+text-align: center;
+width: 33%;
+}
+#gallery-3 img {
+border: 2px solid #cfcfcf;
+}
+#gallery-3 .gallery-caption {
+margin-left: 0;
+}
+/\* see gallery\_shortcode() in wp-includes/media.php \*/
+
+[![](/content/images/2010/08/46102\_710946296058\_29700336\_39958509\_1629815\_n-150x150.jpg)](/content/images/2010/08/46102\_710946296058\_29700336\_39958509\_1629815\_n.jpg)
+
+[![](/content/images/2010/08/46102\_710946321008\_29700336\_39958514\_2529571\_n-150x150.jpg)](/content/images/2010/08/46102\_710946321008\_29700336\_39958514\_2529571\_n.jpg)
+
+[![](/content/images/2010/08/44821\_710946939768\_29700336\_39958549\_1606991\_n-150x150.jpg)](/content/images/2010/08/44821\_710946939768\_29700336\_39958549\_1606991\_n.jpg)
+
+[![](/content/images/2010/08/41217\_710947244158\_29700336\_39958559\_2893064\_n-150x150.jpg)](/content/images/2010/08/41217\_710947244158\_29700336\_39958559\_2893064\_n.jpg)
+
+[![](/content/images/2010/08/44821\_710946944758\_29700336\_39958550\_2509961\_n-150x150.jpg)](/content/images/2010/08/44821\_710946944758\_29700336\_39958550\_2509961\_n.jpg)
+
+[![](/content/images/2010/08/44821\_710946914818\_29700336\_39958544\_4087390\_n-150x150.jpg)](/content/images/2010/08/44821\_710946914818\_29700336\_39958544\_4087390\_n.jpg)
+
+[![](/content/images/2010/08/41176\_710947658328\_29700336\_39958586\_4900063\_n-150x150.jpg)](/content/images/2010/08/41176\_710947658328\_29700336\_39958586\_4900063\_n.jpg)
+
+[![](/content/images/2010/08/44842\_710948077488\_29700336\_39958634\_1042308\_n-150x150.jpg)](/content/images/2010/08/44842\_710948077488\_29700336\_39958634\_1042308\_n.jpg)
+
+[![](/content/images/2010/08/44842\_710948067508\_29700336\_39958632\_3121096\_n-150x150.jpg)](/content/images/2010/08/44842\_710948067508\_29700336\_39958632\_3121096\_n.jpg)
+
+[![](/content/images/2010/08/41229\_710948501638\_29700336\_39958684\_2798489\_n-150x150.jpg)](/content/images/2010/08/41229\_710948501638\_29700336\_39958684\_2798489\_n.jpg)
+
+and now it’s wednesday and i’m already ready for another weekend. yesterday was my 8th day of crossfit. i’ll post 7, 8, and 9 after tonight’s workout. which might \*actually\* kill me. 6 rounds of 3 rope climbs and kettlebell push jerks sounds like it could easily be simplified to just… 2 rounds of 3 rope climbs followed by whitney falling to her death. or taking a kettlebell to the face.
+
+i already almost broke my thumb last night when i got it squeezed between a weight and the hook it goes on. my GOD that hurt. it’s nice and purple now.
+
+plus, i haven’t climbed anything since i [took that pole dancing class](http://short-stack.net/2009/08/28/expanding-my-horizons/), but something tells me that was a lot easier than a rope.

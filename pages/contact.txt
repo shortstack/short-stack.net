@@ -1,0 +1,17 @@
+---
+format: html
+nav: contact
+nav_order: 5
+parent: ''
+slug: contact
+title: contact
+---
+
+<p>
+<a href="https://bsky.app/profile/whit.zip">bluesky</a><br>
+<a href="https://www.instagram.com/whit.zip">insta</a><br>
+<a href="https://twitter.com/shortxstack">twitter</a><br>
+<a href="https://infosec.exchange/@shortstack">mastodon</a><br>
+<a href="https://linkedin.com/in/whitneypowell">linkedin</a><br>
+<a href="https://github.com/shortstack">github</a><br>
+</p>

@@ -1,0 +1,11 @@
+---
+date: '2008-04-11T18:30:28+00:00'
+favorite: false
+feature_image: ''
+format: markdown
+slug: last-of-iraqis
+tags: []
+title: Last of Iraqis
+---
+
+[this man’s blog](http://last-of-iraqis.blogspot.com/) is so depressing but i can’t not read it. :???:

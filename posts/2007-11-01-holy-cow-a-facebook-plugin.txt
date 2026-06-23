@@ -1,0 +1,15 @@
+---
+date: '2007-11-01T01:38:40+00:00'
+favorite: false
+feature_image: ''
+format: markdown
+slug: holy-cow-a-facebook-plugin
+tags: []
+title: Holy Cow, A Facebook Plugin
+---
+
+i should have known there was something of its type in existence already. i was looking through a bunch of plug-in websites and stumbled upon [this guy](http://www.aaronharp.com/). he must be a genius of some sort. people like him make me slightly nauseous–you know, the kind of people who are good at *everything*. he writes/records music, plays instruments, does photography, designs websites, and most importantly he writes freaking web applications for crying out loud. he probably speaks 6 languages, too. can i have some of your brain cells? please?
+
+by the way, thank you for the [fotobook plug-in](?page_id=12). using other people’s things makes me feel so lame but i guess that’s one way to learn.
+
+i’m debating on what to do with my very bare-bones gallery that i’ve used for the past decade or so. i’m thinking about installing gallery2 and doing a complete overhaul on it so it looks nothing like gallery2 (i think it’s hideous) and that way i can just do batch uploads from my website. that is going to take hours. it is making my head hurt even thinking about it. bah.

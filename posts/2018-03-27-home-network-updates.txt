@@ -1,0 +1,98 @@
+---
+date: '2018-03-27T10:32:31+00:00'
+favorite: true
+feature_image: ''
+format: markdown
+slug: home-network-updates
+tags:
+- cameras
+- g3
+- g3 dome
+- g3 micro
+- home network
+- nvr
+- ubiquiti
+- unifi
+- wireless
+title: Home Network Updates
+---
+
+thanks again to the incredible people over at [@ubnt](http://twitter.com/ubnt), i have some new additions to the home network.
+
+if you didn’t see the first post, you can read more [here](http://short-stack.net/home-network-overhaul/). basically, earlier this year i rebuilt all the things for the home network/lab and wrote about it. and because i was so happy with the gear that ubiquiti sent the first time, they sent me some more things to try out.
+
+i’ve never been one to get hyped up about home cameras because i much prefer being *behind* the camera these days, instead of in front of it. also, it just seems intrusive having a camera on all the time. i like my privacy at home. but within the last year or so, our neighborhood has had a lot more issues with people breaking into cars, stealing stuff off porches, vandalism, etc. i figured… might not be a bad idea to set something up.
+
+![](/content/images/2018/03/20180202_121212-700x408.jpg)
+
+![](/content/images/2018/03/20180210_100926-1-700x833.jpg)
+
+![](/content/images/2018/03/20180307_183557-700x394.jpg)
+
+they sent me the following:
+
+* [Ubiquiti UniFi Switch 8, 60W](https://www.ubnt.com/unifi-switching/unifi-switch-8/)
+* [Ubiquiti UniFi NVR](https://www.ubnt.com/unifi-video/unifi-nvr/)
+* [Ubiquiti UniFi Video Camera G3, indoor/outdoor](https://www.ubnt.com/unifi-video/unifi-video-camera-g3/)
+* [Ubiquiti UniFi Video Camera G3 Dome, indoor/outdoor](https://www.ubnt.com/unifi-video/unifi-video-camera-g3-dome/)
+* [Ubiquiti UniFi Video Camera G3 Micro, indoor only](https://www.ubnt.com/unifi-video/unifi-video-camera-g3-micro/)
+* [Ubiquiti Unifi Access Point](https://www.ubnt.com/unifi/unifi-ap-ac-pro/), additional AP
+
+now, i had never set up anything like this before. i’m not familiar with video recorders and i’ve never dealt with IP cameras. let me just say… the hardest part of all of this was finding the time to actually set it up. the rest was cake.
+
+one weekend i sat down and unboxed everything. hooked up the switch and the NVR. a perk about all the UniFi gear: it’s all really compact. i was able to fit the switches, the USG, the NVR, my NUC, my NAS, and brett’s VPN. all the things on one shelf, minus the access points. pretty nice.
+
+![](/content/images/2018/03/20180317_235732-700x394.jpg)
+
+i didn’t get to do the rest until last week.
+
+![](/content/images/2018/03/20180320_210645-700x394.jpg)
+
+back porch.
+
+![](/content/images/2018/03/20180320_210606-e1522163024670-700x1244.jpg)
+
+front porch.
+
+![](/content/images/2018/03/20180320_210629-700x394.jpg)
+
+living room.
+
+i am glad i bought new ethernet cables when i did, because i was able to use the short ones i bought to hook all this stuff up and then use the ridiculously long ones for 2 of the cameras. our house is not wired, so unfortunately (first world problems) i have to run cables for the 2 outdoor cams. small sacrifice.
+
+the first 2 are PoE, and the last one is wireless, and indoor only, AND magnetic, so cool. so i still have to have it somewhere where it can reach a power outlet, but at least it doesn’t need an ethernet cable. and it just sticks to things. the other 2 require mounting of some kind, whether it’s to a pole or with drywall mounts. each comes with different hardware options. since i’m so fancy, i opted to use [these](https://www.amazon.com/Command-Picture-Hanging-8-Medium-17203-ES/dp/B000OF6X48/ref=sr_1_cc_3?s=aps&ie=UTF8&qid=1522163385&sr=1-3-catcorr&keywords=velcro+strips+command).
+
+i can hear nerds cringing everywhere. i’m also not sure if these are where they will be permanently, so not making any holes in walls or ceilings until that’s figured out.
+
+the NVR sits on its own switch, along with the cameras and the other AP. which is nice: it means putting them on their own network is super easy. the first switch was already plugged into WAN1, i plugged the second switch into WAN2, plugged the new AP into the new switch. created a new network pointing to the second interface, and created a second wireless network in a new WLAN group. put the new AP in the new WLAN group. configured the wireless camera with the new WAP, and bam. all the video equipment is separated.
+
+![](/content/images/2018/03/Screenshot-2018-03-18-00.05.51-700x185.png)
+
+![](/content/images/2018/03/Screenshot-2018-03-27-10.48.36.png)  
+so now i can allow or disallow anyone access to the video network via the VPN. i love how easy it is.
+
+the only thing that threw me at first is that the NVR has 2 management interfaces. one of them is the admin management for the actual device, and the other is the camera management interface. the admin interface came up first, because it runs on port 80 and of course when i typed in the IP address for the NVR, it defaulted to that. the camera interface is on 7443 and i found it later (i also didn’t have the manual sitting in front of me when i was doing all this), but there was a brief period where i was like, surely i don’t have to use the android app (which is also amazing) to manage all of this.
+
+![](/content/images/2018/03/Screenshot_20180320-215825-700x1439.png)
+
+![](/content/images/2018/03/Screenshot_20180317-154205-700x1439.png)
+
+^ screenshots of the android app.
+
+once i hit the camera web interface, i was blown away. it makes managing multiple cameras ridiculously easy. similar UI experience as their controller interface. love it. the camera adoption process is also similar to how you adopt new network equipment in the controller interface. the NVR sees the cameras show up on the network, and they populate in the web UI. click manage, and it handles the rest for you.
+
+![](/content/images/2018/03/Screenshot-2018-03-27-10.50.14-700x380.png)
+
+![](/content/images/2018/03/Screenshot-2018-03-27-10.50.29-700x368.png)
+
+the quality is amazing (streaming and the picture in general), and you can tweak the settings however you want. coloring, saturation, orientation, sharpness, audio, etc.
+
+i haven’t set them to record yet. i think the only one i’m going to configure recording on will be the one out front, and maybe motion detection on the 2 outdoor ones. all of them have motion detection capabilities and can be configured to start recording when motion is detected, and send emails. you can also configure motion detection zones, which i didn’t even know was a thing.
+
+![](/content/images/2018/03/Screenshot-2018-03-27-10.56.59-700x525.png)
+
+so for someone who has been a skeptic about home video equipment for years, ubiquiti may have convinced me me, at least in part. it’s a ton of fun to set up and play with, not to mention having a camera for the porches does make me feel a little better now. quality is fantastic, hardware is solid, like everything else so far. the hardest part, like i said, was finding time to actually set it up and get things put in place, and after that, it’s pretty hard to mess up.
+
+![](/content/images/2018/03/Screenshot-2018-03-27-11.24.53-700x432.png)
+
+it’s also kind of awesome being able to sneak a peak at the babies throughout the day while i’m at work ;) those little legs wiggling on the screen make me smile.

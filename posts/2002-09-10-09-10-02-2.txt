@@ -1,0 +1,11 @@
+---
+date: '2002-09-10T16:44:56+00:00'
+favorite: false
+feature_image: ''
+format: markdown
+slug: 09-10-02-2
+tags: []
+title: 09/10/02
+---
+
+all of the content is up except for the visitors’ section. that will be up later. the links are on the left hand side. i need to get some fresh ideas of what to put up there. i’ll get on that later. right now, i’ve got other stuff to finish up. i’ll be on later.

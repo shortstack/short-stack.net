@@ -1,0 +1,148 @@
+---
+date: '2014-06-05T11:37:39+00:00'
+favorite: false
+feature_image: ''
+format: markdown
+slug: 2-month-recap
+tags:
+- android
+- charleston
+- cinco de mayo
+- code camp
+- dad
+- dev ops
+- dig south
+- jacksonville
+- neighbors
+- paintball
+- projects
+- stre.am
+- women who code
+title: 2 Month Recap
+---
+
+a lot has been going on the past 2 months, and it’s pathetic that i haven’t written about any of it. here is my attempt at a “quick” run down. there are a LOT of pictures. a lot.
+
+work, tech conferences, a product launch, carolina rebellion, paintball, happy hours and going away parties with work friends, a couple nights of dancing, the first bonfire of the spring (though it is basically summer down here), my first mechanical bull, and i’m finally getting my bearings in downtown charleston. here we go.
+
+[![logo-stream-horiz-colorWhite](/content/images/2014/06/logo-stream-horiz-colorWhite.png)](http://stre.am)i guess i’ll start with the biggest news–our team recently launched our iOS app and web app, [Stre.am](http://stre.am/). we’ve been working on it for like, 6 months now? 7 maybe? i have lost all sense of time these days. our dev team has grown significantly–1 iOS dev who also works on the API, a handful of node.js gurus, 1 genius making the scala media server magic happen, 3 androiders, 1 QA. more than a handful of people have come and gone in between. it’s been hectic, to say the least. i’m sure this is only the beginning.
+
+we launched it in april, and our alpha launch/debut/release party was at [DIG SOUTH](http://digsouth.com/). it was exiting… and terrifying. 2 other dev guys and i are honing in on the final week(s) of building the android version, which is also terrifying. after my last experience working with any kind of video on android, it scares the shit out of me. and makes me want to gouge my eyeballs out.
+
+[![10255787_457196391082617_858579573677598704_n](/content/images/2014/06/10255787_457196391082617_858579573677598704_n.jpg)](/content/images/2014/06/10255787_457196391082617_858579573677598704_n.jpg)
+
+my other role on this project, besides android, is building/maintaining the dev and production environments–server setup, load balancing, autoscaling, optimizing, monitoring, etc. we have an API that uses the play framework, a few mongo servers, a node.js web front end, and several custom built scala media and RTMP servers–those are the biggest chunks. all 20+ servers running on some flavor of linux. my role in dev/prod ops or server monkeying in general for the last few years has been much more strict (as are most government projects), with a lot less wiggle room for tinkering or using new tools/languages. this project, on the other hand, has been the opposite. i was basically given free reign to make it work, and get it production ready. i am also a hardcore AWS fanboy now (as if i wasn’t enough of one already).
+
+since then, we’ve had 2 major tests of our stability–one being the release, and the other being our partnership with [the jacksonville jaguars](http://www.jaguars.com/news/article-PressRelease/Jacksonville-Jaguars-partner-with-live-video-app-Stream-on-NFL-Draft-day/67dc1653-e06c-4b4a-a84e-c81f31eb705d).
+
+[![1554372_474282936040629_5004343191355616284_n](/content/images/2014/06/1554372_474282936040629_5004343191355616284_n.jpg)](/content/images/2014/06/1554372_474282936040629_5004343191355616284_n.jpg)
+
+[![10254998_474282539374002_7797652229006898885_n](/content/images/2014/06/10254998_474282539374002_7797652229006898885_n.jpg)](/content/images/2014/06/10254998_474282539374002_7797652229006898885_n.jpg)
+
+our team road tripped it to jacksonville for the NFL draft party a few weeks ago to basically set up a control center and also to get as many people streaming the event as possible, attract new users, hand out swag, etc. it was my first time at *any* NFL stadium, which was exciting in and of itself. we did a fair bit of drinking in the process, had our own tailgate party for a while, met some cheerleaders/players, and probably sweated out half our body weight. i managed to sit on an ant hill, a teammate almost got thrown through a wall, and we toured all of the sketchiest parts of jacksonville. we had zero hiccups the entire night other than some buffering issues, not a single server or service went down, and it was one of the most fun road trips i’ve ever been on.
+
+[![10251989_474282732707316_7901945007476326399_n](/content/images/2014/06/10251989_474282732707316_7901945007476326399_n.jpg)](/content/images/2014/06/10251989_474282732707316_7901945007476326399_n.jpg)
+
+[![10330507_474282782707311_5353948776709914482_n](/content/images/2014/06/10330507_474282782707311_5353948776709914482_n.jpg)](/content/images/2014/06/10330507_474282782707311_5353948776709914482_n.jpg)
+
+[![10303967_469531699849086_4493469793395545685_n](/content/images/2014/06/10303967_469531699849086_4493469793395545685_n.jpg)](/content/images/2014/06/10303967_469531699849086_4493469793395545685_n.jpg)
+
+[![20140508_155410](/content/images/2014/06/20140508_155410-1024x576.jpg)](/content/images/2014/06/20140508_155410.jpg)
+
+[![20140508_181129](/content/images/2014/06/20140508_181129-1024x576.jpg)](/content/images/2014/06/20140508_181129.jpg)
+
+of all the things i’ve learned the past few months, i think the biggest takeaway is realizing how much i love dev ops. i’m not happy NOT being a server monkey. i can scratch my itch to code at home on my own projects, but i crave that kind of work, and that challenge. i want other people to enjoy it with me and learn about it too. android is fun, but… it isn’t nearly as fulfilling. seeing all my hard work on stre.am come to fruition, and being able to sit back on launch day and NOT have a panic attack… that was the most rewarding feeling i’ve felt in probably my entire post-college career, now that i think about it.
+
+so all that happened. phew.
+
+the day after our alpha launch at DIG SOUTH, the same conference held a hackathon. i volunteered there until about noon, offering to help coders build their projects and deploy them to the supplied android devices. since no one was ready to build for the entire 4 hours i was there, i spent the whole time hanging out with old coworkers and eating junk food with [sally](https://twitter.com/HouseRulesSally).
+
+[![10294324_10101114636900808_8694949175596637439_n](/content/images/2014/06/10294324_10101114636900808_8694949175596637439_n.jpg)](/content/images/2014/06/10294324_10101114636900808_8694949175596637439_n.jpg)
+
+after the hackathon i walked around downtown to round up teammates, and we made our way to the [Digathlon](http://blog.blueion.com/2014/04/14/blue-ballers-win-dig-souths-digathlon/). it was ridiculous and our team actually bailed on the last event, despite doing ok overall. it was karaoke, and we had 2 people out of the 5 of us who were actually willing to sing–me and courtney. then we found out that other teams get to pick your song, which… fine. but then we found out they gave us charlie daniels “a country boy can survive”. i mean… 1) we’d never win with that song, 2) every other team got awesome songs, 3) every other team had like 7+ people, 4) it was going to sound awful no matter what. so we bailed. before we bailed i destroyed a few people in street fighter, [rode a mechanical bull](http://instagram.com/p/mtBzlxhISt/) for the first time in my life, played a lot of frogger, did extraordinarily well at bowling since i usually don’t bowl anywhere near 100, and ate far too many tater tots.
+
+[![1911712_10101114674106248_7995788191506454553_n](/content/images/2014/06/1911712_10101114674106248_7995788191506454553_n.jpg)](/content/images/2014/06/1911712_10101114674106248_7995788191506454553_n.jpg)
+
+we’ve had a few other stre.am related events in the last 2 months, one being paintball. our team went to a place called blackbeard’s cove. it’s a pretty small field but perfect for the 8 of us that went. i hadn’t played in years and it was awesome. plus, this place has gokarts, mini golf, a huge arcade, and they sell beer. it’s impossible to not have a good time.
+
+[![10155438_10101111040787448_1086103395650031960_n](/content/images/2014/06/10155438_10101111040787448_1086103395650031960_n.jpg)](/content/images/2014/06/10155438_10101111040787448_1086103395650031960_n.jpg)
+
+[![10261997_10101111042244528_7359410809273398717_n](/content/images/2014/06/10261997_10101111042244528_7359410809273398717_n.jpg)](/content/images/2014/06/10261997_10101111042244528_7359410809273398717_n.jpg)
+
+[![1512065_10101111042449118_9221934570739485871_o](/content/images/2014/06/1512065_10101111042449118_9221934570739485871_o-1024x768.jpg)](/content/images/2014/06/1512065_10101111042449118_9221934570739485871_o.jpg)
+
+[![775734_10101111042364288_8903721780309114128_o](/content/images/2014/06/775734_10101111042364288_8903721780309114128_o-1024x768.jpg)](/content/images/2014/06/775734_10101111042364288_8903721780309114128_o.jpg)
+
+the other event was our dry run for the draft party, so SPARC combined cinco de mayo and our stre.am test day. what better event to stream than your entire company enjoying frozen margaritas and a giant water slide? we had a control room set up with TVs to mimic our set up draft day, but we made sure to get our turns on the slide.
+
+[![20140505_153326](/content/images/2014/06/20140505_153326-1024x576.jpg)](/content/images/2014/06/20140505_153326.jpg)
+
+[![10308307_10100796911405164_5410053281465899333_n](/content/images/2014/06/10308307_10100796911405164_5410053281465899333_n.jpg)](/content/images/2014/06/10308307_10100796911405164_5410053281465899333_n.jpg)
+
+you can see [the epic video footage here](https://www.youtube.com/watch?v=3xkMCaPykdc&feature=youtu.be). if you pay attention, you’ll see me almost eat it on the way up the slide.
+
+in april–a bunch of SPARC folks ran the annual [charleston i5k race](http://ifivek.com/). i’d never ran a 5k, or ever ran that far in my life. i’ve done 3+ miles on an elliptical before plenty of times, but never just running. sad, right? we had a few shots beforehand, and i started off running with a few friends, but after the first like 5 minutes most people split off and were in the zone, as was i. i ran the whole thing, zero stoppage, zero headphones, semi drunk, and i even had to pee the entire time. but i did it, start to finish, 100%. proud moment in my life, despite the horrendous blisters.
+
+[![10155600_10102181000674087_2767638296977690090_n](/content/images/2014/06/10155600_10102181000674087_2767638296977690090_n.jpg)](/content/images/2014/06/10155600_10102181000674087_2767638296977690090_n.jpg)
+
+[![1665_10101114665952588_6031103011957393305_n](/content/images/2014/06/1665_10101114665952588_6031103011957393305_n.jpg)](/content/images/2014/06/1665_10101114665952588_6031103011957393305_n.jpg)
+
+[![1601179_751831178194528_1184203722903121740_n](/content/images/2014/06/1601179_751831178194528_1184203722903121740_n.jpg)](/content/images/2014/06/1601179_751831178194528_1184203722903121740_n.jpg)
+
+the other tech conference that was recent was [WordCamp Charleston](http://2014.charleston.wordcamp.org/), a wordpress developer/user conference. it was the first one i’d been to, and will not be the last. one of the girls on our design team [gave a talk](http://2014.charleston.wordcamp.org/session/agile-design-for-marketing-websites-building-wordpress-content-collaboratively-with-startups/), and i went to a handful of others. it was only 1 day but there was a lot packed in.
+
+[![20140517_134559](/content/images/2014/06/20140517_134559-1024x576.jpg)](/content/images/2014/06/20140517_134559.jpg)
+
+[![20140517_134610](/content/images/2014/06/20140517_1346101-1024x576.jpg)](/content/images/2014/06/20140517_1346101.jpg)
+
+[![20140517_143837](/content/images/2014/06/20140517_143837-1024x576.jpg)](/content/images/2014/06/20140517_143837.jpg)
+
+[![20140517_153141](/content/images/2014/06/20140517_153141-1024x576.jpg)](/content/images/2014/06/20140517_153141.jpg)
+
+it had been a while since brett or i had been to a concert, so a while back i bought us tickets to [carolina rebellion](http://carolinarebellion.com) in charlotte. we spent the first weekend in may in mooresville and his parents took caylin all day saturday so we could simultaneously get drunk, deaf, and broke in under 12 hours. drinks at these events are stupid expensive, but it was worth it. the people watching alone was worth it. i miraculously came out with all of my belongings, and nothing broken (just a little bruised up), after crowd surfing through rob zombie and killswitch engage. i didn’t get dropped, and my sunglasses didn’t even get broken. we had a great time, and came home sunburnt, sore, filthy, and exhausted.
+
+[![10251954_10101139585264088_4591552138641440315_n](/content/images/2014/06/10251954_10101139585264088_4591552138641440315_n.jpg)](/content/images/2014/06/10251954_10101139585264088_4591552138641440315_n.jpg)
+
+[![1461419_10101139584805008_2355455187124940209_n](/content/images/2014/06/1461419_10101139584805008_2355455187124940209_n.jpg)](/content/images/2014/06/1461419_10101139584805008_2355455187124940209_n.jpg)
+
+[![10341599_10101139585633348_4551084603900280776_n](/content/images/2014/06/10341599_10101139585633348_4551084603900280776_n.jpg)](/content/images/2014/06/10341599_10101139585633348_4551084603900280776_n.jpg)
+
+a few weekends ago, our neighbors had a few friends over and a bonfire. lots of country music and terrible dancing, barefoot no less. we got ruined by mosquitoes/chiggers, and i’m pretty sure the rest of our neighbors hate us now.
+
+[![20140517_211437](/content/images/2014/06/20140517_2114371-576x1024.jpg)](/content/images/2014/06/20140517_2114371.jpg)
+
+[![download_20140518_134514](/content/images/2014/06/download_20140518_134514-768x1024.jpeg)](/content/images/2014/06/download_20140518_134514.jpeg)
+
+[![download_20140518_022416](/content/images/2014/06/download_20140518_022416-1024x576.jpeg)](/content/images/2014/06/download_20140518_022416.jpeg)
+
+last weekend, our buddy phil was in town. we went out to dinner with amanda and andrew friday night at a hibachi place in north charleston. we were a bit skeptical that caylin would freak out over the fire and we’d never be able to make it happen, but evidently if you distract her with enough ranch dressing anything is possible. not only that, but brett and phil were force fed sake through a ketchup bottle. never seen that trick before. i tried to get a picture but i was too slow with the camera.
+
+we were also fortunate enough to have amanda babysit for us while we went out the next night. a few friends from work wanted to go out, so it was a perfect night to get a cab downtown. we met at the alley for drinks with coworkers, and then we walked to [prohibition](http://prohibitioncharleston.com/). never been there before, but it was a nice change of pace. haven’t been out dancing like that since spring break 09. i also haven’t been corralled out of a bar like that in a while.
+
+[![10275567_10101167893883388_2728837104465977429_o](/content/images/2014/06/10275567_10101167893883388_2728837104465977429_o-1024x576.jpg)](/content/images/2014/06/10275567_10101167893883388_2728837104465977429_o.jpg)
+
+this *past* weekend, we grilled out with a bunch of our neighbors. none of us are super close, and are all still getting to know each other. it was a pretty fun night. the hangover, not so much.
+
+[![20140531_204304](/content/images/2014/06/20140531_204304-1024x576.jpg)](/content/images/2014/06/20140531_204304.jpg)
+
+[![20140531_193220](/content/images/2014/06/20140531_193220-1024x576.jpg)](/content/images/2014/06/20140531_193220.jpg)
+
+[![20140531_190248](/content/images/2014/06/20140531_190248-1024x576.jpg)](/content/images/2014/06/20140531_190248.jpg)
+
+[![20140531_191337](/content/images/2014/06/20140531_191337-1024x576.jpg)](/content/images/2014/06/20140531_191337.jpg)
+
+[![20140531_192629](/content/images/2014/06/20140531_192629-1024x576.jpg)](/content/images/2014/06/20140531_192629.jpg)
+
+[![20140531_191334](/content/images/2014/06/20140531_191334-1024x576.jpg)](/content/images/2014/06/20140531_191334.jpg)
+
+about a month or so ago i joined the [women who code CHS](https://twitter.com/WomenWhoCodeCHS) meetup. we’ve been meeting bimonthly–a regular monthly meeting that will probably become more structured as we go along. i was able to do a dry run of my AWS/LAMP/wordpress/bootstrap lunch and learn at the first one. and then there’s a ladies’ hack night every month as well–time to tinker, teach, learn, mingle, etc. awesomely hilarious group of ladies–i can’t wait for the next one.
+
+[![BlyPA28CAAAydZq](/content/images/2014/06/BlyPA28CAAAydZq.jpg)](/content/images/2014/06/BlyPA28CAAAydZq.jpg)
+
+the first june meeting was last night, but my dad came in town so i spent the evening hanging out with him instead. we don’t get to visit that often, so it was great seeing him. and caylin was loving it.
+
+[![20140604_165045](/content/images/2014/06/20140604_165045-1024x576.jpg)](/content/images/2014/06/20140604_165045.jpg)
+
+i don’t know why i avoided (not sure if that’s the right word for it or not) the charleston tech scene for this long. there is always something going on. i went to [CODE camp](http://www.chscodecamp.com/classes-pros/angularjs) last week for angularJS and loved it. it was 9-3, and lunch was provided. excellent instructor and it was great catching up with some old coworkers.
+
+so many pictures. i’ve been keeping busy to say the least. hope to keep this trend going and stay involved.

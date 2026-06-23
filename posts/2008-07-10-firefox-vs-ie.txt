@@ -1,0 +1,11 @@
+---
+date: '2008-07-10T02:42:38+00:00'
+favorite: false
+feature_image: ''
+format: markdown
+slug: firefox-vs-ie
+tags: []
+title: Firefox vs IE
+---
+
+if you’re viewing my website in IE, then you’re probably seeing a lot of gray and i don’t like you. :yell: since microsoft wants to suck, transparent pngs don’t quite work the way they’re supposed to. i’ve given up for the night/morning so if it looks funny, [go download firefox](http://getfirefox.com). goodnight.

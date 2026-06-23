@@ -1,0 +1,17 @@
+---
+date: '2002-06-30T16:32:26+00:00'
+favorite: false
+feature_image: ''
+format: markdown
+slug: 06-30-02
+tags: []
+title: 06/30/02
+---
+
+everything works now… but geez that took forever. the tagboard and guestbook have yet to be updated, but i don’t really care about those. the cliques and the webring will be down for a while. i’ve gotten swamped with applications and stuff so i’m putting those on hold. when they come back, i doubt i’ll have a members’ list. they’re really long and annoying to update. i don’t like wasting my time on those things.
+
+anyway, this week is gonna be crazy. the LAN is the 2nd through the 5th :o) it’s gonna be so much fun… and lots of people. plus i’ve got people coming over on the 5th for my birthday and ry~ry is coming! and maybe brian, and maybe matt & alex. matt, collin, & alex will probably show up during the week sometime, and the other matt might come ;o) it’s gonna be great. we’re gonna need a ton more food though. me & doug went grocery shopping. needless to say, that was interesting. we’re dangerous in a grocery store. my mom gave me $60 to start out with for some food for the LAN and we didn’t have any extra with us so we had our fingers crossed hoping it wouldn’t go over $60. we had $56 worth… lol, oh well.
+
+yeah, so you people reading this probably wanna know what’s up with the IP address instead of short-stack.com. the name is coming back. sometime soon, hopefully. for now i have my server set up on this computer so everything is hosted off my computer instead of activewebhosting since it decided to be a buttmunch. i still have to tell domain.com to direct short-stack.com to this IP… sorry if you didn’t get any of that.
+
+but, i’m gonna go. i’ve got a ton of crap to do and get ready for tuesday. later.

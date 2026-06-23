@@ -1,0 +1,11 @@
+---
+date: '2007-01-05T04:09:27+00:00'
+favorite: false
+feature_image: ''
+format: markdown
+slug: 3-weeks-after-his-return
+tags: []
+title: 3 weeks after his return
+---
+
+and he’s gone again.

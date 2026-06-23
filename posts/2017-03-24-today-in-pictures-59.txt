@@ -1,0 +1,21 @@
+---
+date: '2017-03-24T08:41:48+00:00'
+favorite: false
+feature_image: ''
+format: markdown
+slug: today-in-pictures-59
+tags: []
+title: Today In Pictures
+---
+
+![](/content/images/2017/03/20170324_080817-700x525.jpg)
+
+![](/content/images/2017/03/20170324_080852-700x525.jpg)
+
+![](/content/images/2017/03/20170324_182841-700x525.jpg)
+
+![](/content/images/2017/03/20170324_195213-700x525.jpg)
+
+![](/content/images/2017/03/20170324_201202-700x525.jpg)
+
+![](/content/images/2017/03/Screenshot_20170324-162612-700x1244.png)

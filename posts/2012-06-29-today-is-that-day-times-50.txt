@@ -1,0 +1,43 @@
+---
+date: '2012-06-29T00:10:46+00:00'
+favorite: false
+feature_image: ''
+format: markdown
+slug: today-is-that-day-times-50
+tags:
+- baby shower
+- chemo
+- hard drive
+- loki
+- memory
+- RHS333
+title: Today Is That Day. Times 50.
+---
+
+i just want this week to be over.
+
+i took loki to the vet on monday to get her next set of pills and to get bloodwork done. it had only been 3 weeks so it was too soon to tell if her new meds were working, but she was due for the second round on wednesday. bloodwork was necessary in order to do the second round. her bloodwork came back saying she wasn’t ready. white blood cell count too low. we have to wait until monday to test her again, and *then* get more pills. which means her meds are delayed a week, and i spent $150 to find that out. monday will likely cost another $100, plus the cost of the pills. i am so sick of this.
+
+tuesday and wednesday feel like a blur. i honestly can’t remember what i’ve done day to day lately. i do know i’ve had a lot of ice cream. brett and i watched bullhead last night–really strange movie. anyway.
+
+today, right before i ate lunch, i got my exam results from my RHS/EX333 exam last week. huge disappointment. i didn’t pass. i came close, but i did not pass. and i mean, i’m 25. i haven’t been doing this stuff for nearly as long as everyone else i know who has the certification. i was by far the youngest person in the class. most of the people i know with this cert are lightyears ahead of me, and even a handful of them have told me they didn’t pass it on their first attempt. i don’t feel stupid. i’m not stupid. this is stuff i know how to do, and i know that. i’m just pissed. no one likes that feeling. when you see your grade and your stomach just sinks to the floor.
+
+i know the material. i’m comfortable doing everything i did in the exam, with the exception of DNS, since i don’t do it on a day-to-day basis, or even close. everything i did in the exam, i did successfully at least once in the lab. or have done at some point on the job. a 6 hour exam sounds like a long time, but it really isn’t much when you try and cram that much content into it. add in stress and the panic of finishing without forgetting shit. i hate that feeling. practical exams, although i absolutely think they’re a great test of skill, are the devil. this was the hardest test i’ve taken in my life, hands down.
+
+i learned a LOT in the course, so the money was more than well spent. i just hate the thought of sitting through that 6 hours again. daunting. it won’t be until next year, unfortunately, because the next exam is in september, and i’ll be recovering from childbirth at that point. possibly the only thing that scares me more than taking that exam again.
+
+anyway, moving on before i get pissed again. *before* i left for my class last week, i was reformatting my laptop, and started getting all kinds of errors. the HD had a lot of errors when i did an fsck, but even windows 7 BSOD’ed on me. so i thought maybe after 3 years that my HD was going bad. i decided to say the hell with it and just bring my work laptops with me to the class. last thing i needed to worry about.
+
+i didn’t return to using my home laptop until today. i borrowed a HD from a friend since i didn’t want to spend $200 on a new solid state just yet. i booted fedora live to run a memory diagnostic just in case it was the memory i bought. the memory i [bought off of newegg](http://www.newegg.com/Product/Product.aspx?Item=N82E16820231342) IN MAY. to my surprise, my screen is full of red. full of memory errors. bullshit.
+
+i had brett ride with me to the compuzone down the street before they closed and bought 8 more gigs of memory, snapped it in, ran a memory check again, and it works like a charm. i doubt i’ll be able to return my bad RAM but that’s something i just don’t want to deal with this week. in the end, it’s $40. it’s still less than the $ i would’ve spent on a new hard drive. even though a solid state would’ve been nice.
+
+so then, i reformatted, started to get everything back in order. i got a call from a coworker saying we were having production issues, so i hopped online to work for a few hours. tried to multitask. on my work laptop on half of my desk, and mine on the other. currently, i have 2 500GB external hard drives that i use to back up *everything* i hold dear. all of my photos, movies, work, etc. gets backed up weekly and rsync’ed onto the other drive. and i’m so glad i invested in 2 drives, because i plugged in the first drive to get my home directory files to restore, and it is completely unreadable. just dead. nothing recognizes it. all my shit == gone.
+
+while i’m trying to focus on work, i am in a state of half panic/half elation because i couldn’t believe that something else just broke. and it’s possibly the second most valuable thing in this house besides my engagement ring (25 years of home movies and photos is priceless). half elation because i was so relieved that i thought to buy a second drive to mirror everything on. i would be beside myself right now otherwise.
+
+i got done with work crap and went to say hi to brett who has been playing battlefield all night. he told me to get off the computer and relax. i told him that i couldn’t because in addition to my memory crapping out, my hard drive just shat itself, too. so now i have to find another method of backup. i never really put much thought into online backups, until now. my buddy referred me to CrashPlan–affordable, encrypted backups with unlimited space. $5/month. not too shabby. so i’m in the process of doing that right now.
+
+166MB out of… almost 400GB of data that i have to back up. it’s been running for 40 minutes. it’s gonna be a while. :(
+
+to end on a much happier note, brett and i had our baby shower this past weekend at my dad and stepmom’s house. it was absolutely amazing, simply because of the people who were there. i couldn’t have asked for a more perfect afternoon. we are so lucky to have such awesome people in our lives. i’ll post pictures in another post. right now, it’s time for me to have a glass of wine before i officially pass out for the night.

@@ -1,0 +1,29 @@
+---
+date: '2008-03-29T14:55:30+00:00'
+favorite: false
+feature_image: ''
+format: markdown
+slug: living-room-small-talk
+tags: []
+title: Living Room Small-Talk
+---
+
+setting: i’m on my laptop procrastinating writing a paper and adam is playing his [new game](http://games.teamxbox.com/xbox-360/1836/Viking-Battle-for-Asgard/).
+
+> ADAM: *strange frustrated grunting noise*
+>
+> ME: does that help you win?
+>
+> ADAM: shut up! stop making fun of me.
+>
+> ME: what? you make fun of me every day… a lot…
+>
+> ADAM: i’ll kill you.
+>
+> ME: no, you can’t. because i’m a real viking and you’re only a pretend viking.
+>
+> ADAM: how are you a viking?
+>
+> ME: BECAUSE I WENT TO THE VIKING LAND AND THEY MADE ME A VIKING!
+
+he should really know these things by now.

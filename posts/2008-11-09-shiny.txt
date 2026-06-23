@@ -1,0 +1,13 @@
+---
+date: '2008-11-09T12:35:35+00:00'
+favorite: false
+feature_image: ''
+format: markdown
+slug: shiny
+tags: []
+title: Shiny!
+---
+
+my friend [stacey](http://staceylynnstudio.com) sent me this because she said she immediately thought of me. my immediate thought was, “i wish i had $80 to blow”. :wink:
+
+[![Computer Parts Flower](http://ny-image2.etsy.com/il\_430xN.21461526.jpg)](http://www.etsy.com/view\_listing.php?listing\_id=10149715)

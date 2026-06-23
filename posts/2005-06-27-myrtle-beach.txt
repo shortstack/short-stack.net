@@ -1,0 +1,11 @@
+---
+date: '2005-06-27T22:17:23+00:00'
+favorite: false
+feature_image: ''
+format: markdown
+slug: myrtle-beach
+tags: []
+title: Myrtle Beach
+---
+
+i’ll be at myrtle beach until july 4th. :cool: i’ll bring back lots of pictures… and hopefully a niiiice tan.

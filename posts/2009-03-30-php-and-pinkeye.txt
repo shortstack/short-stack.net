@@ -1,0 +1,17 @@
+---
+date: '2009-03-30T03:08:27+00:00'
+favorite: false
+feature_image: ''
+format: markdown
+slug: php-and-pinkeye
+tags: []
+title: PHP and... Pinkeye?
+---
+
+this weekend has been extremely uneventful for me. i actually went out friday night and i think that’s where it all started going downhill. my friend brandon complained about his eyes being red and messed up. he swore (and still swears) up and down that they were irritated from his contacts. :mad: i’m convinced he had pinkeye. why? my friend brett and i both woke up the next morning with pinkeye.
+
+this is just more evidence that i really am [bubble girl](http://www.imdb.com/title/tt0258470/). the same morning i woke up sick with a sore/swollen throat, stuffy nose, congestion, cough, the whole 9 yards. :(
+
+lucky for me, i got to stay in bed all weekend. well, most of the weekend. i spent most of yesterday commiserating with brett and hanging out with him and his roommate eating cheesecake while they played grand theft auto and i played around online. so i spent most of the weekend either planted on a couch or laying in bed.
+
+i got a lot done today, actually. i didn’t get up except to let loki out and to get food so in the 16 hours i’ve been awake, 15 of them have been spent working on my web-based project management system. i’m pretty excited about this thing because it’s my first really functional project/web application i’ve ever created and it’s from scratch. :geek: it’s written entirely by ME! using PHP and SQL. needless to say, i’m very proud of it. i will provide a link to it when i’m closer to being finished. which might be in like an hour. i really need to go to sleep. o\_0

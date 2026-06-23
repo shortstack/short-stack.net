@@ -1,0 +1,36 @@
+---
+date: '2013-05-24T22:31:14+00:00'
+favorite: false
+feature_image: ''
+format: markdown
+slug: ch-ch-ch-ch-changes
+tags:
+- android
+- changes
+- closing
+- coding
+- development
+- house
+- team
+title: Ch-ch-ch-ch-changes
+---
+
+we closed on the house yesterday. we. closed. on. our new house. we’re moving into our new house next week.
+
+no matter how many times i say it, it still won’t sink in. we haven’t done diddly as far as packing goes–my mom has done 95% of what HAS been done. and i feel like we’re only accumulating more crap by the day. more specifically, caylin is accumulating more crap. i bought her [this](http://www.target.com/p/manley-crazy-crab-spray-pool/-/A-11866286#prodSlot=medium_1_7) at target tonight. DAMN YOU, TARGET. i went in to buy a hair dryer. i came out with that plus a new bikini and a kiddie pool.
+
+i was so jittery yesterday afternoon when we were signing all of the paperwork that i couldn’t even focus enough to sign my name correctly. half the time it came out looking like caylin signed it for me. and i kept forgetting to use my middle initial. and then i looked down, and my elbow was bleeding. i don’t know.
+
+after 20 minutes of signing papers, they gave us the keys. 4, actually. and then, i was so excited that i took a picture of the keys and posted them online captioned, “we bought a house!”, only to find out that those little numbers engraved on the key are like… the key TO the key. and can be duplicated. thank you, internet, for that little nugget of information. never knew that. and now i’ll never forget.
+
+anyway, apparently when you build a house, they reward you with little “gifts”. they gave us this awesome pop-up cooler, some beer bottle openers, koozies, hand sanitizer, pens, mouse pads (i guess they think we’re alcoholic nerds? NAILED IT!), lotion (which actually happens to be THE best hand lotion i’ve ever used in my life), and some nice little tote bags. it doesn’t really amount to much (monetarily) when you just forked over your life savings, but it’s still a nice touch. plus, the cooler is pretty damn awesome.
+
+the other exciting news–i’ve been *temporarily* transitioned to an android team at work. for like a month and a half-ish. which is really exciting on one hand, and weird on the other. i’ve been so nervous this week getting ramped up, because 99% of the coding i’ve done has been alone. i don’t want to let anyone down. i am absolutely flattered that i was asked to be on this project, and i am also absolutely terrified of screwing up. the upside is i’m only coding with a couple other guys. the rest of the team is doing the iOS portion, which makes it a little less daunting.
+
+either way, i’m sitting on the other side of the building with a new team, new work, new desk, and it’s weird. it’s like that awkward period after a break-up when you don’t know what to do with yourself. i don’t have to go to my regular stand-up meeting in the morning, which has me all thrown off. i turn left when i walk into work instead of to the right. my backpack now has 2 laptops in it every day instead of 1 (oh, my gosh. so heavy!). not to mention, i don’t know all of my new teammates that well. a few of them i only knew online until this week, and we’ve worked in the same building for months.
+
+i don’t think some people realize how shy i am, because when i’m in prod ops (my normal team), i’m relaxed. i’m used to being around these people. it’s my home. they know i’m retarded. i love them all to pieces. i can be myself. being incredibly introverted, it helps when you’re comfortable. so it’s gonna take me a little bit to warm up, i think. hopefully it won’t take long. they’re an awesome group of guys. and unbelievably smart.
+
+i feel like i made a lot of progress today, which was just what i needed. i churned out a good bit of code. i’ve never worked with a lot of the stuff involved in this project–it’s a lot of information to take in at once. so contributing what i did today helped a lot to get my mind right, and start settling in. i haven’t done any android since i [went into labor](http://short-stack.net/being-a-mom-is-amazing/). going from being a server monkey to staring at java all day is not something i anticipated happening… ever.
+
+i see this as an extremely valuable learning opportunity. it was unexpected, but i am appreciative that i get to continue to grow this skill set since i don’t get the time to do it at home lately. chances like this don’t come often. not much tops getting paid to learn and get better at what you love doing.

@@ -1,0 +1,11 @@
+---
+date: '2005-01-18T00:22:49+00:00'
+favorite: false
+feature_image: ''
+format: markdown
+slug: yuck-3
+tags: []
+title: Yuck
+---
+
+i am working on a new layout idea. i promise. :satisfied:

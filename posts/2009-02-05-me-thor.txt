@@ -1,0 +1,13 @@
+---
+date: '2009-02-05T09:43:16+00:00'
+favorite: false
+feature_image: ''
+format: markdown
+slug: me-thor
+tags: []
+title: Me & Thor
+---
+
+aren’t we cute? :lovestruck: also, added my [storytlr lifestream](http://shortstack.storytlr.com) over <— there.
+
+[![Me & Thor on TwitPic](http://twitpic.com/show/large/1c3p9.jpg)](http://twitpic.com/1c3p9 "Me & Thor on TwitPic")

@@ -1,0 +1,77 @@
+---
+date: '2016-04-22T10:37:07+00:00'
+favorite: false
+feature_image: ''
+format: markdown
+slug: devops-journey-workshop
+tags:
+- charleston
+- devops
+- enterprisedb
+- openshift
+- paas
+- postgresql
+- red hat
+- securepaas
+- security
+- shadow-soft
+- training
+title: DevOps Journey Workshop
+---
+
+a couple weeks ago i went to a workshop/training event, and [shadow-soft](http://shadow-soft.com) asked if i would review it and do a [guest blog](http://shadow-soft.com/guest-blogger-whitney-champion-talks-devops-journey-workshop/). so here it is. :)
+
+---
+
+This past Tuesday, I had the pleasure of being invited to a workshop hosted by Shadow-Soft here in Charleston. I had been to a couple of their events in the past, which were mainly after work meet-ups in conjunction with other companies, or CloudForms training, but never a full-day workshop. Knowing what I know about Shadow-Soft, and seeing as how the event was partnered with Red Hat, and seeing as how I have been a Red Hat/Fedora junkie since the early 2000’s, I absolutely could not miss this.
+
+Their marketing content for the event had several words that jumped out at me immediately–Security, DevOps, OpenShift, PaaS. This is my playground.
+
+To shed some light on why this piqued my interest, I’ve been working at a company called SPARC for almost 5 years now. We were acquired late last year by Booz Allen Hamilton, so we are now SPARC, an Agile Systems Delivery Hub of Booz Allen Hamilton. My role here has run the gamut from production operations, to mobile development, to web development, to devops, to security. I now manage both development and production workloads, and am responsible for engineering, securing, deploying, automating, and maintaining the underlying infrastructure and Linux systems that host several of our client applications, all from within the Amazon Web Services (AWS) cloud.
+
+That said, I knew this workshop would be valuable.
+
+![IMG_20160419_110524](/content/images/2016/04/IMG_20160419_110524-700x525.jpg)
+
+Everyone started showing up at around 10:30. We were all getting settled in, picking out swag from the sign-up table, grabbing coffee, some mingling and catching up here and there. There were a handful of familiar faces, as is usually the case at tech events in Charleston.
+
+![IMG\_20160419\_222556](/content/images/2016/04/IMG\_20160419\_222556-250x334.jpg)![IMG\_20160419\_222604](/content/images/2016/04/IMG\_20160419\_222604-250x334.jpg)
+Shadow-Soft has great swag, by the way ;) Be sure to pay attention!Lunches were handed out, and we all sat down for a little around-the-room “get to know everyone” session. Those are always fun, right? Especially with food on my face. Once it gets to be my turn, I black out every time. I truly have no clue what I said. Our group was very diverse, but the majority had some hand in operations/systems administration or security.
+
+Derrick Sutherland, Chris Chandler, and Christian Chekroun, all from Shadow-Soft, got us off to a great start with a little marketing and information about the company, what they do, and what they hoped to get out of the event. To be honest, I was expecting a lot more of that throughout the day, as this was a free event and very well put together. I was pleasantly surprised to find out that most of the day would consist a deep dive into OpenShift with several well put together labs, a fairly detailed discussion around EnterpriseDB and various other database tools, and a great technical overview of SecurePaaS, Shadow-Soft’s application security solution.
+
+After that, we jumped right into the nuts and bolts of OpenShift. The last OpenShift training I attended was probably 3 or more years ago. A lot has changed since then, so gears are essentially now pods, everything is built around Docker, almost everything looks different, and there are a lot more great features.
+
+![IMG_20160419_120931](/content/images/2016/04/IMG_20160419_120931-700x524.jpg)
+
+Everyone was given their own OpenShift installation to work with, and the labs and slides were provided on an 8G flash drive from Red Hat that we got to keep. Normally I would be adverse to plugging a mystery flash drive into my laptop, but I trust Derrick, and Red Hat, obviously, to have already done that homework for me.
+
+![IMG_20160419_222742](/content/images/2016/04/IMG_20160419_222742-700x525.jpg)
+
+The first couple labs were fairly short. The goals were to get the command line tools installed, and to get familiar with the dashboard and find your way around your projects. We went on to deploy our first Docker image, which was a simple guestbook application, and exposed the services so they were accessible from the browser. Once the application was deployed, we could scale up and down by tweaking our ReplicationController settings, and if pods went down (or in our case, we deleted them), we watched the application self-heal and deploy itself to new pods.
+
+We then did the same thing, except with a new project pulling from a GitHub repository hosting a Java application. We forked it to our own GitHub account so we could easily make changes to the application, watch OpenShift pick up the changes, and deploy the new version. We set up a Postgresql database in the project, and we also set environment variables in the project, so they were applied across all pods. Because those environment variables were used in the application code, the application picked up our environment variable changes immediately, and was able to access the database.
+
+Since I do not use OpenShift on a regular or even semi-regular basis (though I wish I did, and hope to in the future), I was finding several features I favored over some of Amazon’s tools during the labs. OpenShift most closely resembles Elastic Beanstalk, and I have never been a huge fan of Elastic Beanstalk to begin with. After using OpenShift yesterday more thoroughly, it made me realize that Red Hat has basically taken everything I’ve either complained about or wanted as a feature in Beanstalk (and a few things in Amazon EC2), and implemented or improved upon it.
+
+I definitely favor OpenShift’s web console/terminal over the one provided in EC2, as it works in Chrome flawlessly, without having to make any plugin tweaks. And their log output made me envious. EC2 and Elastic Beanstalk need to take some notes. For example, make the logs available on the screen without having to download them. Make them easy on the eyes–lime green on black is great in The Matrix, but not in real life. Timestamps are absolutely necessary. Sometimes, it’s the little things.
+
+Other nice things I noticed are the webhooks and build tools. Right now, projects I maintain either use Jenkins or Shippable for deployments. Jenkins automatically deploys builds to our development and integration/testing servers on one project, and Shippable deploys builds to Elastic Beanstalk on another. The nice thing about OpenShift is that all of that is built in, essentially eliminating the need to roll our own Jenkins server or use a third party service, unless you choose to go that route, which is still an option.
+
+The last lab was using a template to create and deploy an entire project, similar to how AWS CloudFormation works. Pretty straight forward–just a JSON file that included everything we just did all pieced together, so you can deploy ALL THE THINGS with the click of a button.
+
+And that was the end of the OpenShift labs! I especially appreciated the refresher course, since OpenShift Enterprise Administration is my next goal on my way to finishing my RHCA. Plenty of time was allotted between labs to allow everyone to finish and ask questions and discuss what they were doing and get more coffee, and Derrick and others were readily available to answer any questions and help troubleshoot when necessary.
+
+I envy people like that. The ones who can absolutely nail the marketing spiel, introduction, presentation piece of something like this, explain the bits and bytes to a mixed crowd, no sweat, AND you know they’re also the ones crushing it on the back end as engineers.
+
+After OpenShift, we were given a presentation by Robert Bates of EnterpriseDB on, you guessed it, EnterpriseDB! If you’re not familiar with EnterpriseDB, it’s Postgresql, but it’s bundled up nicely with licensing and support, a ton of tools, and much more. After only a few minutes, it had me wishing we could migrate some of our projects to EnterpriseDB/Postgresql from Oracle. To the point where I was furiously googling and reading further about EnterpriseDB to see if this was actually feasible for one of our projects. Maybe one day. My biggest takeaway from this part of the day, however, was not EnterpriseDB (though I learned quite a bit and will absolutely look to use that in the future instead). My biggest takeaway was a brief demo on HammerDB running queries against EnterpriseDB and comparing the results with Oracle. Performance was similar, if not better (which was the point of the demo), but more importantly I had never used HammerDB before and now I have something new to play with.
+
+As always, the biggest perk of coming to events like these–you can only leave smarter.
+
+Robert wrapped up and Derrick took the stand again. This time, to discuss SecurePaaS. I had never heard of it until that day, and reading about it on the website only makes it sound like magic. But the demo debunked any magic going on, as Derrick did a fairly thorough demo of how SecurePaaS monitors your applications. The most impressive part to me, however, was how easy it is to deploy and manage, and how granular it can get. One jar file and one parameter applied to your application’s deployment process, and you can see everything SecurePaaS does on their nice shiny dashboard within your environment.
+
+Typically, workshops of this nature have a lot more sales people who aren’t *quite* as tech-savvy. Or they will have technical people who can’t always speak the right language to the people who make the sales decisions about the products they’re showing off. A lot of workshops like this that I have been to just barely scrape the technical stuff, providing a high-level overview of their products, and focus their time on explaining how they can save or make your company more money. Which, I understand, but both sides are important.
+
+Let me say, that I was most impressed this week by Shadow-Soft, EnterpriseDB, and Red Hat (as always, fanboy speaking). Everyone at this event was more than capable of speaking at both ends of the spectrum. The amount of material covered and the amount of knowledge I gained in a mere 4-5 hours is something I would have expected to have to pay for, and these guys did it for free. Not only that, but they want to continue this roadshow and put on more workshops in the future. My only regret is missing the happy hour that followed. :)
+
+That said, I hope this writeup conveys the value in this DevOps Journey series, and all of what these companies have to offer. These guys want to continue the devops discussions, the security discussions, the discussions that bring out the geek in all of us. I will be attending the next one, and if they’re ever in your area, I highly recommend you do the same.

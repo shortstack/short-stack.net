@@ -1,0 +1,11 @@
+---
+date: '2009-02-02T14:51:17+00:00'
+favorite: false
+feature_image: ''
+format: markdown
+slug: security
+tags: []
+title: Security
+---
+
+[i love xkcd](http://xkcd.com). :wink:

@@ -1,0 +1,29 @@
+---
+date: '2017-08-16T21:44:27+00:00'
+favorite: false
+feature_image: ''
+format: markdown
+slug: today-in-pictures-204
+tags: []
+title: Today In Pictures
+---
+
+![](/content/images/2017/08/20170816_132329-700x394.jpg)
+
+![](/content/images/2017/08/20170816_133513-e1502937841856-700x394.jpg)
+
+![](/content/images/2017/08/20170816_141250-700x394.jpg)
+
+![](/content/images/2017/08/20170816_144316-700x394.jpg)
+
+![](/content/images/2017/08/20170816_163315-700x1244.jpg)
+
+![](/content/images/2017/08/20170816_171020-700x1244.jpg)
+
+![](/content/images/2017/08/20170816_1714330-700x394.jpg)
+
+![](/content/images/2017/08/20170816_171445-700x394.jpg)
+
+![](/content/images/2017/08/20170816_171645-700x1244.jpg)
+
+![](/content/images/2017/08/Screenshot_20170816-125831-700x1439.png)

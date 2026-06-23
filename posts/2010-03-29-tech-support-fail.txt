@@ -1,0 +1,77 @@
+---
+date: '2010-03-29T20:40:40+00:00'
+favorite: false
+feature_image: ''
+format: markdown
+slug: tech-support-fail
+tags:
+- linux
+- tech support
+title: Tech. Support Fail
+---
+
+last week at work, some of the network requirements changed in order to have your laptop registered. i forget what exactly changed, but that’s beside the point.
+
+the point is: i got kicked off for being non-compliant (except i was), and my MAC address got blocked. awesome. this was on like… wednesday? i think? i called tech. support about 17 times, and apparently everyone else on base got blocked, too, because the phone line was flooded (and still is) and it is damn near impossible to talk to them without toting my laptop down to their building. i’m not that desperate [yet].
+
+on a side note, not having internet last week was kind of helpful because it allowed me to study for the CISSP without getting distracted. a blessing in disguise.
+
+anyway, i left a few voicemails, all of which have been returned… the following day. except for today. today they called me back within a few hours. but the thing is, i shouldn’t have had to call today, because when they called me back *friday* (following the voicemail i left them on *thursday*), they said i should have been unblocked within 3 hours of our phone conversation. 3 hours was after i had already left work, so i just assumed i’d be ready to go this morning.
+
+not so much.
+
+so today’s conversation was a bit different. they were like, “oh, but it says you are already unblocked!” that’s fantastic, but my 0.0.0.0 IP address says otherwise.
+
+then things started to unfold:
+
+> guy #1: wait, what’s your name? whitney?
+>
+> me: yes, why?
+>
+> guy #1: i heard your name earlier. they said you were blocked for P2P access. let me transfer you.
+>
+> me: WHAT?
+>
+> guy #1: please hold.
+>
+> guy #2: hello?
+>
+> me: hi, this is whitney. i was told i was blocked for P2P access.
+>
+> guy #2: yes, you were blocked on the 23rd for P2P access. do you have any file sharing programs?
+>
+> me: no… the only thing on my laptop is transmission [linux bittorrent client] and that is only because it is installed by default
+>
+> guy #2: oh, i see. well, is it running?
+>
+> me: no… i don’t use it. it’s just installed.
+>
+> guy #2: oh, i see. well, *whispers to guy in background* do you have any, um, *whispers*, do you have any RPMs installed?
+>
+> me: umm… yes. i’m using an RPM-based linux distribution. why does that matter?
+>
+> guy #2: well, *whispers to guy in background* RPMs sometimes install torrents…
+>
+> me: haha, that does not make any sense!
+>
+> guy #2: see… we block people if they install torrents. and that might be why you were blocked.
+>
+> me: but… RPMs are the packages that are installed on my laptop, most of which have nothing to do with file sharing.
+>
+> guy #2: oh… well, *whispers* do you happen to have gnome installed?
+>
+> me: sir, gnome is my desktop environment. in linux. that has nothing at all to do with file sharing. i do not, and have never, used any file sharing programs at work!
+>
+> guy #2: um, i’m going to have to ask network security to unblock you, then. there must be someone on your switch who is installing torrents. i can ask him to unblock you, but they will be watching you from now on.
+>
+> me: just *please* UNBLOCK ME!
+>
+> guy #2: okay, give me 30 minutes and you should be unblocked.
+
+after all that mess, 30 minutes passed. an hour passed. i was still not unblocked.
+
+after all that mess, i will be toting my laptop to tech. support tomorrow, and *hopefully* i will be able to get back online.
+
+worst case scenario: they don’t fix my problem, i manually change my MAC address again, re-register my laptop, and just be forced to keep changing it upon reboot. sucks, but it works.
+
+at the very least, i want to meet the man who told me that RPMs sometimes install torrents, and suggested that gnome is a P2P violation. and then i want to ask him how he got a job at tech. support.

@@ -1,0 +1,15 @@
+---
+date: '2011-07-19T15:50:01+00:00'
+favorite: false
+feature_image: ''
+format: markdown
+slug: tonights-project
+tags: []
+title: Tonight's Project
+---
+
+[![](/content/images/2011/07/BabbleJarRainbow2.jpg "Rainbow Cake Jar")](/content/images/2011/07/BabbleJarRainbow2.jpg)
+
+rainbow cake jars. this will be so much fun. [recipe & photo credit.](http://blogs.babble.com/family-kitchen/2011/04/08/rainbow-cake-in-a-jar/)
+
+**update**: it will have to be tomorrow’s project. i grabbed the wrong food coloring crap at the store and i am not going back to wal-mart. hate.

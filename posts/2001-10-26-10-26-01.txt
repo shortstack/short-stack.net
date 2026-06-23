@@ -1,0 +1,11 @@
+---
+date: '2001-10-26T23:28:00+00:00'
+favorite: false
+feature_image: ''
+format: markdown
+slug: 10-26-01
+tags: []
+title: 10/26/01
+---
+
+ah! it worked! :) now i have fonts and more mp3's and an mp3 player! this is awesome =D eh. i gotta wake up early tomorrow. man that sucks!!!

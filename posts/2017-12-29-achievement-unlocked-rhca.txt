@@ -1,0 +1,45 @@
+---
+date: '2017-12-29T22:31:45+00:00'
+favorite: true
+feature_image: ''
+format: markdown
+slug: achievement-unlocked-rhca
+tags:
+- goals
+- RHCA
+title: Achievement Unlocked - RHCA
+---
+
+![](/content/images/2017/12/Screen-Shot-2017-12-27-at-10.21.53-PM-700x539.png)
+
+my 10 year goal.
+
+roughly 6-7 years in the making since my first red hat certification. because time, money, kids, work, etc.
+
+in september 2007, i visited red hat with our AITP chapter from app. several of my friends already had their eyes set on red hat, or already worked there.
+
+i told myself that in the next 10 years, i wanted to end up at red hat and become an architect, and get my RHCA.
+
+this september, i was hired as a consulting architect, and today, i *finally* got my RHCA.
+
+10. YEARS.
+
+there were plenty of times where i didn’t think it would be possible. mostly because if i didn’t start working at red hat before finishing my RHCA, the RHCA would likely never happen since it costs so much money and would probably take years waiting to get that kind of $ approved. certs would expire, and the vicious cycle would continue. but the stars aligned, and in september i started at red hat. knocked out 4 certifications in 3 months (2 recertifications, 2 new ones).
+
+there were a LOT of 3 and 4 and 5ams and all nighters and far too much self-inflicted stress and anxiety because i was determined to make this shit happen by year’s end. combine that with 3 kids (the twins were < 4 months old at the time), learning ALL THE THINGS for new job and career change and trying to hit the ground running (read: more studying), postpartum everything, life in general. the last few months have been absurd. and largely not in good ways.
+
+i don’t even know what to do now. i don’t know what my next BIG goal is, which is exciting and terrifying all in the same. i do know, however, that a load has been lifted. confidence instilled. stress level lowered, to some degree. anxiety relieved, however temporary that may be until i move on.
+
+i went to lunch with [kelley](http://coastalkelder.com) yesterday and we were discussing some of this. she closed her etsy shop over the holiday, and i just finished this cert. both of us were left with a void. a void that any sane person after the amount of hours we put in would use to relax. she and i are one in the same, in that that’s not really possible. i can’t just sit and do nothing. i always have side projects and todo lists and things i want to work on. even if i take a night off from the computer, i’m baking or cooking or cleaning doing something constructive. and i can’t just sit in front of the TV empty handed anymore. it’s a blessing and a curse. probably more of the latter. my husband will vouch for this and i know he hates it.
+
+so… that said. new goals:
+
+* redo my openstack certification, since it’s far outdated
+* get certified on cloudforms, assuming the kiosk at the testing station doesn’t crap out on me again
+* start on SANS training, or OSCP… so many to choose from. picking a track is a goal in its own. but i’ve wanted to do this for a while and i want to at least get 1 in the books in 2018
+* get involved in an infosec project… something in the community so i can participate and give back and get involved more
+* AWS certification. don’t know which one. not high on my todo list but i’d like to actually get one. my day to day doesn’t involve AWS like it used to, so staying up to date will take a lot more work now
+* teach myself to quilt and make my epic t-shirt quilt <3
+* ???
+
+i’m sure other things will come to mind. but. this is the list so far. open to suggestions.

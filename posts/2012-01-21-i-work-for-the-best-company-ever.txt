@@ -1,0 +1,30 @@
+---
+date: '2012-01-21T18:17:20+00:00'
+favorite: false
+feature_image: ''
+format: markdown
+slug: i-work-for-the-best-company-ever
+tags:
+- android
+- hackathon
+- mobile
+- party
+- SPARC
+title: I Work For The Best Company Ever.
+---
+
+i don’t even know where to start here. the list of reasons for this title is never-ending, it seems.
+
+this past week was SPARC’s second mobile hackathon. the first one was a 1-day hackathon with dozens of teams, sponsors, prizes, food… it was fantastic. it was my second time writing an android application, and it was about 10 hours of straight coding. it was exhausting and hard and fun and awesome and absolutely insane. i learned a lot, and that (to me) was the goal behind entering in the first place.
+
+this one was much different. same end goal (develop a mobile app with a team of 1-3 persons), smaller number of participants, and instead of 1 day, we had a week to complete it.
+
+so today was judgement day. today is when all our hard work paid off, and everyone got to show off their amazing accomplishments. the amount of talent that was in that room today was absolutely off the charts. the same thing can be said for the whole company on a daily basis. i can honestly say that there isn’t a single person working in that building that doesn’t bring something impressive to the table, and everyone is just a little bit weird. :)
+
+in addition, people volunteered to bring food, beer, grill out, and have a good time. if there is ever a chance to throw a party, SPARC will gladly accept. you will never be let down. you may have a hell of a hangover, but you will never be let down. (no, i did not drink. but everyone else did so i partied vicariously through them. and ate lots of cookies.)
+
+i can think of few companies that encourage such entrepreneurial spirits in their employees. not only do they give us the tools to be better at our jobs, but they give us the tools AND the extra push to try things that we may not have had a chance to try before. for a lot of people, this week was their first time trying out mobile development, and not a single person came away from this experience empty handed. the skills we all learned were motivation enough to enter (plus it’s just plain fun competition), but the prizes, food, and the friendly get-together were the icing on the cake–something SPARC is never lacking.
+
+i only have one other work experience in my life where within the first few weeks, i felt like family, and felt comfortable, and that was when i worked for tech. support in college. i never thought i’d find another job i loved as much as i loved that one, and i’m thrilled to be able to say that i love going to work every day again. i might not love getting out of bed, but i love getting to work and being in an environment that thrives on its geek addictions.
+
+so to everyone at SPARC that reads this, thank you for everything you do for all of us. the past 6 months have been a whirlwind of nerdy awesomeness that i never expected to just fall into the way i did. i look forward to the next big hackathon and can’t wait to see where this company takes us.

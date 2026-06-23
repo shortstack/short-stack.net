@@ -1,0 +1,13 @@
+---
+date: '2008-04-07T18:55:46+00:00'
+favorite: false
+feature_image: ''
+format: markdown
+slug: screenshot
+tags: []
+title: Screenshot
+---
+
+i finally found a theme i like and have fedora looking SPECTACULAR! :lol: i love it. it’s so pretty and shiny. i just want to stare at it. i used [this application theme](http://art.gnome.org/themes/gtk2/1065) and [this window border theme](http://art.gnome.org/themes/metacity/1231). wallpaper is from [n.design studio](http://www.ndesign-studio.com/).
+
+[![](http://short-stack.net/Screenshot040708.png)](http://short-stack.net/Screenshot040708.png)

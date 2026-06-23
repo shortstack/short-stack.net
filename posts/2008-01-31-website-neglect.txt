@@ -1,0 +1,11 @@
+---
+date: '2008-01-31T00:21:53+00:00'
+favorite: false
+feature_image: ''
+format: markdown
+slug: website-neglect
+tags: []
+title: Website Neglect
+---
+
+i never thought i’d say this, but i am really getting sick of computers. i’ve been reading a lot of articles that i’ve found on digg about addiction and i’m pretty sure i fit 99% of the criteria they’ve all listed. i don’t like it. it’s not helping my depression and it only takes time out of my life that could be spent doing other things. for years, i’ve thought that this kind of stuff was what i wanted to do for the rest of my life, but i think i’ll lose it if i spent my adult life in a cubicle or behind a computer screen 12 hours a day. that kind of throws my “plans” off a bit, if there were any real ones. since being in college, i just assumed i’d graduate, and then go work at cisco or red hat or some other place doing web design and all that but… just the thought of that makes me cringe. a lot.

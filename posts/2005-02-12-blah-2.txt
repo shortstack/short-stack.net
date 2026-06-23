@@ -1,0 +1,11 @@
+---
+date: '2005-02-12T17:08:38+00:00'
+favorite: false
+feature_image: ''
+format: markdown
+slug: blah-2
+tags: []
+title: Blah
+---
+
+i’m at a loss of words for the time being. i’ll post something when something happens worth posting. hopefully tonight until monday will make up for yesterday. yesterday sucked.

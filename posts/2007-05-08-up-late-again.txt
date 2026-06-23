@@ -1,0 +1,17 @@
+---
+date: '2007-05-08T11:11:23+00:00'
+favorite: false
+feature_image: ''
+format: markdown
+slug: up-late-again
+tags: []
+title: up late again
+---
+
+it’s 4 in the morning. i’m not tired. i shouldn’t have stayed up until 6 yesterday morning because that made me sleep until 3 in the afternoon… and now i’m wired. i always do this and then wonder why i’m all weird in the head. when my sleep schedule gets messed up, my emotions say to hell with sanity. the internet is the devil and i wish i had the willpower to throw it out the window. it’s hard when you live in a town that gets *completely deserted* after classes end and graduation is over with. my neighbors upstairs party constantly but i’m really, really sick of beer pong and sitting in front of the TV watching ESPN 24/7. it was fun for a while, and i love those kids, but i can only do that so much. and i always get stupid drunk because they take a round of shots every 15 flippin’ minutes. that’s a bit much for my small stature. a bunch of my friends are supposedly partying tomorrow night, so maybe i’ll get out instead of laying around being a bum. i need to go to work every day for the rest of the week, also. no more doing nothing.
+
+i did get out for a little while today. i went to the tanning bed because lately that seems like the only thing that forces me to truly relax and not think about anything for at least 20 minutes. i also think i may have acquired an exercise bike. ryan said he doesn’t ever use his and that i can borrow it. well, he actually told me i can have it but i’d feel guilty doing that. so i’m going to “borrow” it until adam comes home, i think. i’m pretty excited… :biggrin: maybe i won’t have love-handles when he gets back. YES!!!
+
+i really need to go to sleep. i did make a lot of updates on here, though. i also re-organized the photo gallery. it was driving me absolutely crazy. i need to customize the .htaccess still, though. it looks so ugly with the default directory and it’s been that way for years and *i hate it*!
+
+goodnight.

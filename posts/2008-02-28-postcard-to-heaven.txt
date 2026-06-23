@@ -1,0 +1,15 @@
+---
+date: '2008-02-28T15:07:04+00:00'
+favorite: false
+feature_image: ''
+format: markdown
+slug: postcard-to-heaven
+tags: []
+title: Postcard to Heaven
+---
+
+after talking to my dad on the phone a month or so ago, we came up with an idea for a website that i finally put together and got up and running. it isn’t 100% right now because there are a couple aesthetic things that need to be fixed and so forth, but it’s there.
+
+![](http://postcardtoheaven.net/images/logo-trans.png)[Postcard to Heaven](http://postcardtoheaven.net) is now live. i hope to keep changing things and making it nicer and more creative in the long run, but i really wanted to put something on the website since it’s already being paid for. comments and suggestions and ideas are more than welcomed and i really hope to make something out of this. :razz: i think it’s pretty cute… and i normally hate the designs i come up with. anywho, there it is. i will go hold my breath while i take on the constructive criticism.
+
+also, pictures from AppalachLAN IX can be found [here](http://short-stack.net/?page_id=835), [here](http://short-stack.net/?page_id=836), and [here](http://short-stack.net/?page_id=837).

@@ -1,0 +1,15 @@
+---
+date: '2008-04-19T14:44:28+00:00'
+favorite: false
+feature_image: ''
+format: markdown
+slug: fall-08-schedule
+tags: []
+title: Fall '08 Schedule
+---
+
+there are 2 weeks left of this semester and i can not believe it. it flew by so fast. i’m almost glad i’m not graduating this may because i’m realizing more and more how not ready i am. anyway, registration was a couple weeks ago and after a bit of tweaking, i think i have the perfect semester lined up.
+
+![](http://short-stack.net/images/schedule.png)
+
+CIS 4680 is mostly java (hello again, highschool… woohoo!), CIS 4585 is more or less a hacking & security course with a fancy name, and CIS 4545 is a class that one of my professors is working on jointly with IBM. i’m actually really excited about that one. i’m excited about my entire course load, and i am only slightly nervous about how much it’s going to kick my ass. i usually only take 4 classes a semester because i tend to overload myself with stress when i take more than that, but i couldn’t resist taking 4585. and it’s got one of my favorite professors. if that bored you, i’m sorry. here is a video of the cutest thing ever that my friend joe sent me earlier.

@@ -1,0 +1,17 @@
+---
+date: '2009-04-22T21:53:26+00:00'
+favorite: false
+feature_image: ''
+format: markdown
+slug: my-creation
+tags: []
+title: My Creation
+---
+
+i probably mentioned at some point something about the project management system i’ve been creating for my IS project class. if not, my final project for the computer information systems department is to create a new system for a client. my clients are 2 of my friends who graduated from ASU and have started their own web development company. my project was to create a web-based project management system for them.
+
+well… i did. and i am confident enough, now, to put it out there for criticism. :geek: this is my first real “creation”. i say that because it isn’t just a website. it actually does something and serves some purpose.
+
+[here it is](http://short-stack.net/redlink). i wrote every bit of it and for that reason, i am very happy with the results. :cry: it is by no means spectacular, but it does what it is supposed to. i should also probably mention that it is not secure in regards to the user access levels.
+
+it is coded entirely in XHTML, CSS, PHP, and SQL. have at it! :happy:

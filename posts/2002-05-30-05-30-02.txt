@@ -1,0 +1,11 @@
+---
+date: '2002-05-30T16:25:32+00:00'
+favorite: false
+feature_image: ''
+format: markdown
+slug: 05-30-02
+tags: []
+title: 05/30/02
+---
+
+i’m not sure when the pics will be up. i’m still in the middle of fixing thumbnails. i’ve got some done but it’s gonna take a while for the rest. the collective is updated, but not done yet. and i’m about to put up LAN pics. check back later.

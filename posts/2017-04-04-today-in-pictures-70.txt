@@ -1,0 +1,19 @@
+---
+date: '2017-04-04T21:08:49+00:00'
+favorite: false
+feature_image: ''
+format: markdown
+slug: today-in-pictures-70
+tags: []
+title: Today In Pictures
+---
+
+![](/content/images/2017/04/20170404_175438-700x525.jpg)
+
+![](/content/images/2017/04/20170404_175832-700x933.jpg)
+
+![](/content/images/2017/04/20170404_180805-700x525.jpg)
+
+![](/content/images/2017/04/Screenshot_20170404-192838-700x1244.png)
+
+![](/content/images/2017/04/Screenshot_20170404-192846-700x1244.png)

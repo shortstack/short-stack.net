@@ -1,0 +1,15 @@
+---
+date: '2008-11-16T03:45:13+00:00'
+favorite: false
+feature_image: ''
+format: markdown
+slug: antifreeze-fish
+tags: []
+title: Antifreeze Fish
+---
+
+i found [this article](http://www.lohud.com/article/2008811140374) on digg about an ongoing project in antarctica studying the gamburtsev subglacial mountains and started reading through some of it. i somehow ended up on [another web page](http://icestories.exploratorium.edu/) that had articles and summaries of *several* antarctic and artctic expeditions/projects. something about this stuff absolutely fascinates me and i think that if i never went into computers, this is what i would have done. i have been reading that last website for the past two hours with my eyes as big as saucers.
+
+[this girl](http://icestories.exploratorium.edu/dispatches/?author=6) is just awesome. i clicked on her profile on the website to see what she did because she looked really young. turns out, she’s a grad. student and she’s already submitted her work to the scientific committee of antarctic research at a conference in russia in the hopes of initiating a sustainable toothfish fishery in antarctica.
+
+![Antarctic Toothfish](http://icestories.exploratorium.edu/dispatches/wp-content/uploads/2008/02/toothfish1.thumbnail.jpg)[this is her project on antifreeze fish](http://icestories.exploratorium.edu/dispatches/?page\_id=30) and as awkward as that sounds, the article had me glued to my screen. it almost makes me want to switch majors.

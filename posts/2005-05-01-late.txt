@@ -1,0 +1,11 @@
+---
+date: '2005-05-01T04:06:58+00:00'
+favorite: false
+feature_image: ''
+format: markdown
+slug: late
+tags: []
+title: Late
+---
+
+it’s late and i’m exhausted. i just got back from siner/tracy’s birthday party at appsouth… we were going to all go bowling but plans got screwy and yeah… that didn’t happen. anyway, gotta get up early in the morning. goodnight.

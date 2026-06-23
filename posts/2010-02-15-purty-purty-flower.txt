@@ -1,0 +1,14 @@
+---
+date: '2010-02-15T14:42:43+00:00'
+favorite: false
+feature_image: ''
+format: markdown
+slug: purty-purty-flower
+tags:
+- chocolates
+- flowers
+- valentine's day
+title: 'Purty. Purty Flower! '
+---
+
+![sdc10186](/content/images/2010/02/flowers-cropped.jpg "sdc10186")

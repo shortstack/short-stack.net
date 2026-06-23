@@ -1,0 +1,19 @@
+---
+date: '2010-02-10T16:24:50+00:00'
+favorite: false
+feature_image: ''
+format: markdown
+slug: domain-1-check
+tags:
+- cissp
+- studying
+title: domain 1... check
+---
+
+i started off studying for the CISSP in a very unorganized manner–just reading through materials haphazardly, hoping and praying that some of it would stick as i went along. then i came to my senses and realized it is divided into 10 domains for a reason.
+
+for the past several days, i’ve been reading and re-reading the SANS CISSP booklet for the first domain–access control. i’ve listened to the lectures, and i re-played the chunk on kerberos about 7 times just this afternoon (nightmare). i made diagrams. i made about 50 flash cards. after all that, i’ve been completing the practice quizzes on domain 1 at an 80% rate or higher. this is not to say i’ve mastered access control, because i am nowhere near that point. but i’m very comfortable with it, and that’s a good start. i think tomorrow i will move on to domain 2 after doing a couple more quizzes.
+
+thank you to everyone who has been giving me study tips and materials–i really appreciate it.
+
+perhaps when i get reimbursed for the exam, i can buy a round of alcoholic beverages for all of you. and myself. lord knows i’m gonna need it afterward.

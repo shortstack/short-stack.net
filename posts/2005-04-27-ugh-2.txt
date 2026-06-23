@@ -1,0 +1,11 @@
+---
+date: '2005-04-27T14:32:44+00:00'
+favorite: false
+feature_image: ''
+format: markdown
+slug: ugh-2
+tags: []
+title: Ugh
+---
+
+i’ll update this eventually. the site might be going down for a while since i’m never finding the time or motivation to update it enough.

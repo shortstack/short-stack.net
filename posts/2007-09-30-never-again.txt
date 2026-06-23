@@ -1,0 +1,11 @@
+---
+date: '2007-09-30T11:28:13+00:00'
+favorite: false
+feature_image: ''
+format: markdown
+slug: never-again
+tags: []
+title: never again
+---
+
+ever.

@@ -1,0 +1,141 @@
+---
+date: '2015-05-27T22:54:20+00:00'
+favorite: false
+feature_image: ''
+format: markdown
+slug: layerone-2015
+tags:
+- code
+- ctf
+- def con
+- infosec
+- layerone
+- parties
+- security
+title: LayerOne 2015
+---
+
+last thursday, caylin left with my mom to go on her 3rd trip to disney world. yes, third. before the age of 3.
+
+they went to disney, and brett and i left for CALIFORNIA!!! for over 5 years now, my DEF CON buddies have been telling me how amazing the [layerone](http://layerone.org) security conference is. for years, i’ve put it off and put it off. mostly because A) trips to california aren’t cheap, and B) i am a wuss sometimes.
+
+this is a much more low key conference than DEF CON. smaller, more intimate, very hands on, more workshop centric, freakishly smart people. it intimates the hell out of me. but, finally, back in january or february, i said screw it. i’m booking the trip. what could be better than going to LA for a long weekend to see friends i only usually get to see once a year? not only that, i know i will come out of it smarter. it’s… even better than a LAN party (blasphemy!)
+
+we got home monday night, and all i could think was how much i wanted to go back and relive the entire weekend. i spent the better part of the day saturday and sunday participating in the [code (de)obfuscation contest](http://www.layerone.org/events/obfuscation-contest/), something i never thought i’d do. i originally planned on joining the CTF, but stan and DG gave me enough shit for the first hour i was in there that i caved and was heads down the rest of the day.
+
+i haven’t even looked at C or assembly since 2011. i haven’t touched COBOL in my life. i had no idea what punched tape or baudot code was until saturday. never done lisp. or erlang. to say i was nervous is quite the understatement. that room was full of uber nerds, and i was sitting next to the 3 guys who wrote the contest for most of the day. i haven’t felt that dumb in a hell of a long time.
+
+i didn’t come in first and i didn’t come in last. i was completely happy sitting at 5th by the end of the weekend, knowing i’d learned even a fraction of what i’d accomplished those 2 days.
+
+that afternoon and evening, brett took himself to lunch and to watch the UFC fights and to a late movie. so i went to the saturday night dinner and diplomacy party. i’ve never played diplomacy–i never realized how much people get into this game. but… people REALLY get into this game. costumes, accents, yelling, role play, the whole 9 yards. it was so fun to watch, and in the midst of everything, i had whiskey, chocolate cake, and made lots of new friends.
+
+my only regret is not drinking enough water saturday night. it’s been a while since i had a legit hangover. and sunday morning was, indeed, a legit hangover. it ruined half of my day, and because of it i didn’t get a badge kit to solder my badge. they ran out before i got there (yay for them, boo for me). i missed a couple talks i wanted to go to, and i didn’t get to nerd out as long as i wanted on sunday before the closing ceremonies. on the upside, i get to see most of these people in 2 months anyway in vegas, so i don’t feel quite as bad.
+
+and… here is our trip in bullets:
+
+![DSC_0450](/content/images/2015/05/DSC_0450-700x394.jpg)
+
+11. flew to houston
+12. uh, tiniest plane ever
+13. our itinerary had the wrong time zone, said we had a 2.5 hour layover. we did not. we had like a 1.5 hour layover. we were sitting at the bar literally eating sandwiches about to start taking shots of whiskey when i looked at my phone. 4 MINUTES UNTIL DEPARTURE, WTF NO WAY
+14. i start running through the airport
+15. brett took his shot, gave the other to a stranger next to us
+16. we missed the flight
+17. we got a new flight leaving less than an hour later, crisis averted, miracles can happen  
+    ![DSC_0451](/content/images/2015/05/DSC_0451-700x394.jpg)
+18. got to LA and got a rental car, i fell in love with the dodge dart i’ve always wanted. except mine will be gunmetal gray with blacked out windows. or bright orange, not sure yet
+19. drove to stan’s house, because he’s awesome. met mrs. stan and their adorable emma. also, cats
+20. drove around in circles for a while looking for some good mexican food, but we had no cell service for like 10 minutes so we just drove in circles [in a sketch area](http://en.wikipedia.org/wiki/The_Avenues_%28gang%29) for a while… awesome  
+    ![DSC_0452](/content/images/2015/05/DSC_0452-e1432781731553-700x394.jpg)
+
+![DSC_0453](/content/images/2015/05/DSC_0453-700x394.jpg)
+
+24. we found paco’s. or brett found it, rather. at that point we were like WE JUST WANT FOOD
+25. ate entirely too much guacamole
+26. i’ve never seen a chimichanga that big in my life  
+    ![DSC_0454](/content/images/2015/05/DSC_0454-700x394.jpg)
+27. went to ralph’s (seems a strange name for a grocery!) to get food stuffs for the hotel and other various things we forgot
+28. they sell liquor after 7pm on the west coast! and they sell it at the grocery! and did i mention i love california?  
+    ![DSC_0455](/content/images/2015/05/DSC_0455-700x394.jpg)
+
+![DSC_0456](/content/images/2015/05/DSC_0456-700x394.jpg)
+
+32. time to relax a bit, before getting all partied up  
+    ![DSC_0457](/content/images/2015/05/DSC_0457-e1432782541758-700x1244.jpg)
+33. our fridge was missing?
+34. i have no pictures from partay night #1
+35. i got awkwardly breathed on for half an hour by an elderly man at the bar, and brett just watched in discomfort
+36. stood outside reminiscing for hours until i could no longer keep my eyes open
+37. i rolled into bed around 2:30am  
+    ![DSC_0459](/content/images/2015/05/DSC_0459-700x394.jpg)
+
+![DSC_0460](/content/images/2015/05/DSC_0460-700x394.jpg)
+
+41. opening ceremonies, hooray DG!  
+    ![DSC_0461](/content/images/2015/05/DSC_0461-700x394.jpg)
+42. got my badge! :)  
+    ![DSC_0462](/content/images/2015/05/DSC_0462-700x394.jpg)
+43. here be dragons! bwahaha  
+    ![DSC_0463](/content/images/2015/05/DSC_0463-700x394.jpg)
+44. someone came prepared for breakfast. i, on the other hand, stuck to juice and muffins and fruit
+45. befriended tinder recruiter–she had never been to a nerd conference before  
+    ![DSC_0464](/content/images/2015/05/DSC_0464-700x394.jpg)
+46. 3D scanning talk, with awesome demo  
+    ![DSC_0470](/content/images/2015/05/DSC_0470-700x394.jpg)
+47. starting out in the (de)obf contest
+48. sat in this room for… many hours
+49. my lunch consisted of 2 chocolate chip cookies
+50. of all the cons to not bring his laptop, brett chose this one, so he wandered around all day and the rest of the night
+51. demo party was epic, so much talent
+52. CTF room closed, got booted out, worked under a palm tree for a half hour or so and relaxed  
+    ![DSC_0471](/content/images/2015/05/DSC_0471-700x394.jpg)
+53. dinner and diplomacy – forgot to take pictures of the actual dinner setup. steak, taters, pasta, salads, veggie lasagna, bread, veggies, free beer, cakes… it was delicious
+54. followed up with whiskey and more diplomacy spectating  
+    ![DSC_0474](/content/images/2015/05/DSC_0474-700x394.jpg)
+55. john and DG schooling folks in the rules of diplomacy  
+    ![DSC_0481](/content/images/2015/05/DSC_0481-700x394.jpg)
+56. sean and stan scheming  
+    ![DSC_0482](/content/images/2015/05/DSC_0482-700x394.jpg)
+57. nobody puts DG in the corner  
+    ![DSC_0489](/content/images/2015/05/DSC_0489-700x394.jpg)
+58. diplomacy ended, the drinking did not
+59. 3d printed phallic items, nerd talk, watching people blow up toys outside
+60. i ran around with a cup of sliced apples all night? returning to the room every so often for more shots, not enough water, and another cup of apples… everyone liked free apples
+61. finally passed out around 2:30 again
+62. i can’t take normal photos with stan  
+    ![DSC_0493](/content/images/2015/05/DSC_0493-700x394.jpg)
+63. threatbutt FTW
+64. new friends FTW  
+    ![DSC_0494](/content/images/2015/05/DSC_0494-700x394.jpg)
+65. the best hangover breakfast ever that i didn’t even get to enjoy at a little diner called leroy’s
+66. brett came here the day before for lunch and said it was amazing. all this was $7!!!  
+    ![DSC_0495](/content/images/2015/05/DSC_0495-700x394.jpg)
+67. view from our hallway  
+    ![DSC_0496](/content/images/2015/05/DSC_0496-700x394.jpg)
+68. came outside to join the fun
+69. what goes in the guns? anything! nerf darts, string, batteries, smoke, and even olives  
+    ![DSC_0497](/content/images/2015/05/DSC_0497-700x394.jpg)
+
+![DSC_0509](/content/images/2015/05/DSC_0509-700x394.jpg)
+
+86. hung out outside for a while. closing ceremonies were scheduled to be at 5, and so was a wedding
+87. whoever planned that timing is an idiot  
+    ![DSC_0515](/content/images/2015/05/DSC_0515-700x394.jpg)
+88. closing ceremonies, sad times
+89. said bye to stan and some others, had planned on going to 23b after party but that never happened so i didn’t actually get to say goodbye to anyone! :(  
+    ![DSC_0517](/content/images/2015/05/DSC_0517-700x394.jpg)
+90. brett and i went to a fancy dinner at the derby
+91. it was delicious, but a taaad too fancy for us!  
+    ![DSC_0518](/content/images/2015/05/DSC_0518-700x394.jpg)
+92. dap to the dap guy
+93. we drove back to the hotel and basically vegged out watching crappy TV and not looking forward to waking up in the morning
+94. brett had to get a cab at 3am to the airport for a 6am flight, i had to get up at 630 to drive to the airport for mine
+95. sat next to terrifying, absolutely jacked dudes speaking russian on the shuttle from rental car place, avoided any and all eye contact  
+    ![DSC_0519](/content/images/2015/05/DSC_0519-700x394.jpg)
+96. eggs, sausage, hash browns, and mimosas for breakfast
+97. crappy middle seat all the way to chicago, binge watched game of thrones
+98. forever walk to F gates at chicago
+99. gyro for lunch
+100. flight delayed an hour
+101. finally got to CHS around 10, and drove home  
+     it was a long weekend, but much needed. i want to go back. i wish my friends were closer. i will be going to layerone as much as possible from now on!

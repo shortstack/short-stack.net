@@ -1,0 +1,19 @@
+{% extends "base.html" %}
+{% block content %}
+<ul class="post-list">
+  {% for p in posts %}
+  <li class="post-item">
+    <a class="post-link" href="{{ p.url }}">{{ p.title }}</a>{% if p.favorite %} <span class="fav" title="favorite">&hearts;</span>{% endif %}
+    <div class="post-meta"><time>{{ p.date.strftime('%Y-%m-%d %H:%M:%S') }}</time>
+      {% for t in p.tags %}<a class="tag" href="/tag/{{ t }}/">#{{ t }}</a>{% endfor %}
+    </div>
+    <p class="post-excerpt">{{ p.excerpt }}</p>
+  </li>
+  {% endfor %}
+</ul>
+<nav class="pager">
+  {% if prev_url %}<a href="{{ prev_url }}">&larr; newer</a>{% endif %}
+  <span>page {{ page }} / {{ total_pages }}</span>
+  {% if next_url %}<a href="{{ next_url }}">older &rarr;</a>{% endif %}
+</nav>
+{% endblock %}

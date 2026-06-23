@@ -1,0 +1,13 @@
+---
+date: '2010-02-18T19:14:04+00:00'
+favorite: false
+feature_image: ''
+format: markdown
+slug: my-mom-fedexed-it
+tags: []
+title: My Mom FedExed It ;)
+---
+
+![Game Boy](/content/images/2010/02/gameboy.jpg "Game Boy")
+
+i remember when we used to be inseparable. :lovestruck:

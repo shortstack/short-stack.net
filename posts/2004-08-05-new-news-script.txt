@@ -1,0 +1,11 @@
+---
+date: '2004-08-05T22:03:30+00:00'
+favorite: false
+feature_image: ''
+format: markdown
+slug: new-news-script
+tags: []
+title: new news script
+---
+
+i’m hoping this crap works. i haven’t used a news script in years simply because it became more of a hassle than it was worth. i’ve grown to like updating manually with notepad. i have my own little system. but, this will require less time and attention in the long run and hopefully i won’t have to worry about archiving every month by myself. *crosses fingers*

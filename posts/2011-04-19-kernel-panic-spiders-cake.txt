@@ -1,0 +1,48 @@
+---
+date: '2011-04-19T22:32:07+00:00'
+favorite: false
+feature_image: ''
+format: markdown
+slug: kernel-panic-spiders-cake
+tags:
+- brett
+- cake
+- certifications
+- college
+- NCSU
+- raleigh
+- red hat
+- RHCE
+title: Kernel Panic, Spiders, Cake
+---
+
+i woke up this morning relieved that i did not awake with a swollen face again. my allergies got the best of me yesterday, and ~~it~~ i was not pretty. i guess i’ve been used to sleeping on my pillows with the hypoallergenic cover and uh… minor reaction. i forgot to mention that yesterday. i kind of went into panic mode before my class and was like SWOLLEN FACE FIRST DAY OF CLASS I’M GONNA BE THE FREAK IN THE ROOM.
+
+speaking of panic… didn’t even mean to set that up. i swear. i was in the middle of a lab today and it required us to update the kernel from a new repository, and somewhere between 8 people downloading multiple large files all at once, my update froze and my kernel didn’t update correctly and my machine shat itself and it was not awesome at all. i don’t like when things break in this class, because the guy is a great teacher, but he moves rather quickly (trying to cram multiple weeks of info into 4 days is like… warp speed ahead). and rebooting a RHEL box doesn’t normally take that long, but then it tries to recover from a stupid kernel panic and then does a stupid selinux relabel and i was staring at my screen like shoot me now.
+
+not a big deal or anything, i just like to stay at his pace and do everything as he does it on his computer. it keeps me focused.
+
+today was a bit more involved than yesterday, in terms of workload. i didn’t count them but it felt like we had a lot more lab exercises to do. it was definitely a lot more troubleshooting. a lot more of “run this script to break this service and try to figure out what we did to pwn you just now”. it feels more like a scavenger hunt, which is fun. but i have a feeling the exam won’t feel so much like a scavenger hunt.
+
+fun fact from today–i was in the ladies bathroom stall [and a spider crawled under the door](http://twitpic.com/4msbag). that was… uncomfortable.
+
+to counteract this, i was pleasantly surprised when our instructor informed us that we were getting triple chocolate cake for dessert with our lunch.
+
+i walked back in the ladies bathroom a few hours later and looked down and the spider was still there, but someone had squished him. justice… is served.
+
+this week is going by really quickly, it seems. which is good because i am going through severe brett withdrawals. i hate not being around him. everything is so much more fun. and at the same time, being here reminds me of college–being at NC state on campus with other backpackers and the buses and campus life, etc. i really miss it. so it’s more like… i just wish brett was here with me to enjoy all this and hang out with the rest of my friends. [JB](http://cupcakecarnival.net), [derrick](http://control-d.com), [kendrick](http://blog.khoix.net/), robert and his girlfriend jenny, stephen, JD, and i all went out for dinner last night. i had a nice dinner and quality time with my grandparents tonight. i’m hopefully gonna get to see rob and bethany tomorrow or sometime before i head out. sigh. it feels like boone, almost, with all these boone people transplanted to raleigh. it’s just missing the love of my life.
+
+and right now i’m planted on the couch with my laptop while JB sits in the corner deejaying. he did this last night for like 3 hours, seriously. some of the sounds coming from that side of the room are c r a z y.
+
+MAN, i really do miss college.
+
+random pictures from today:  
+![](/content/images/2011/04/IMAG0538.jpg) cutest store ever, bought breakfast here  
+![breakfast](/content/images/2011/04/IMAG0541.jpg)  
+this was my breakfast  
+![yessir](/content/images/2011/04/IMAG0540.jpg)  
+it sho’ is  
+![JB](/content/images/2011/04/IMAG0542.jpg)  
+JB doing his DJ thing
+
+anywho, work is done. again, angry birds time.

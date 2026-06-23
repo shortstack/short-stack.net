@@ -1,0 +1,11 @@
+---
+date: '2006-12-01T01:50:02+00:00'
+favorite: false
+feature_image: ''
+format: markdown
+slug: sickness
+tags: []
+title: sickness
+---
+
+so i think i’m getting the flu.

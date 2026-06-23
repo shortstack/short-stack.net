@@ -1,0 +1,11 @@
+---
+date: '2005-03-22T04:16:52+00:00'
+favorite: false
+feature_image: ''
+format: markdown
+slug: barf
+tags: []
+title: Barf
+---
+
+today sucked. simple as that. i really need to go to bed.

@@ -1,0 +1,62 @@
+---
+date: '2011-05-01T16:45:49+00:00'
+favorite: false
+feature_image: ''
+format: markdown
+slug: mentally-exhausted
+tags:
+- downtown
+- sleep
+- stress
+- ufc129
+title: Mentally Exhausted
+---
+
+the last 2 weeks feel like they have been just… non stop.
+
+red hat training was 9-5 every day. then at night i would go back to the apartment, and either study or work on websites until i finally passed out at midnight or later.
+
+last weekend, immediately after training and exams, brett and i were all over the place visiting family. driving here and there the whole 3 days. parents, grandparents, 4 different cities, hours apart. lots of fun, but exhausting.
+
+this past week? ugghhh. my job is generally not stressful. but i think the week before caused me to start out with a less than acceptable energy level. i was drained.
+
+i took half days twice. once because i thought my truck was going to get hailed on and we were going to get blown away in a tornado (false alarm). the second day was because i felt like someone was repeatedly stabbing me in the ovaries with a broken off broom handle. i have never had random pains like that–bad enough to put me in tears. why, oh why, do women have these issues?!
+
+plus, every night the last 2 weeks has been spent writing code and working on websites. every. single. night. it has been… ridiculous, actually. i haven’t given myself the time of day. i have trouble stopping a project in the middle and taking a break. i work until i get it finished, or it drives me nuts. so that’s what i did. until 11 or later usually. and when i took half days off work, i didn’t just sit at home. instead, i worked on this crap for even longer.
+
+if i took a break at all, it was to shower. or clean. or cook. or take loki out.
+
+freelancing is fun because it’s extra income and it keeps me busy, but i am not good at scheduling or keeping hours. this is 100% my fault, i realize. but that’s just how i am. this usually ends up being a bad thing.
+
+i finally broke down friday afternoon driving home from the grocery store. partially because of the tear-inducing cramps, but mostly because of stress. i haven’t cried like that in months. it had to come out, and i drove home in tears. i felt better. watered the flowers, unloaded groceries, and cracked open a cold beer.
+
+brett got home, i unloaded my stress, he hugged me and told me that i wasn’t allowed to work on websites this weekend. he could visibly see it just making me miserable (and no fun). and then i started receiving emails from clients friday afternoon, and i did it anyway. despite the little voice in my head saying WAIT UNTIL MONDAY WOMAN YOU NEED A BREAK.
+
+finally… FINALLY we got to sleep in on saturday morning. we went downtown, had lunch at the noisy oyster, had a couple drinks, walked around market street, stopped at ben&jerry’s, and bought some random crap for the apartment. it was sunny and beautiful and 80 degrees… awesome. we need to get out of the house more.
+
+#gallery-11 {
+margin: auto;
+}
+#gallery-11 .gallery-item {
+float: left;
+margin-top: 10px;
+text-align: center;
+width: 33%;
+}
+#gallery-11 img {
+border: 2px solid #cfcfcf;
+}
+#gallery-11 .gallery-caption {
+margin-left: 0;
+}
+/\* see gallery\_shortcode() in wp-includes/media.php \*/
+
+[![](/content/images/2011/05/IMAG0560-150x150.jpg)](/content/images/2011/05/IMAG0560.jpg)
+
+[![](/content/images/2011/05/IMAG0561-150x150.jpg)](/content/images/2011/05/IMAG0561.jpg)
+
+[![](/content/images/2011/05/288111978-150x150.jpg)](/content/images/2011/05/288111978.jpg)
+
+came home and cleaned the apartment. i baked cupcakes and buffalo wings. friends came over to watch UFC. i was so tired by that point that i started falling asleep during the GSP fight (so… sad… but in my defense, it wasn’t a very exciting fight).
+
+everyone left. we cleaned up a bit. i passed out COLD. we slept until 1 this afternoon. apparently we were both drained. i made us sausage egg and cheese biscuits for breakfast/lunch. and what have i been doing ever since? working on my effing angry birds apps. i think this borderlines on self-abuse.

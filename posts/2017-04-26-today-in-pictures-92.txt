@@ -1,0 +1,21 @@
+---
+date: '2017-04-26T20:42:53+00:00'
+favorite: false
+feature_image: ''
+format: markdown
+slug: today-in-pictures-92
+tags: []
+title: Today In Pictures
+---
+
+![](/content/images/2017/04/20170426_064502-1-700x525.jpg)
+
+![](/content/images/2017/04/20170426_071531-700x525.jpg)
+
+![](/content/images/2017/04/20170426_075549-700x525.jpg)
+
+![](/content/images/2017/04/20170426_075552-700x525.jpg)
+
+![](/content/images/2017/04/20170426_150852-700x525.jpg)
+
+![](/content/images/2017/04/Screenshot_20170426-115112-700x1244.png)

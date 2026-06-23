@@ -1,0 +1,48 @@
+---
+date: '2010-11-04T12:22:18+00:00'
+favorite: false
+feature_image: ''
+format: markdown
+slug: then-and-now
+tags:
+- now and then
+- Pictures
+title: Then and Now
+---
+
+![then](/content/images/2010/11/halloween.png "then")
+\*then…\*…
+
+…
+
+*and now…*
+
+![now](/content/images/2010/11/now.jpg "now")  
+![now](/content/images/2010/11/now2.jpg "now")
+
+**let’s try that again.**
+
+…
+
+…
+
+![then](/content/images/2010/11/then.jpg "then")  
+*then…*
+
+…
+
+…
+
+*and now…*
+
+![now](/content/images/2010/11/now3.jpg "now")  
+![now](/content/images/2010/11/now4.jpg "now")  
+*she is squatting in this picture. i made her.*
+
+…
+
+…
+
+so… not only have we not changed in \*height\* in the last 14 years, we really haven’t changed at all.
+
+i’ll leave it up to the universe to decide if that’s good or not.

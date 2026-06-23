@@ -1,0 +1,38 @@
+---
+date: '2012-01-20T18:09:31+00:00'
+favorite: false
+feature_image: ''
+format: markdown
+slug: busiest-3-months-of-my-life
+tags:
+- chemo
+- disney world
+- hackathon
+- honeymoon
+- loki
+- time
+- ultrasound
+title: Busiest 3 Months of my Life
+---
+
+first, loki got her tumor back in november. that was bad. it’s still not over, but she only has 2 more chemo treatments to go, and she’s doing awesome. so that’s been our fun thursday activity for some time now.
+
+thanksgiving and christmas were hectic, as always, but this christmas was especially interesting, because the week before christmas brett and i found out we were pregnant.
+
+and as you probably know, the wedding was going to be in september. but because i didn’t want to have the wedding near the end of or right after the pregnancy, we bumped the wedding up to… 8 days from today. since i’m only 8 and a half weeks pregnant, i won’t be showing my wedding gown. YAY.
+
+and now that the wedding is in january, that left me with little time to prepare for all of this. i magically organized the whole wedding in less than 2 weeks, which i’m glad i did, but now i keep trying to think of things i might have missed. which i’m sure i have.
+
+i guess in the end, as long as the food shows up, people get their booze and cake, and my dress fits, we’re good to go.
+
+then there’s the honeymoon. since neither of us were expecting any of this, we were extremely lucky to be able to take off work for everything. that is a miracle in itself. we’ll be at disney world the entire week after the wedding, and i could not be happier about this. there is NO way anyone can go to disney world and NOT have fun. i have been hard at work making reservations… psyched.
+
+i told myself i wouldn’t be doing any website work from now until we get back from the honeymoon, and i’m so glad i did that. i think i would’ve lost my mind had i tried, because my company decided to have another mobile app hackathon this month. specifically this week. so in addition to work, i’ve been waist deep in java for the last 5 days, and i can’t seem to get away from intellij even if it’s just to eat my lunch.
+
+so not only are we a week away from the wedding, but we also had our first ultrasound yesterday. i left for the doctor appointment irritated at a nullpointerexception i couldn’t fix in time. let’s just say… i forgot about it. quickly. i can now say with 100% confidence that there is a tiny human in there and its heartbeat lit up the monitor like a little firefly. i guess i forgot about the part where this is actually a *really emotional experience* and my eyes started welling up instantly. i was able to hold it back, but my whole body was shaking and my heartbeat felt like it tripled.
+
+it’s wild how quickly things can change, and i know people say that all the time. but i guess this is just my first time experiencing just how drastic those changes can be.
+
+2 months ago, i was picturing getting drunk with brett at our wedding and partying our asses off at pleasure island. now all i can think about is how i need to do everything i can not to screw this baby up. and what happens after that? and now we need a nursery. and we have to have a baby shower. and at some point i have to become okay with diapers and the stuff that goes in them. and i’ll probably have to trade my truck in at some point before i’m due. i still have a red hat security exam in june. depending on how all this works out, that may or may not have to be cancelled.
+
+there is just so much to do now that i never would have thought about. all i know is that i’m happy and terrified at the same time, and we’ll see where this all takes us.

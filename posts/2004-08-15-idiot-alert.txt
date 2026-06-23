@@ -1,0 +1,11 @@
+---
+date: '2004-08-15T05:39:47+00:00'
+favorite: false
+feature_image: ''
+format: markdown
+slug: idiot-alert
+tags: []
+title: idiot alert
+---
+
+another person with too much time on their hands under the name candycane on [this](http://of.clanconnections.us/forum/) forum… yep. not me.

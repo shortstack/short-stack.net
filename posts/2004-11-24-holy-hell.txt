@@ -1,0 +1,11 @@
+---
+date: '2004-11-24T01:21:36+00:00'
+favorite: false
+feature_image: ''
+format: markdown
+slug: holy-hell
+tags: []
+title: holy hell
+---
+
+someone slug me right in the face and knock me out into next week. i’ll give you a whole dollar. :satisfied:

@@ -1,0 +1,47 @@
+---
+date: '2017-08-07T20:47:41+00:00'
+favorite: false
+feature_image: ''
+format: markdown
+slug: today-in-pictures-195
+tags: []
+title: Today In Pictures
+---
+
+![](/content/images/2017/08/20170807_042833-700x1244.jpg)
+
+![](/content/images/2017/08/20170807_042907-700x1244.jpg)
+
+![](/content/images/2017/08/20170807_051240-700x1244.jpg)
+
+![](/content/images/2017/08/20170807_053022-700x394.jpg)
+
+![](/content/images/2017/08/20170807_081016-700x1244.jpg)
+
+![](/content/images/2017/08/20170807_103330-700x394.jpg)
+
+![](/content/images/2017/08/20170807_112808-700x1244.jpg)
+
+![](/content/images/2017/08/20170807_112812-700x1244.jpg)
+
+![](/content/images/2017/08/20170807_132047-700x394.jpg)
+
+![](/content/images/2017/08/20170807_134533-700x394.jpg)
+
+![](/content/images/2017/08/20170807_135253-700x394.jpg)
+
+![](/content/images/2017/08/20170807_164202-700x394.jpg)
+
+![](/content/images/2017/08/20170807_192603-700x394.jpg)
+
+![](/content/images/2017/08/20170807_192606-700x394.jpg)
+
+![](/content/images/2017/08/Screenshot_20170807-122953-700x1439.png)
+
+![](/content/images/2017/08/Screenshot_20170807-123003-700x1439.png)
+
+![](/content/images/2017/08/Screenshot_20170807-123011-700x1439.png)
+
+![](/content/images/2017/08/Screenshot_20170807-125245-700x1439.png)
+
+![](/content/images/2017/08/Screenshot_20170807-125336-700x1439.png)

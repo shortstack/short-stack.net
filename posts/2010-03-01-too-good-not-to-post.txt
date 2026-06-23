@@ -1,0 +1,13 @@
+---
+date: '2010-03-01T10:40:10+00:00'
+favorite: false
+feature_image: ''
+format: markdown
+slug: too-good-not-to-post
+tags: []
+title: Too Good Not To Post
+---
+
+[![XKCD](http://imgs.xkcd.com/comics/sex_dice.png "XKCD")](http://xkcd.com/708/)
+
+just in case you’re not an avid [xkcd](http://xkcd.com)-er, i’m sharing the wealth.

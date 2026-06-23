@@ -1,0 +1,11 @@
+---
+date: '2001-10-28T12:50:00+00:00'
+favorite: false
+feature_image: ''
+format: markdown
+slug: 10-28-01
+tags: []
+title: 10/28/01
+---
+
+yeah i'm sooo cool. i have my own store. lol... i don't care if i don't sell anything or not. i just think it looks cool.

@@ -1,0 +1,48 @@
+---
+date: '2010-06-04T14:56:36+00:00'
+favorite: false
+feature_image: ''
+format: markdown
+slug: sometimes-i-wonder
+tags:
+- ALUG
+- forums
+- linux
+title: Sometimes I Wonder...
+---
+
+![partyapp](/content/images/2010/06/partyapp.jpg "partyapp") what would’ve happened if i had never joined [partyapp.com](http://partyapp.com), waaay back when, in 2004? an offshoot of campusblender.com and partyincollege.com, partyapp.com consumed far too many hours of my life, but it also SERIOUSLY changed it for the better.
+
+i just think it’s crazy how something so seemingly small as a ridiculously wild, twisted, and quirky web forum can do so much for so many people.
+
+a bunch of my friends who already went to ASU were members, and they talked about it as if it was THE message board to be on. so, as soon as i got my acceptance letter from appalachian in the summer of 2004, i joined partyapp. you actually had to have a university .edu e-mail address to register. we were OH so legit. :wink:
+
+anyway, i signed up. and like… within days, i got messages from 2 guys on there. 2 guys who are still close friends of mine, 6 years later. they would turn out to be my coworkers for the next few years at ASU technical support–stephen and rob.
+
+if not for partyapp, i never would have met them.
+
+and i never would have…
+
+* gone to tech. support and asked for a job (the guys told their boss (HI JAMES! :cute: ) to hire me)
+* gone to see some of the MOST awesome 80s metal concerts (james, you changed my life!)
+* majored in computer information systems (i was going to major in CS but tech. support convinced me otherwise!)
+* been force fed Linux my freshman year of college (i enjoyed it, really, but rob is… strong-willed, lol)
+* joined the ASU Gaming Club (where i met some of my favorite people ever!)
+* joined the Appalachian Linux Users Group (ALUG) and been consumed by even more geekery
+* joined AITP (which *totally* changed my life, will explain momentarily)
+
+if i hadn’t joined the gaming club, i wouldn’t have met more of the ALUG-ers.
+
+if i hadn’t met the other ALUG-ers, i wouldn’t have had the balls to attend the ALUG meetings. period. i was terrified. don’t ask me why.
+
+if i hadn’t gotten involved in ALUG, i wouldn’t have met MORE of my favorite people in the world. one of which happens to be this weird guy named chris. who moved to texas with his also-weird wife. who i also love.
+
+if i hadn’t met chris, i never would have gotten into information security because a) the words information and security had never crossed my mind at the time, and b) i had no idea that ASU even had anything to *do* with information security.
+
+if rob hadn’t convinced me to join AITP (sidenote: when i was a freshman/sophomore, i had promised myself i’d never *ever* wear a suit, AITP requires the wearing of suits from time to time (and real jobs do too, go figure, right?), i was not having any of it), i never would have met even MORE amazing people (hello, fellow CIS-ers, i miss you, my extended family).
+
+i wouldn’t have known to go to the job fairs. i wouldn’t have interviewed with like… 7 companies. i wouldn’t have gotten my job at honeywell (or even KNOWN about honeywell!). so i definitely wouldn’t be working where i am now.
+
+even more importantly, i wouldn’t have had the opportunity to become the president of one of the best clubs in appalachian state history, where i would meet the love of my life, my best friend, my soul mate, my roommate, my other half, my JOOSE! partner, who just so happens to ALSO hate sweet potatoes.
+
+thank you, partyapp. thank you, rob and stephen. thank you, james. thank you, chris. thank you to every single person who guided me in the right direction over the last 6 years. i could *not* imagine being anywhere else right now. :cry:

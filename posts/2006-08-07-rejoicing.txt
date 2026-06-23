@@ -1,0 +1,11 @@
+---
+date: '2006-08-07T23:28:03+00:00'
+favorite: false
+feature_image: ''
+format: markdown
+slug: rejoicing
+tags: []
+title: rejoicing
+---
+
+my server is back. :up: and my computer is now christmas colors. not exactly what i was going for but it works and i am super happy and hopefully this one will last forever!!! yeah right.

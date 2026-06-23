@@ -1,0 +1,11 @@
+---
+date: '2007-11-26T11:21:07+00:00'
+favorite: false
+feature_image: ''
+format: markdown
+slug: the-big-bang-theory
+tags: []
+title: The Big Bang Theory
+---
+
+[this](http://alpha.cbs.com/primetime/big_bang_theory/) is my new favorite show. if you [haven’t seen it](http://alpha.cbs.com/primetime/big_bang_theory/images/gallery/ep1/full/2.jpg) and enjoy seriously nerdy yet perverse humor, i highly recommend it. i will be taking over the TV this evening at 8:30… with force.

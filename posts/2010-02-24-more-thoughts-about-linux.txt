@@ -1,0 +1,34 @@
+---
+date: '2010-02-24T14:40:28+00:00'
+favorite: false
+feature_image: ''
+format: markdown
+slug: more-thoughts-about-linux
+tags: []
+title: More Thoughts. About Linux.
+---
+
+in between working on websites last night, i was reading articles on digg. cue digg haters/reddit lovers now. anyway, i was reading articles on digg, and by reading the articles i mean perusing the comments (highly entertaining). it got me thinking.
+
+i am not even going to attempt to start up the linux vs windows vs mac conversation because i think that exists elsewhere on the internet (and on digg) about 234298053 times. everyone who knows me knows i’m a huge linux fan. i’d love to own a mac. i use windows in a VM for web development and work crap, except for *at* work, because nearly everything work-related ends up requiring windows in some form or fashion–the VM just doesn’t cut it anymore. there are a huge number of reasons people prefer the different operating systems they use, and it will always be that way. i just happen to prefer linux.
+
+*however*, i just feel like there is such a huge misunderstanding. a whole mess of people are all like “ohh, linux isn’t hard, just use ubuntu! or fedora!” and that is halfway true. because if you are one of the tons of people who just uses a computer to check e-mail, surf the web, download music, etc, then sure! it’s a piece of cake, and all it takes is getting used to a different GUI, and the ability to break free from all that is not open source. there are plenty of valid open source substitutes for *nearly* every kind of software you use–you just have to get used to them.
+
+*but if that’s all you use linux for, you aren’t really learning linux.* you are essentially learning a different GUI. not that there is anything wrong with that *at all*, because i am all for turning people to the dark side and throwing fedora in anyone and everyone’s face. or any flavor of linux if that’s what it takes. it’s just… if you are scared of the word linux, that is somewhat incorrect. what you should *actually* be scared of is the command line interface. except, my entire point is you shouldn’t really be scared if you are willing to learn a thing or 2 and can wrap your mind around the absence of a GUI for 5 minutes.
+
+and if that makes you uncomfortable, DON’T SHY AWAY FROM IT. that’s bad! you will not learn! you *must break things*. you *must use the google*. which also means, make sure you actually have a CAT-5 cable handy, because installing linux without abusing the power of the internets is just not fun.
+
+during my freshman year of college, a guy i worked with at tech support invited me over to his house one night for the sole purpose of helping/watching me install [slackware](http://slackware.com). it was my first fresh linux install, so i was nervous to destroy something. i quickly learned that if you destroy something, just format it again and start over. technology is awesome that way, so long as you have a backup of all that you hold dear.
+
+he told me to use slackware for a while–USE it. ABUSE it. break the shit out of it, if necessary. i must admit, i reformatted months later and used [ubuntu](http://ubuntu.com). i dual booted with windows until i was 100% comfortable. then my friend rob introduced me to [fedora](http://fedoraproject.org/). i ditched ubuntu, and the dual boot, and have never looked back. i was smitten.
+
+[![XKCD](http://imgs.xkcd.com/comics/cautionary.png "XKCD")](http://xkcd.com/456/)
+this is rob and i. to a tee.FUN FACT: rob now works for [red hat](http://redhat.com). along with 9 or 10 of my other [appalachian LUG](http://alug.appstate.edu) friends. i’m so proud. :cry:
+
+i guess what i’m trying to say is, if you really want to learn it–get dirty. rip it apart. break it to the point where you have a blinking black screen with text flying all over the place. reformat half a dozen times if need be. ASK QUESTIONS. be intuitive. **be curious**. just don’t ask *me* questions, because i am not a patient individual. i will quickly respond with [let me google that for you](http://letmegooglethatforyou.com) and send you on your way, because that’s the way i learned, and it works.
+
+if you are REALLY feeling frisky, give [gentoo](http://gentoo.org) a go. i dare you. i will bring the popcorn. you, on the other hand, will need something much more potent. cue all the gentoo fans who use portage in their sleep. YOU ARE ALL INFINITELY SMARTER THAN I AM. move along.
+
+**[edit]** it seems as though i’ve lit a fire, yet again. gentoo itself is not scary. the install process–that can be scary. and is not for the weak at heart. or in this case, it is not for someone who has only seen ubuntu once and still sucks their thumb when approached by anything other than windows. for those of you who are seasoned veterans of the open source world, *i am not talking about you*. LET’S NOT TAKE EVERYTHING SO LITERALLY. **[/edit]**
+
+to be clear, i still break my laptop(s) on a bi-monthly basis. i will even admit that i stooped as low as asking one of said red hat friends to help me fix something a few weeks ago, but (in my defense) it was only because i had exhausted every internet resource i could find. i also told him i’d buy him a beer next time i am in raleigh, which is always a valid form of payment.

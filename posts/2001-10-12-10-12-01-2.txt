@@ -1,0 +1,11 @@
+---
+date: '2001-10-12T20:42:00+00:00'
+favorite: false
+feature_image: ''
+format: markdown
+slug: 10-12-01-2
+tags: []
+title: 10/12/01
+---
+
+woo! i put up downloads.. they are over there <<<

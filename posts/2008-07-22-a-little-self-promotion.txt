@@ -1,0 +1,11 @@
+---
+date: '2008-07-22T21:14:30+00:00'
+favorite: false
+feature_image: ''
+format: markdown
+slug: a-little-self-promotion
+tags: []
+title: A Little Self-Promotion
+---
+
+if you need a website, i need business. i’m looking for some personal projects to get started on. i’ll design the smallest projects to full websites at reasonable prices. i’m re-designing my portfolio/resume with all of my latest completed projects so that should help. [e-mail me if you need something](mailto:whit@short-stack.net). :grin:

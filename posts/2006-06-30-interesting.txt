@@ -1,0 +1,11 @@
+---
+date: '2006-06-30T20:26:12+00:00'
+favorite: false
+feature_image: ''
+format: markdown
+slug: interesting
+tags: []
+title: interesting
+---
+
+it’s strange how a “What DnD character are you?” online quiz can tell you how compatible you and your significant other are… :shock: hahaha. what’s also strange is we both got entirely too excited over taking it and argued over who was better but we got close to the exact same results. half elves FTW!!!

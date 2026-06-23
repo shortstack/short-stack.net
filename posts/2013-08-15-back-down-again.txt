@@ -1,0 +1,51 @@
+---
+date: '2013-08-15T22:13:18+00:00'
+favorite: false
+feature_image: ''
+format: markdown
+slug: back-down-again
+tags: []
+title: Back Down Again
+---
+
+i don’t know what happened to me today, but it pretty much felt like the polar opposite of my last 2 posts. i got done putting caylin to bed, and instead of going into the bedroom to change into workout clothes, i moped downstairs and plopped down on the couch. staring at the TV. brett knew something was wrong, and, like always, he tried to pull me out of my slump. i told him it was probably just hormones. he always hugs me and tries to make me feel better (another reason why he is awesome), but i always sit there staring into space, unsure of what to say, or how to express whatever is going on in my head.
+
+i honestly believe sitting down like this and writing it all out is the only way i’m capable of venting anymore. when i try to talk about it, i choke. nothing comes out. and if it does, it doesn’t come out the way i want it to. i just feel worse.
+
+so this is me venting.
+
+i think there are multiple factors for me feeling craptastic all of a sudden. i’m using the (very scientific) term “craptastic” loosely, as this is more a mood thing and not an actual depression thing. caylin and brett make it pretty much impossible to be depressed.
+
+anyway, list:
+
+* i didn’t work out for 2 days, and now that my body/mind is used to the schedule i’ve been keeping, it throws me off every time i miss too much. this one is a no-brainer. it happens.
+* i went out with the mobile team for a team building/celebratory bowling day. there is this awesome place in downtown charleston called [the alley](http://thealleycharleston.com/). i had entirely too much to drink, but i have some of the best teammates i could ask for and had an absolute blast. i thought it’d be a good idea to post my camera up on the sidelines. my initial reason for this was to record the guys next to us who kept face-planting (seriously, it was terrible) every time they went up to bowl. i ended up recording 50 minutes (oh my god, why) of our whole team’s bowling shenanigans. i filled up my SD card. on the way to get my car this morning (i had to get a ride home last night, and a ride back to my car this AM), i made the mistake of watching the first couple minutes of said video. i wanted to puke. i rarely see myself on video, because i’m almost always the one *taking* the video. so when i saw what i saw, my heart sank. i was feeling so good about my progress since working out, physically, and what i saw in the video did not match up with what i’d been seeing in the mirror. i just felt… so let down. i don’t know. it was just disappointing. i hate being a girl sometimes.
+* see last bullet: i had to get a ride home last night. i don’t like relying on people because of my own stupidity. i didn’t plan on getting tanked at noon on a wednesday–i don’t think anyone does. but it happened. i called brett and told him i’d be late. i came home drunk, to caylin. complete with a taco bell dinner. i can count the number of times i’ve been drunk around caylin on one hand. every time it happens, i feel like a piece of shit parent. every time it happens, i feel like i let her down.
+
+despite my stupor, i snap into mommy mode when i see that little face. brett went to work out, i fed her the rest of her dinner, played for a while, and put her to bed. and then passed out at 9:30pm. hardly even hung out with brett. i went to bed feeling like i let both of them down. not the way i wanted the night to end after having such a fun afternoon.
+
+* i don’t have a personal project right now: i don’t have any website projects at the moment. i’m in between jobs, i suppose. there are 2 tentative clients waiting right now, but nothing definite. websites are what i like to work on in the evenings to zone out and just not think. about anything. i wind down, relax, it’s great.
+
+plus, defcon is over. so my hacker tracker, while it was an even bigger success than i had imagined or hoped for, is done for now. until next year. no more late nights hurriedly trying to get it ready for launch. no more 5AM coding binges lately. call me crazy, but i crave that feeling.
+
+crowdflik for android launched (the mobile project i was on). i can say the name now that it’s out there. while i’m absolutely proud of my team for what we accomplished, it isn’t as polished as i hoped it would be. there are a few reasons for that:
+
+1. we had less than 2 months to put out a complete replication of the already existing iphone version
+2. we had limited resources… to put it lightly. it was me and one other teammate in the beginning. dude was like a java genius. he left the company a few weeks into the project, so another teammate joined. he had no prior android experience, but he is an excellent, super strong programmer (thank god). but, it was still just 2 of us. churning out code for a deadline that was going to be tough to hit, regardless of our skills.
+3. i’ve only done android for a couple years now, on and off. and i’d been off for about a year when i joined this project. until now, i’d never worked with the camera, GPS, facebook integration, RESTful API’s… and that is basically this entire application in a nutshell. it was one of the biggest challenges i’ve ever taken on, so i’m proud of that. i almost didn’t, and i’m so glad i went for it. to say i learned a lot is an understatement.
+
+anyway, it’s version 1.0. it’s buggy. that’s what happens. i fixed most of the bugs that have been submitted so far, and will push out an update soon. i think the part that hit me the hardest was some of the feedback from other teammates. there were a handful that were less than supportive of our efforts. i think that’s partially because not everyone understands what goes into development. also because i don’t think everyone understands the time crunch we were under, and the limitations we had. regardless, i was pretty let down by this reaction. it put a lump in my throat for about half of our launch day. i wanted to go home and pull the covers over my head.
+
+* i started my own LLC day before yesterday. this should be a big deal, i think. i *should* be excited. the reason i did it is pretty simple–i wanted to be legit. i didn’t want to worry about tax crap and i wanted to do things “the right way”, now that i have caylin. i used legalzoom, and i know that’s probably not the cheapest route, but it was an easy one. i am not good with paperwork. i’m not business-minded in that way. taxes and finances blow my mind, and i’d rather pay someone to do all that for me, the right way, than risk messing it up myself. so, it was a lot out of pocket. and i probably chose the exact *wrong* time to do this since i’m still in debt from us furnishing this house. but i was so tired of stressing about it. i don’t like having things hanging over my head. i can’t stand procrastinating. i don’t like having things on my to-do list (i live by my to-do list). it needed to get crossed out.
+
+the end result–excited about new beginnings, pissed off that i spent so much money. first world problems, i know. but this is me venting, remember?
+
+so i sat on the couch for a couple minutes. brett was still trying to cheer me up. “go work out, you’ll feel better”. in my mind, i know he’s right. i’m telling myself the same thing, internally. but if you’ve ever been in that position, you know how hard it is to snap out of it and get into exercise mode. when you feel like garbage, you want to sweatpants it all night and stare at bad television.
+
+it took a few minutes of moping and hating myself, but…
+
+DUDES. i got up. i went and [did my workout](https://gist.github.com/shortstack/6212233). when i was done, my nike training app said i unlocked a badge. it sounds retarded, but when that happens, you kind of hi-5 yourself on the inside. it was a much-needed pick-me-up.
+
+this is more personal growth, in the making. baby steps, people. baby steps.
+
+next step–mud run. me, brett, and a few teammates are going to sign up for the [mega mud run](http://www.megamudrunchallenge.com/), and i am terrified. i am semi-excited because it reminds me of the “old school” what would you do, family double dare, global guts, all those crazy obstacle course, nickelodeon TV shows. except not nearly as fun and much more painful. i really want to make this happen.

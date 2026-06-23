@@ -1,0 +1,11 @@
+---
+date: '2008-08-04T16:06:42+00:00'
+favorite: false
+feature_image: ''
+format: markdown
+slug: super-duper-photographer
+tags: []
+title: Super Duper Photographer
+---
+
+i asked jessica to take some pictures of me at work the other day and [this is what she came up with](http://flickr.com/photos/shortstackdotnet/2723596791/sizes/o/)! i friggin’ love it. i just have to figure out what to do with it. her work can be found [here](http://www.jessicamariephotography.com/) and she will be getting a new website in the near future. show her some love. :)

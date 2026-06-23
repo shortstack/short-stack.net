@@ -1,0 +1,12 @@
+---
+date: '2008-03-23T20:06:12+00:00'
+favorite: false
+feature_image: ''
+format: markdown
+slug: i
+tags: []
+title: I...
+---
+
+hate animals…  
+and allergies to animals…

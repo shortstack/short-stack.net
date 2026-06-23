@@ -1,0 +1,20 @@
+---
+date: '2009-05-04T06:34:43+00:00'
+favorite: false
+feature_image: ''
+format: markdown
+slug: jorp
+tags: []
+title: Jorp
+---
+
+i did it! i took my project and actually turned it into “something”. it’s 6:30 in the morning and i haven’t gone to bed yet. the birds are chirping. BUT. i have a “final” product, which is probably nothing close to final.
+
+i present to you…
+
+[![Jorp](http://jorp.short-stack.net/images/jorp.png)
+http://jorp.sourceforge.net](http://jorp.sourceforge.net)it’s very green, and very simple. i implemented form validation to the best of my abilities for those relentless few who like to drive me insane. i’m no expert at it, though, so i’m sure it isn’t foolproof.
+
+if you like it, sweet! i’m actually using it for my own purposes. i realized yesterday that i have too many clients with too many little projects building up between them and instead of sifting through gmail trying to figure out a makeshift “to do” list, i created my own jorp. :blush2: i think i like the word more than anything.
+
+also… didn’t know this, but anime comes on at weird hours of the morning. not a huge anime fan. i’ve seen more golden girls and and anime this morning than i’ll ever need or want to see.

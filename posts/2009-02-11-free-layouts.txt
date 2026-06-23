@@ -1,0 +1,24 @@
+---
+date: '2009-02-11T17:21:38+00:00'
+favorite: false
+feature_image: ''
+format: markdown
+slug: free-layouts
+tags: []
+title: Free Layouts
+---
+
+the CIS curriculum requires that we take an “internet technologies” course which is basically a web design class. it teaches, HTML, XHTML, CSS, ASP.NET, PHP, MySQL, and some other things that i can’t remember. i finished all my assignments and got a new one this morning.
+
+the assignment was to make 2 websites with entirely different layouts. same HTML, different CSS. it’s weird because i can NEVER think of ideas for this stupid website, but i came up with 2 right off the bat for the assignment. i don’t get it. and i actually like them.
+
+anyway, here they are. if you like them, take them. :blush:
+
+[Layout 1](http://short-stack.net/lab3layout1/)  
+[Layout 2](http://short-stack.net/lab3layout2/)
+
+the only thing is the first one doesn’t validate 100%. it gives me 4 errors. evidently the opacity settings aren’t compliant? i found [this post](http://onwebdevelopment.blogspot.com/2008/01/using-invalid-css-on-css-validate-xhtml.html) about it but that’s just a pain in the butt. i’ll deal with 4 warnings for now.
+
+despite the complete validation on the 2nd one and 99.9% validation on the 1st one, neither work correctly in IE. it’s a work in progress.
+
+[![I Hate IE](http://www.ifibuildit.com/wp-content/uploads/2008/09/pm20060621.png)](http://archive-sfx.spreadfirefox.com/node/23902)

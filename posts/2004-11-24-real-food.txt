@@ -1,0 +1,11 @@
+---
+date: '2004-11-24T20:02:49+00:00'
+favorite: false
+feature_image: ''
+format: markdown
+slug: real-food
+tags: []
+title: Real Food :)
+---
+
+i just ate my first real, non-liquid form food since sunday! YES!

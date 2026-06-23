@@ -1,0 +1,27 @@
+---
+date: '2010-05-25T14:32:38+00:00'
+favorite: false
+feature_image: ''
+format: markdown
+slug: moving-right-along
+tags:
+- government
+- linux
+- new job
+- training
+title: Moving Right Along
+---
+
+today has been productive so far. i will say that much.
+
+i got more signatures. see, they give us this check in sheet. it has like.. 13 things on it. each “thing” is a department and/or person you have to find, give them one of your 823943 forms filled out, and convince them to initial your check in sheet. i started working on it this morning since yesterday i was only able to get *2 people* to initial it. just 2. lame. this is the most UN fun scavenger hunt i have ever done in my life. there isn’t even any candy at the end. :mad:
+
+this morning started out with a golf cart ride down to the main building again (thank you, zan, for not throwing me out of the golf cart). this building has *almost* all of the people i need to sign off on my sheet. it seemed like the right start… until i realized that 3 of the people i needed weren’t even there yet. this morning was only mildly successful BUT i got a better grasp on how to actually navigate said building without feeling like a rat in a maze. almost. i got 2-3 signatures and, drumroll, MORE FORMS! i filled them out on the golf cart ride back, went back into my building, more paperwork. forms. etc. i brought my lunch to work today but a bacon cheeseburger from five guys (the burger joint, for all you weirdos) sounded far more enticing.
+
+i got back from lunch and had to go do this mandatory training in another building. i drove over only to find out it was the *exact* same training i completed like, 3 weeks ago? as a contractor. yeah. i even asked the woman if it was the same thing, and she assured me it was entirely different. NO. so i clicked through it for 10 minutes. the lady was like, that was fast, and i told her i was not about to sit through and actually read all of that again. not that i actually read it the first time, though. i know the consequences of leaving my computer unlocked, thank you very much. the last time that happened, my own boss set an image of a strange hairy man wearing a banana hammock as my desktop wallpaper. in my opinion, that is FAR more effective than awareness training. whatever, to each his own.
+
+i got that done. i ran back to the crazy maze building to see if the missing persons from this morning were there yet. lucky for me, they were there. all but one person. the most important person on the check list–the person i’m actually supposed to GIVE it to so i can say i completed it on time. evidently, she’s gone for the whole week. awesome. i can’t even remember to study for my linux+ exam (CRAP, it’s tomorrow), so hopefully i will at least remember to go back on monday and try to find this woman.
+
+despite all my complaining, i am in a better position than a lot of new hires, apparently. some people don’t get laptops for several days or weeks, and some people’s clearances take weeks to go through. i got lucky in that i actually get my new laptop tomorrow AND my clearance went through on the first day (though it did involve a lot of extra running around). it is not fun having people escort you to and from the bathroom, so that’s quite a relief. it could always be worse.
+
+in the meantime… i guess i’ll study for linux+, although i think the CISSP maxed out my study-time-attention-span for the next, uh, 5 years. o\_0 WISH ME LUCK!

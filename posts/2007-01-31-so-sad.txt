@@ -1,0 +1,11 @@
+---
+date: '2007-01-31T07:05:33+00:00'
+favorite: false
+feature_image: ''
+format: markdown
+slug: so-sad
+tags: []
+title: so sad
+---
+
+waffle murdered roly poly… :frown: back to the pet store, i suppose. every time i’ve gone, it’s been the same guy at the register. this kid probably thinks there’s something wrong with me.

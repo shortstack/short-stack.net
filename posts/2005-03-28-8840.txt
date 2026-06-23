@@ -1,0 +1,11 @@
+---
+date: '2005-03-28T02:01:41+00:00'
+favorite: false
+feature_image: ''
+format: markdown
+slug: '8840'
+tags: []
+title: $#*&(%)!
+---
+
+i’m really sick of these kinds of days.

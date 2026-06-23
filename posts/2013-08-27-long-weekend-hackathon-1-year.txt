@@ -1,0 +1,50 @@
+---
+date: '2013-08-27T21:26:51+00:00'
+favorite: false
+feature_image: ''
+format: markdown
+slug: long-weekend-hackathon-1-year
+tags:
+- android
+- birthday
+- boat
+- caylin
+- growing up
+- hackathon
+- outside
+- party
+- SPARC
+title: Long Weekend, Hackathon, 1 Year
+---
+
+this weekend was sparc’s 3rd annual [hackathon](http://hackathon.sparcedge.com). i had been looking forward to this weekend since the last hackathon, 5 days before caylin was born, knowing good and well that i wouldn’t be pregnant for this one.
+
+to say i was pumped was the understatement of the century. i was borderline neurotic when expressing my excitement to my teammates. :)
+
+the festivities got started a little early this time around. prod ops team worked from the marina on friday, since the rest of the company was asked to work from home that day to allow everyone to set up for the hackathon. between the VPN being cripplingly slow, and the absolutely gorgeous weather, it was hard to focus. lunch time rolled around, and the guys asked if i’d make a run to publix to grab us stuff to make lunch. there was a grill at the marina and it could not have been a more perfect day for it, so i picked up burgers and all the necessities. justin grilled the burgers for us, while the rest of us sat at the outside bar with our laptops. soaking in the rays.
+
+several people from work have their boats there, so when the question of, “do you guys want to go out on the boat?” was posed, we piled on without hesitation.
+
+it is amazing how much the sun helps your mood. spray from the water, warm breeze, sunshine, cold beer, awesome teammates. i needed that. especially before a 16 hour coding binge.
+
+5:00 rolled around, so i headed over to sparc to shower and get all my stuff set up. it was so good to see everyone having such a great time. absolute nerd party, good friends, everyone in a good mood, loved it. i didn’t drink at all, because i had a hangover by about 9pm. 2 ibuprofen’s later and i was feeling much better, and i probably should’ve eaten more. i get super into the zone, and just forget everything going on around me. including food. i think i only had 1 coffee all night, and then another the next afternoon before judging started.
+
+somewhere between 2 and 8am, time seemed to all blur together. the details are fuzzy, but i soldiered through the night with everyone else. i was surprised at how many people actually stayed awake all night, considering how many brought sleeping bags/air mattresses just in case.
+
+we finished our app around 1130am, ish? i think? and then i finally took a break to eat lunch and change clothes/wash my face/wake up a little bit. one of my absolute favorite restaurants is this place called moose’s bbq, and i had no idea they had a food truck. the food truck (along with 3 or 4 others) hung out at sparc saturday afternoon so everyone could eat. hackathon contestants got vouchers for a free lunch–AMAZING. it tasted like heaven after such a long night.
+
+judging started a couple hours later, and instead of a huge panel of judges like last year, this year there were categories. each category (ios, android, framework/windows) had 2 judges. one of the judges for android was from openshift/red hat, and knew some friends of mine who work at red hat. crazy small world. anyway, judging went smoothly, and then we waited around the rest of the afternoon for the other teams to finish up. there were 30+ teams so it took a while.
+
+wandered around in a sleepless haze, made a run to the liquor store for brett, mingled with coworkers, watched my teammates play fifa. soccer bores me to death (i’m sorry, soccer fans, i just can’t get into it), but i was so dead tired and loopy and out of it that it didn’t even matter at that point. it was actually enjoyable.
+
+the whole weekend felt like one of our high school/college LAN parties all over again, complete with tons of red bull, junk food, hoodies, glazed over eyes, surrounded by good buddies. if i could repeat this weekend at least once a month… hooo boy. that would be fantastic. in a perfect world, right?
+
+how lucky i am to have a workplace who does things like this just for fun. :)
+
+completely switching subjects: CAYLIN’S FIRST BIRTHDAY IS FRIDAY. SWEET JESUS.
+
+i was thinking about bringing her to work with me in the morning for a while–it’s hard to have a bad day with that little face nearby. :)
+
+we’re having people over saturday for her birthday–nothing crazy. we’re gonna get her a cake (obligatory baby cake face smash photo op), and we already bought a whole mess of toys. hang out, have a good time, have a few drinks, relax. it’ll be fun. :)
+
+i wish caylin could remember all this.

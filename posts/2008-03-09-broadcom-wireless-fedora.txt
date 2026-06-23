@@ -1,0 +1,11 @@
+---
+date: '2008-03-09T01:29:53+00:00'
+favorite: false
+feature_image: ''
+format: markdown
+slug: broadcom-wireless-fedora
+tags: []
+title: Broadcom Wireless + Fedora
+---
+
+i’ve decided they’re mortal enemies and were just never meant to be. this saddens me and i am so impatient… because i could probably fix this problem entirely if i had an ethernet connection to yum update from but alas, i am in barracks stealing internets and can not do this. i might cry. it looks so pretty and i am anxious to finally switch OS’s entirely aside from my web design needs (photoshop cs3, video editing, etc (and if you just said “USE GIMP INSTEAD” you can kiss my ass, i <3 linux but I HATE GIMP))… yeah, i just used double parenthesis. i just did that. i think i’m going to chew my own arms off.

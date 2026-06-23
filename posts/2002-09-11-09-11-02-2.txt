@@ -1,0 +1,11 @@
+---
+date: '2002-09-11T16:46:19+00:00'
+favorite: false
+feature_image: ''
+format: markdown
+slug: 09-11-02-2
+tags: []
+title: 09/11/02
+---
+
+apparently someone likes my smile. ;)

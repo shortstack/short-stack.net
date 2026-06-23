@@ -1,0 +1,39 @@
+---
+date: '2017-06-27T20:59:47+00:00'
+favorite: false
+feature_image: ''
+format: markdown
+slug: today-in-pictures-154
+tags: []
+title: Today In Pictures
+---
+
+![](/content/images/2017/06/20170627_073224-700x394.jpg)
+
+![](/content/images/2017/06/20170627_093400-700x394.jpg)
+
+![](/content/images/2017/06/20170627_094553-700x1244.jpg)
+
+![](/content/images/2017/06/20170627_122751-700x394.jpg)
+
+![](/content/images/2017/06/20170627_124939-700x394.jpg)
+
+![](/content/images/2017/06/20170627_132836-700x394.jpg)
+
+![](/content/images/2017/06/20170627_133058-700x394.jpg)
+
+![](/content/images/2017/06/20170627_142952-700x1244.jpg)
+
+![](/content/images/2017/06/20170627_153715-700x394.jpg)
+
+![](/content/images/2017/06/20170627_201112-700x394.jpg)
+
+![](/content/images/2017/06/20170627_201115-700x394.jpg)
+
+![](/content/images/2017/06/20170627_202830-700x394.jpg)
+
+![](/content/images/2017/06/20170627_214836-700x394.jpg)
+
+![](/content/images/2017/06/Screenshot_20170627-105931-700x1439.png)
+
+![](/content/images/2017/06/Screenshot_20170627-110026-700x1439.png)

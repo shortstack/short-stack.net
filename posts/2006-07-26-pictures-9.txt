@@ -1,0 +1,13 @@
+---
+date: '2006-07-26T23:31:28+00:00'
+favorite: false
+feature_image: ''
+format: markdown
+slug: pictures-9
+tags: []
+title: pictures!!!
+---
+
+pictures are up. the newest ones are being uploaded. the rest will be up in time because i had quite a few from this summer that i’ve not been able to edit. i’m getting there. server works, remote desktop works, ftp server works, and i’m a happy camper. maybe my headache will go away now.
+
+adam, i miss you. :heart:

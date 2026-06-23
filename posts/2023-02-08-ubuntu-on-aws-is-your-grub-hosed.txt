@@ -1,0 +1,60 @@
+---
+date: '2023-02-08T17:35:10+00:00'
+favorite: false
+feature_image: ''
+format: markdown
+slug: ubuntu-on-aws-is-your-grub-hosed
+tags: []
+title: Is Your Grub Hosed?
+---
+
+last night was the first time i'd ever legitimately needed to use the EC2 serial console in AWS.
+
+while i'm thrilled that it now exists (i wish it had been there 10 years ago), i don't want to run into this situation again.
+
+![Screen-Shot-2023-02-08-at-11.29.21-AM](/content/images/2023/02/Screen-Shot-2023-02-08-at-11.29.21-AM.png)
+
+![Screen-Shot-2023-02-08-at-11.29.40-AM](/content/images/2023/02/Screen-Shot-2023-02-08-at-11.29.40-AM.png)
+
+somehow, 3 instances (that are untouched outside of packages being installed) had the wrong root PARTUUID in grub, and when they were rebooted for an instance size change, they would not boot and dropped to a shell.
+
+how fun.
+
+after some digging through the config files and comparing UUIDs in the configs with what i got back from `blkid`, i realized that none of them matched, and the PARTUUID that was in grub.cfg didn't even exist on the system.
+
+it would be really nice to know what actually caused those UUIDs to be completely wrong, though. i've been doing this for ages now and i've literally never had this happen.
+
+so, in the event that anyone else runs into this, this was the solution to get everything back up and running. these are ubuntu 20.04. YMMV in other scenarios.
+
+### step 1
+
+make your mount directory (name doesn't matter), and mount your device (yours might be different), and all the things. chroot to the mount point you chose.
+
+```
+mkdir /mnt
+mount /dev/nvme0n1p1 /mnt
+mount --rbind /dev  /mnt/dev
+mount --rbind /proc /mnt/proc
+mount --rbind /sys  /mnt/sys
+chroot /mnt
+```
+
+### step 2
+
+update your grub config to assign the right PARTUUID in the `GRUB_FORCE_PARTUUID` variable. you can run `blkid` to get the correct PARTUUID of your root device.
+
+```
+vi /etc/default/grub.d/40-force-partuuid.cfg
+```
+
+### step 3
+
+update grub.
+
+```
+update-grub2
+```
+
+aaand it's all better.
+
+![katy-horton](/content/images/2023/02/katy-horton.gif)

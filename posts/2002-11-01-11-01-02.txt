@@ -1,0 +1,12 @@
+---
+date: '2002-11-01T19:48:00+00:00'
+favorite: false
+feature_image: ''
+format: markdown
+slug: 11-01-02
+tags: []
+title: 11/01/02
+---
+
+i found this website rather humorous...  
+<http://www.evilqueen.150m.com/>

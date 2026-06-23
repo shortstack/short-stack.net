@@ -1,0 +1,41 @@
+---
+date: '2014-09-20T21:28:30+00:00'
+favorite: false
+feature_image: ''
+format: markdown
+slug: all-over-the-place
+tags:
+- certifications
+- florida
+- jacksonville
+- jaguars
+- red hat
+- SPARC
+- stre.am
+- training
+title: All Over The Place
+---
+
+this week has been a complete 180 compared to last week. the plague that is HFMD ended. lucky for me, it ended the night before my red hat training began. no more blisters, no more ulcers, no more fever, no more crippling foot/hand pain, no more messed up face, no more saltwater baths every night. of all the sicknesses i’ve ever had, i have to say, that was the worst.
+
+training was… awesome. as always. i know i’m a red hat junkie at heart, and i am of course biased, but this class, like the others, was fantastic. every instructor i’ve had has gone above and beyond to make sure we’re prepared for our exams. always friendly, helpful, open to any and all questions, and personable. this was no different.
+
+there were only 5 of us in the class all week–pretty similar to last time. i was the youngest again, and the only girl. but it was a fun bunch of guys, all incredibly smart and interesting. none lived in charleston, and this was the first class i’d taken *in* charleston, so that was different.
+
+the training was at LCE. i work with several people who work there, but had never actually been to their office. it’s in a really nice (in my opinion, at least) area near west ashley, right by the river. there’s a marina right there and you can see the water from the building. pretty short driving distance from a LOT of good restaurants. the only downside to this place is how extremely quiet and empty it is. i’m so used to SPARC, and let’s just say… SPARC is nowhere near quiet.
+
+this was the first class i’ve taken where they brought us food. actually, no. my rapid track course in raleigh brought us food, but it was the same subway/jersey mikes/whatever styled sub sandwiches every day. which was fine, it was delicious. but LCE totally takes the cake on this one. they brought us printed out menus from a different local restaurant every day. sesame, east bay deli, panera bread, kickin chicken. we were told to circle whatever we wanted on the menu, and they bought it to us. plus, there were snacks, coffee, and juice provided in the classroom at all times. we were spoiled rotten this week.
+
+the exam was the same as the rest of them as far as format goes. this is the first red hat exam i didn’t study for. i’m not bragging–it just wasn’t going to happen. i was working late every night since i couldn’t get much done during class, and when i looked at my book, it just wasn’t happening. for one, i was exhausted this week. too much going on. secondly, this exam was WAY less comprehensive than the last one i took. it was a breath of fresh air. it was narrow but deep, which is much easier (to me) as far as exams like this go. it helps that almost all of the work i’ve done over the past several years is entirely based on some virtualization platform (vmware, AWS, KVM, etc), so the skills are entirely transferrable. i really had a leg up on this one. it was a good feeling, for sure.
+
+i passed, so now i’m trying to figure out a way to get myself into the next training. i’m addicted. RHCA is my end goal. it will happen, no matter how long it takes.
+
+as for this week, tomorrow is a big day. i know i’ve mentioned [stre.am](http://stre.am) a handful of times on here. we went to jacksonville earlier this year to make our debut with the team, but now we’re official. we have a contract to stream at every game this season (meaning stre.am and all its glory will be featured on one of the jumbo video screens in the stadium), so STRE.AM ON! we’re driving down at 7 tomorrow morning for the jags/colts game, and this will be my first NFL game ever. i’m stoked. even if it means waking up at dawn to go get a minivan rental. that is A-ok with me.
+
+about 15 of us are driving down tomorrow morning, taking 2 cars. we’ll be running around the game streaming the fan experience and whatever we run into. i will be checking servers in a panic every so often, and it will be glorious.
+
+i’m incredibly proud of our team. we’ve gained a lot of people, lost a lot of people, and stre.am has changed a lot since the beginning last fall. it’s hard to believe it’s almost been a year. i’m happy to be part of such an awesome team, and am excited to see where it takes us.
+
+see you soon, jacksonville!
+
+![team stre.am!](/content/images/2014/06/10303967_469531699849086_4493469793395545685_n.jpg)

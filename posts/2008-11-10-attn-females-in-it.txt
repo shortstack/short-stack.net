@@ -1,0 +1,23 @@
+---
+date: '2008-11-10T20:55:28+00:00'
+favorite: false
+feature_image: ''
+format: markdown
+slug: attn-females-in-it
+tags: []
+title: 'ATTN: Females in I.T.'
+---
+
+[![Penny Arcade](http://hehe2.net/wp-content/uploads/Linux-Xbox-Sex.jpg)](http://hehe2.net/wp-content/uploads/Linux-Xbox-Sex.jpg) i’m still lacking the ideas and motivation to get going on my research paper to present at the [AITP national collegiate conference](http://aitp.org/ncc) in april.
+
+i know my general topic will be about females in I.T. but i can’t decide what i want to narrow it down to. should i try to…
+
+* figure out a way to influence more females to become interested in I.T.?
+* why they’re not into it in the first place?
+* should i target the lack of females in the open-source community and why that is?
+
+i have been scouring the internet for articles and white papers attempting to explain this gap. several have come to the same conclusion that women are deterred because of the stereotypical image of I.T.–junk-food-binging, unattractive men with thick taped glasses and a complete and total lack of social skills. while this is true in some cases, it is also proven wrong in many others.
+
+i know a boatload of females in the web world (several of them are linked on my blogroll) who will attest to this. i will be making a survey soon with questions pertaining to my research. i’m going to make several surveys but one of them will be directed towards women who are already involved in an I.T. field and one of them will be directed towards women who are not. i will be making more specific ones later on, but i think this will help me narrow down my topic.
+
+**if any of you lady bloggers happen to read this, please let me know if you are interested! i would love to pick your brains and it would really help me out.**

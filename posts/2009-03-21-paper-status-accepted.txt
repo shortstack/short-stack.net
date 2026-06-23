@@ -1,0 +1,13 @@
+---
+date: '2009-03-21T12:36:36+00:00'
+favorite: false
+feature_image: ''
+format: markdown
+slug: paper-status-accepted
+tags: []
+title: Paper Status = Accepted
+---
+
+my [paper on women in open source](http://osfemales.short-stack.net) made it into the top 10 for the AITP national collegiate conference! :drunk: so now i get to make a presentation in oklahoma city for sure… which means i need to start making a presentation… crap.
+
+2 weeks from now, i will be spazzing out in front of everyone in oklahoma flailing about on stage trying to explain to everyone why i am passionate about this topic and how to attract and retain more females in the field. i pray that no one has a camera handy when this all goes down. :grr:

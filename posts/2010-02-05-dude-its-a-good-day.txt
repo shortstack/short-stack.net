@@ -1,0 +1,29 @@
+---
+date: '2010-02-05T16:31:27+00:00'
+favorite: false
+feature_image: ''
+format: markdown
+slug: dude-its-a-good-day
+tags:
+- cissp
+- studying
+- super bowl
+- ufc 109
+title: Dude... It's A Good Day
+---
+
+since i sat down this morning, i’ve been listening to lectures (i acquired some very helpful training lectures in MP3 format), going over practice quizzes, and doing my best imitation of a sponge. the lectures are from a SANS CISSP course, and they are amazing. aside from the fact that it’s like… over 40 hours of lecturing. i got through almost 4 today. it’s still much better than reading, and the guy doing the training is excellent.
+
+i am NOT substituting reading with the lectures, by any means. i’ve got the [SYBEX book](http://www.amazon.com/gp/product/0470276886/ref=pd_lpo_k2_dp_sr_1?pf_rd_p=486539851&pf_rd_s=lpo-top-stripe-1&pf_rd_t=201&pf_rd_i=0782141757&pf_rd_m=ATVPDKIKX0DER&pf_rd_r=17S3PCD76DAE5DQQAVMX), [CISSP for dummies](http://www.amazon.com/CISSP-Dummies-Lawrence-Miller/dp/0470537914/ref=sr_1_fkmr1_1?ie=UTF8&qid=1265401038&sr=1-1-fkmr1), [shon harris](http://www.amazon.com/CISSP-All-One-Guide-Fifth/dp/0071602178/ref=sr_1_1?ie=UTF8&s=books&qid=1265400947&sr=1-1), [ISC2](http://www.amazon.com/Official-Guide-CISSP-Exam-Press/dp/084931707X/ref=sr_1_1?ie=UTF8&s=books&qid=1265400981&sr=1-1)‘s official guide… i have too many books. i used the SYBEX book for my CISSP/Sec+ class in college–it’s easy to read and i’ve read most of it already. shon harris’s book is the one everyone raves about, and a lot of people said the CISSP for dummies was all they used. i’m kind of stuck. and the lecturer stressed how it’s not always a good idea to use so many books because they might have different information from what ISC2 currently uses. the ISC2 book itself is NOT an easy read.
+
+i also have the pass4sure test bank of practice questions, which is over 2300 questions. plus the practice quizzes from the lectures. plus smaller study guides containing key points from each domain.
+
+i think i’m set on material. my boss came by and dumped even MORE books on me today, which i have not listed, because i’ve just given up on those. i need to pick 2 and stick with them. and the lectures. seriously–a godsend. i’m going to burn them to a CD and listen to it in my car. that man’s voice is going to haunt my dreams by the end of march.
+
+and i know this post’s title stresses how good of a day it has been. the lectures are actually kind of fun (i’m aware of how dorky that sounds), but today was also the day my TAX RETURN got deposited into my bank account. i really needed to replenish my savings after paying for the exam ($550) and the dental work ($700+), so a load has been lifted. and replaced with a nice chunk of change.
+
+something else spectacular happened today, which i am not going to write about until it is a done deal. it will be soon, however, and i could not be more excited. i do not want to jinx myself.
+
+PLUS… UFC 109 is tomorrow. and the super bowl, of course, is sunday. i’m counting on lots of celebrating, lots of sleeping in, and steak. and i’d REALLY like a whiskey sour tonight.
+
+oh, and my resume/portfolio can now be found at [www.WhitneyPowell.com](http://whitneypowell.com). i splurged a bit with my tax return and dropped 10 bucks on a domain. finally.

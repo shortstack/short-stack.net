@@ -1,0 +1,39 @@
+---
+date: '2010-11-01T13:24:12+00:00'
+favorite: false
+feature_image: ''
+format: markdown
+slug: what-happens-when
+tags:
+- cookie monster
+- halloween party
+title: What Happens When...
+---
+
+what happens when you invite Cookie Monster to your party?
+
+he ~~eats~~ DESTROYS all your cookies!
+
+![Cookie Monster](/content/images/2010/11/01.jpg "Cookie Monster")
+\*the inevitable happens.\*![Cookie Monster](/content/images/2010/11/02.jpg "Cookie Monster")
+\*quick! 5-second rule!\*
+
+![Cookie Monster](/content/images/2010/11/03.jpg "Cookie Monster")  
+*EAT THEM!*
+
+![Cookie Monster](/content/images/2010/11/04.jpg "Cookie Monster")  
+*OM NOM NOM!*
+
+![Cookie Monster](/content/images/2010/11/05.jpg "Cookie Monster")  
+*MOAR COOKIES!*
+
+![Cookie Monster](/content/images/2010/11/06.jpg "Cookie Monster")  
+*nom nom nom nom*
+
+![Cookie Monster](/content/images/2010/11/07.jpg "Cookie Monster")  
+*stay outta my cookies!*
+
+![Cookie Monster](/content/images/2010/11/08.jpg "Cookie Monster")  
+*we’ll make the teenagers eat them now. don’t tell.*
+
+sorry, mom. everyone loved your cookies. we made sure we wiped off all the dirt. :wink:
