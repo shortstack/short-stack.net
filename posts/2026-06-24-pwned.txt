@@ -14,3 +14,55 @@ title: pwned
 so. as i mentioned. the blog you're reading is a static site now, and there's a reason for that.
 
 a few weeks back my ghost install started serving a clickfix lure. one of those fake "verify you're human, paste this into your terminal" things. because that's what i needed.
+
+### what actually happened
+
+turns out i ate CVE-2026-26980, a critical (9.4) unauthenticated SQL injection in ghost's content api. no login, no creds, no brute force. an attacker just reached into the database, pulled an admin api key, and let themselves in the front door. (bonus lol: the bug was found by anthropic using claude. found by a robot, exploited by a different robot. balance.)
+
+with that key they did the thing:
+
+- spun up a rogue custom integration 
+- bulk-edited 2,666 posts + pages via `PUT /ghost/api/admin/posts`, including drafts, because it was a script, not a person
+- dropped a one-line loader into every `codeinjection_foot`
+- even swapped my active theme along the way
+
+every single malicious action shows up in the audit log as "by Zapier", because in ghost, api calls inherit the integration's identity, not the actual caller. so my audit log is just a wall of "Zapier edited your post" 8,000 times.
+
+### the IOCs
+
+```
+cve:                 CVE-2026-26980  (ghost < 6.19.1, fixed feb 2026)
+i was on:            ghost 5.70.1 😭
+payload:             <script src="https://aniyara[.]icu/api.php?t=..."></script>
+                     injected into codeinjection_foot, sitewide
+tokens:              61a4a18a54a81359e89bdf196bcf9d7c3fb8f82a
+                     edad165fe1f3304599c645cddcc20be4d65caf19
+operator:            193.23.199.111   ua: python-requests/2.34.2
+                     ~12k admin-api calls, every one a 200 (valid key, no failures)
+persistence:         rogue "Zapier" integration + admin api key
+waves:               may 7 → jun 14 2026, re-injecting on a timer
+```
+
+`aniyara[.]icu` is part of the same campaign as the published `clo4shara[.]xyz` / `web-telegram[.]ug` indicators — the injected js is a two-stage loader that pulls its payload at runtime, so the domains rotate. campaign hit 700+ sites: universities, fintech, ai, security research. so that's fun.
+
+### how i found it
+
+snapshotted the box, pulled `content/logs`, `auth.log`, nginx, syslog. ssh was clean (just me and the usual brute-force confetti). the smoking gun was the ghost request logs: thousands of authenticated admin-api writes with no corresponding login, `userId: null`, all from one python-requests client. authenticated, but nobody ever logged in = stolen key, not stolen password. the audit log's "Zapier" attribution + an integration i never created sealed it.
+
+### the fix
+
+i burned the server down. 🔥 it's gone. the blog you're on now is plain `.txt` files → static html → s3 + cloudfront. there is no database. there is no admin api. there is no integration panel. there is nothing to inject into.
+
+i open sourced the project [here](https://github.com/shortstack/ghosted) if you want to see how it works. it's a simple static site generator that takes markdown and spits out html. no database, no admin api, no integrations, no clickfix.
+
+### the lesson
+
+patch your shit. 
+
+the fix existed in february. i was running an august 2023 build in may 2026. not opsec, not a weak password, just a CMS i let rot. i'd rather own static files. i don't have time for this shit. 
+
+but the server was isolated, content was backed up, and this needed to happen anyway. 
+
+it was time for a change. 🌈
+
+<img width="220" height="165" alt="Image" src="https://github.com/user-attachments/assets/de646e69-a054-457b-8d01-fb242d4ebc13" />
