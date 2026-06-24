@@ -1,5 +1,10 @@
 # short-stack.net
 
+> 👉 **Want to build your own blog like this?** Don't clone this repo — it's my personal
+> blog (my content, my config). Use the open-source template it's built on:
+> **[👻 Ghosted](https://github.com/shortstack/ghosted)**. This repo is published mainly
+> as a real-world example.
+
 The static-site engine behind **[short-stack.net](https://short-stack.net)** — a
 self-owned blog migrated off Ghost. Posts and pages are plain `.txt` files
 (front matter + Markdown); a small Python generator renders them into a terminal-
