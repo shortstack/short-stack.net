@@ -1,0 +1,11 @@
+---
+date: '2003-01-28T08:33:00+00:00'
+favorite: false
+feature_image: ''
+format: markdown
+slug: 01-28-03
+tags: []
+title: '01/28/03'
+---
+
+well, i did have the Game Of Life finished with graphics and everything, but it doesn’t want to work with graphics outside of codewarrior. damn.

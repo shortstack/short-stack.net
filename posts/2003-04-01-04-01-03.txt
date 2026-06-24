@@ -1,0 +1,11 @@
+---
+date: '2003-04-01T07:11:00+00:00'
+favorite: false
+feature_image: ''
+format: markdown
+slug: 04-01-03
+tags: []
+title: '04/01/03'
+---
+
+i want to go HOME!!!

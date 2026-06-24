@@ -1,0 +1,11 @@
+---
+date: '2004-01-31T01:10:00+00:00'
+favorite: false
+feature_image: ''
+format: markdown
+slug: pictures-13
+tags: []
+title: 'pictures'
+---
+
+pictures are up from grainger’s going away party tonight. i’m too tired and i have no motivation to post a bunch of crap right now. i’m talking to shane, and going to sleep. goodnight.

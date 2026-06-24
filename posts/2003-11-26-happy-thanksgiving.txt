@@ -1,0 +1,11 @@
+---
+date: '2003-11-26T21:43:00+00:00'
+favorite: false
+feature_image: ''
+format: markdown
+slug: happy-thanksgiving
+tags: []
+title: 'happy thanksgiving'
+---
+
+i hope everyone has a happy thanksgiving! i’m gonna be gone all day tomorrow and probably friday and saturday and sunday too… so everyone stay safe & have a good turkey day.

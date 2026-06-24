@@ -1,0 +1,12 @@
+---
+date: '2003-01-31T08:25:00+00:00'
+favorite: false
+feature_image: ''
+format: markdown
+slug: 01-31-03-2
+tags: []
+title: '01/31/03'
+---
+
+weee… i’m having fun in here. i finished the other image program today, and so now i have both the Game Of Life 2.0.zip and Rubber Ducky.zip up. the only reason the graphics weren’t working is because i had a saved image in the Game Of Life and i didn’t have it at home, or on the site. it doesn’t create the window if that is missing. oh well. it’s fixed now. :) they’re in .zip files, so if you download them, just download it, extract the 2 files (there are 2 in each), and make sure they’re in the same folder. it won’t work otherwise.  
+i’m gonna go downstairs to the physics lab… later.

@@ -1,0 +1,11 @@
+---
+date: '2003-01-14T23:11:00+00:00'
+favorite: false
+feature_image: ''
+format: markdown
+slug: 01-14-03
+tags: []
+title: '01/14/03'
+---
+
+another fansign! thank you heather!

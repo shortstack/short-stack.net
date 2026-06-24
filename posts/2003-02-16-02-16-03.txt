@@ -1,0 +1,11 @@
+---
+date: '2003-02-16T14:39:00+00:00'
+favorite: false
+feature_image: ''
+format: markdown
+slug: 02-16-03
+tags: []
+title: '02/16/03'
+---
+
+ohh heck yeah… got a poll up :D

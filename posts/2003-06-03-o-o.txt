@@ -1,0 +1,11 @@
+---
+date: '2003-06-03T20:00:00+00:00'
+favorite: false
+feature_image: ''
+format: markdown
+slug: o-o
+tags: []
+title: 'o\_O'
+---
+
+and i have pink hair... lyke OMG!!!

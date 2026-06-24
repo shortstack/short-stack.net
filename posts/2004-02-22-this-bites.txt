@@ -1,0 +1,13 @@
+---
+date: '2004-02-22T23:05:00+00:00'
+favorite: false
+feature_image: ''
+format: markdown
+slug: this-bites
+tags: []
+title: 'this bites'
+---
+
+i accomplished nothing today.
+
+i miss shane. :(

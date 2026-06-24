@@ -1,0 +1,12 @@
+---
+date: '2003-01-15T18:55:00+00:00'
+favorite: false
+feature_image: ''
+format: markdown
+slug: 01-15-03
+tags: []
+title: '01/15/03'
+---
+
+w00t! it’s supposed to snow this week! it’s supposed to start tomorrow night and continue on friday, i think. i haven’t looked at the recent predictions or anything, but that’s what people at school were saying. a 70% chance or something. good stuff. but i hope it doesn’t screw up the LAN party. :(  
+i’m getting ready to go to the Y, so i’ll be back later.

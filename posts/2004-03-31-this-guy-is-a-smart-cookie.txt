@@ -1,0 +1,11 @@
+---
+date: '2004-03-31T22:48:00+00:00'
+favorite: false
+feature_image: ''
+format: markdown
+slug: this-guy-is-a-smart-cookie
+tags: []
+title: 'this guy is a smart cookie'
+---
+
+i got another e-mail from john with this article in it. he always manages to find the best articles online. this one i found particularly helpful, though, especially since i’m about to graduate and all this crap has been on my mind 24/7. it’s a good read.

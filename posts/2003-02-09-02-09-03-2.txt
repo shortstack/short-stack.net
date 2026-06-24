@@ -1,0 +1,16 @@
+---
+date: '2003-02-09T02:36:00+00:00'
+favorite: false
+feature_image: ''
+format: markdown
+slug: 02-09-03-2
+tags: []
+title: '02/09/03'
+---
+
+today was incredibly boring. i woke up at 1:30 (soo nice), and sat around being lazy alll afternoon. my dad & christine came over to get some stuff from the house before we move, and i ended up coming over here (to my dad's house) around 6:45 or so. i haven't been here in a while.  
+i decided to do something constructive with my time so i installed apache, php, and mysql on my dad's computer tonight. and out of that, i made a forum. go me :) i don't care who joins and who doesn't. i'll probably end up installing mysql on my computer at home and then just re-doing the forum on my home server instead of going back and forth from here to there. ugh. so annoying.
+
+doug got me sick after i had already gotten sick and recovered from when ry~ry got me sick. bleh. i feel terrible now. i got sick thursday (i think), and then i was fine on friday, and today i'm just a mess. actually, i didn't start feeling sick until about 2 hours ago... closer to midnight. it sucks. i'm really dizzy and light-headed. i tried laying down, but that didn't do much. =\ oh well.
+
+i'm gonna go.

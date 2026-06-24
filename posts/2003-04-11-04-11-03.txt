@@ -1,0 +1,11 @@
+---
+date: '2003-04-11T19:22:00+00:00'
+favorite: false
+feature_image: ''
+format: markdown
+slug: 04-11-03
+tags: []
+title: '04/11/03'
+---
+
+go visit zach :D

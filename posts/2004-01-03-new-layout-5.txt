@@ -1,0 +1,11 @@
+---
+date: '2004-01-03T19:13:00+00:00'
+favorite: false
+feature_image: ''
+format: markdown
+slug: new-layout-5
+tags: []
+title: 'new layout'
+---
+
+new layout… like it, hate it, i don’t care =D

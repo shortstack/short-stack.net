@@ -1,0 +1,11 @@
+---
+date: '2003-06-02T09:59:00+00:00'
+favorite: false
+feature_image: ''
+format: markdown
+slug: testing-the-news-script
+tags: []
+title: 'testing the news script...'
+---
+
+i hope this thing works =x because the other scripts i've used haven't. grrr...

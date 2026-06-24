@@ -1,0 +1,11 @@
+---
+date: '2003-01-21T00:04:00+00:00'
+favorite: false
+feature_image: ''
+format: markdown
+slug: 01-21-03-2
+tags: []
+title: '01/21/03'
+---
+
+there seems to be some confusion on the Game Of Life.exe. if you don’t understand it, instructions can be found here.

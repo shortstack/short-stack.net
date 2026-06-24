@@ -1,0 +1,12 @@
+---
+date: '2003-05-25T17:46:00+00:00'
+favorite: false
+feature_image: ''
+format: markdown
+slug: 05-25-03
+tags: []
+title: '05/25/03'
+---
+
+sorry for the site being down. my grandpa tried to do a little electrical engineering on our house and blew quite a few fuses and our power went out… so my modem and all that junk reset and it’s been a little weird. so i haven’t had internet until about 10 minutes ago.  
+i’ll post later when i have time. i’m meeting doug for dinner. later.

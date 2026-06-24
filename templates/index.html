@@ -4,7 +4,7 @@
   {% for p in posts %}
   <li class="post-item">
     <a class="post-link" href="{{ p.url }}">{{ p.title }}</a>{% if p.favorite %} <span class="fav" title="favorite">&hearts;</span>{% endif %}
-    <div class="post-meta"><time>{{ p.date.strftime('%Y-%m-%d %H:%M:%S') }}</time>
+    <div class="post-meta"><time>{{ p.date.strftime('%Y-%m-%d %H:%M:%S') }} {{ p.tz_label }}</time>
       {% for t in p.tags %}<a class="tag" href="/tag/{{ t }}/">#{{ t }}</a>{% endfor %}
     </div>
     <p class="post-excerpt">{{ p.excerpt }}</p>

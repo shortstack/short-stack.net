@@ -1,0 +1,12 @@
+---
+date: '2003-01-17T01:43:00+00:00'
+favorite: false
+feature_image: ''
+format: markdown
+slug: 01-17-03-2
+tags: []
+title: '01/17/03'
+---
+
+ohh heck yeah. i just finished the game of life :)  
+Game Of Life 1.0.exe

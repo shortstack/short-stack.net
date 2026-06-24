@@ -1,0 +1,11 @@
+---
+date: '2003-03-27T17:34:00+00:00'
+favorite: false
+feature_image: ''
+format: markdown
+slug: 03-27-03-3
+tags: []
+title: '03/27/03'
+---
+
+wow. i finally found a news script that i like. i just hope this one works.

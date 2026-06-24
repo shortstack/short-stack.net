@@ -1,0 +1,11 @@
+---
+date: '2003-03-07T07:14:00+00:00'
+favorite: false
+feature_image: ''
+format: markdown
+slug: 03-07-03
+tags: []
+title: '03/07/03'
+---
+
+some people make me sick. i’m going to class.

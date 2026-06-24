@@ -1,0 +1,14 @@
+---
+date: '2003-04-07T22:05:00+00:00'
+favorite: false
+feature_image: ''
+format: markdown
+slug: 04-07-03
+tags: []
+title: '04/07/03'
+---
+
+i doubt i'll be posting much lately. i've got a lot on my mind and a lot of tests and papers coming up lately and various other issues that i need to deal with before i worry about maintaining this site. it's only gonna piss me off.  
+go give blake lots and lots of love.
+
+i'll be back sooner or later.

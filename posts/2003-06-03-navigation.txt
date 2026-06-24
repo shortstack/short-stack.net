@@ -1,0 +1,11 @@
+---
+date: '2003-06-03T21:09:00+00:00'
+favorite: false
+feature_image: ''
+format: markdown
+slug: navigation
+tags: []
+title: 'navigation...'
+---
+
+if you're one of those people who hasn't figured out how to navigate the new layout, try using the 5 pink boxes in the section above this ;) duh, you guys... duh.

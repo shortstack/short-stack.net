@@ -1,0 +1,11 @@
+---
+date: '2003-11-25T11:09:00+00:00'
+favorite: false
+feature_image: ''
+format: markdown
+slug: life-is-great
+tags: []
+title: 'life is great'
+---
+
+i don’t think things could get any better. i know who i want to be with

@@ -1,9 +1,16 @@
 from __future__ import annotations
 import datetime as dt
+import zoneinfo
 from dataclasses import dataclass, field
 from pathlib import Path
 
 import frontmatter
+
+# Posts authored on/after this date are written in UTC; everything older was
+# written in the author's local Eastern time (stored as wall-clock with a
+# +00:00 offset), so its displayed time gets a DST-correct EST/EDT label.
+_UTC_CUTOFF = dt.date(2026, 6, 23)
+_EASTERN = zoneinfo.ZoneInfo("America/New_York")
 
 
 @dataclass
@@ -20,6 +27,17 @@ class Post:
     @property
     def year(self) -> int:
         return self.date.year
+
+    @property
+    def tz_label(self) -> str:
+        """Timezone abbreviation to show next to the time.
+
+        UTC for posts on/after the cutoff (and all future posts); DST-correct
+        EST/EDT for older posts, whose stored wall-clock is Eastern local time.
+        """
+        if self.date.date() >= _UTC_CUTOFF:
+            return "UTC"
+        return self.date.replace(tzinfo=_EASTERN).tzname()
 
     @property
     def url(self) -> str:

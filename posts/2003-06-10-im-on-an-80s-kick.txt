@@ -1,0 +1,11 @@
+---
+date: '2003-06-10T13:59:00+00:00'
+favorite: false
+feature_image: ''
+format: markdown
+slug: im-on-an-80s-kick
+tags: []
+title: 'i''m on an 80s kick...'
+---
+
+yeah. i've been listening to billy joel and the fraggle rock theme song allll morning. this is ridiculous. what's happening to me?!

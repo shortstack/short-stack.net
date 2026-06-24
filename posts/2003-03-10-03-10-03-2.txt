@@ -1,0 +1,14 @@
+---
+date: '2003-03-10T15:01:00+00:00'
+favorite: false
+feature_image: ''
+format: markdown
+slug: 03-10-03-2
+tags: []
+title: '03/10/03'
+---
+
+finally, the site goes back up. my registrar wouldn’t forward my domain to a dynamic dns host, so i’m stuck with the IP address deal still, which pisses me off. but it’s better than nothing. just as long as our cable doesn’t cut off again or my mom doesn’t mess with the surge protectors.  
+as of now, there is mint chocolate chip milkshake all over the front porch ;x i wonder how it got there…
+
+i’m gonna go work on homework and crap. i’ve got wayyy too much going on this week.

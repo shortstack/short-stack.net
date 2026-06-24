@@ -1,0 +1,12 @@
+---
+date: '2003-03-04T15:10:00+00:00'
+favorite: false
+feature_image: ''
+format: markdown
+slug: 03-04-03
+tags: []
+title: '03/04/03'
+---
+
+the site is finally back up! damn DNS changes take forever. i signed up for a dynamic DNS host so i’ll be using that later. sweetness :D  
+thank you robry!!!

@@ -1,0 +1,11 @@
+---
+date: '2003-12-26T18:43:00+00:00'
+favorite: false
+feature_image: ''
+format: markdown
+slug: merry-christmas
+tags: []
+title: 'merry christmas'
+---
+
+christmas was awesome! pictures are up in the gallery. enjoy… i’m not going to even attempt to explain any of it. i was at my mom’s for a little while, at my dad’s for a little while, at lake norman for the afternoon, and then partied all night long. i’ll leave it at that. =)

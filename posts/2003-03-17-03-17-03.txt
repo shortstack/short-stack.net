@@ -1,0 +1,11 @@
+---
+date: '2003-03-17T22:21:00+00:00'
+favorite: false
+feature_image: ''
+format: markdown
+slug: 03-17-03
+tags: []
+title: '03/17/03'
+---
+
+sorry for not posting. i most likely won’t be posting much this week. spring break starts at 2:15 tomorrow afternoon and i’m hoping to be home as little as possible. with that said, i’m gonna crash nice and early. nightnight.

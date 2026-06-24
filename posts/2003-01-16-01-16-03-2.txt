@@ -1,0 +1,11 @@
+---
+date: '2003-01-16T07:08:00+00:00'
+favorite: false
+feature_image: ''
+format: markdown
+slug: 01-16-03-2
+tags: []
+title: '01/16/03'
+---
+
+this class is so incredibly boring. save me :( AP matrices… woohoo…

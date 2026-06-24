@@ -1,0 +1,11 @@
+---
+date: '2004-04-18T15:18:00+00:00'
+favorite: false
+feature_image: ''
+format: markdown
+slug: crap-2
+tags: []
+title: 'crap'
+---
+
+this will be another short post. i totally forgot to post the picture of the tulips shane sent me for easter :). they’re gorgeous

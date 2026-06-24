@@ -1,0 +1,11 @@
+---
+date: '2003-05-27T16:58:00+00:00'
+favorite: false
+feature_image: ''
+format: markdown
+slug: 05-27-03-2
+tags: []
+title: '05/27/03'
+---
+
+still waiting for the DNS to update… ugh.

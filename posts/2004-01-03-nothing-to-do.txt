@@ -1,0 +1,11 @@
+---
+date: '2004-01-03T14:41:00+00:00'
+favorite: false
+feature_image: ''
+format: markdown
+slug: nothing-to-do
+tags: []
+title: 'nothing to do'
+---
+
+i hate being lazy. it’s a beautiful day outside, and i’m inside, still in my pajamas. i wanna do something today but i feel and look like shit, so i have no motivation to get up and shower and go somewhere. argh. i think it’s the school feeling setting in again. this bites.

@@ -1,0 +1,11 @@
+---
+date: '2003-03-10T20:20:00+00:00'
+favorite: false
+feature_image: ''
+format: markdown
+slug: 03-10-03
+tags: []
+title: '03/10/03'
+---
+
+i had to get rid of the purple. it was driving me nuts, so this is a temporary POS that i put up in about 10 minutes (i couldn’t think of a good layout so i didn’t even bother making one, hence the brain fart). not everything is changed to the icky black and white yet, but i’ll do it later. dinner calls.

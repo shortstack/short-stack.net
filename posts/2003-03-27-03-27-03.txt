@@ -1,0 +1,11 @@
+---
+date: '2003-03-27T22:45:00+00:00'
+favorite: false
+feature_image: ''
+format: markdown
+slug: 03-27-03
+tags: []
+title: '03/27/03'
+---
+
+screw the posting script. that was pissing me off. i like doing it manually. bleh, i’m going to sleep.

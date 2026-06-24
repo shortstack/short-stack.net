@@ -1,0 +1,13 @@
+---
+date: '2004-04-27T16:08:00+00:00'
+favorite: false
+feature_image: ''
+format: markdown
+slug: oh-dear
+tags: []
+title: 'oh dear'
+---
+
+sorry for the downtime earlier, guys. i’m not sure what was up with the DNS but, it wasn’t forwarding to my IP address. it was strange, ’cause my IP address worked fine for everyone who clicked it. oh well. i’m back now, and hopefully it won’t go down again. :)
+
+i’m off to study for english and finish calculus homework. you know you just wish you could join me.

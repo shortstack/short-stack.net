@@ -1,0 +1,11 @@
+---
+date: '2003-01-25T14:50:00+00:00'
+favorite: false
+feature_image: ''
+format: markdown
+slug: 01-25-03
+tags: []
+title: '01/25/03'
+---
+
+bye bye room :(

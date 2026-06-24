@@ -1,0 +1,13 @@
+---
+date: '2003-06-07T12:41:00+00:00'
+favorite: false
+feature_image: ''
+format: markdown
+slug: gallery
+tags: []
+title: 'gallery'
+---
+
+i forgot to mention that i updated/re-did the gallery. i got sick of the layout (it's been up for nearly a year) so i put a crappy simple one up. there are some updated LAN pics up too.
+
+SATs sucked this morning. i hate standardized testing and i always will... especially in a room full of people i don't like.

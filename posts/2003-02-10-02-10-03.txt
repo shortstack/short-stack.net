@@ -1,0 +1,11 @@
+---
+date: '2003-02-10T17:41:00+00:00'
+favorite: false
+feature_image: ''
+format: markdown
+slug: 02-10-03
+tags: []
+title: '02/10/03'
+---
+
+thank you, sally, for my fansign!!!

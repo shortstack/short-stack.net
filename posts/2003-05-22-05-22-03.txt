@@ -1,0 +1,11 @@
+---
+date: '2003-05-22T17:47:00+00:00'
+favorite: false
+feature_image: ''
+format: markdown
+slug: 05-22-03
+tags: []
+title: '05/22/03'
+---
+
+i think today has been the most boring day of my life. good… lord… at least tomorrow i’ll have plans.
