@@ -45,6 +45,8 @@ waves:               may 7 → jun 14 2026, re-injecting on a timer
 
 `aniyara[.]icu` is part of the same campaign as the published `clo4shara[.]xyz` / `web-telegram[.]ug` indicators — the injected js is a two-stage loader that pulls its payload at runtime, so the domains rotate. campaign hit 700+ sites: universities, fintech, ai, security research. so that's fun.
 
+article: [https://thehackernews.com/2026/05/ghost-cms-cve-2026-26980-exploited-to.html?m=1](https://thehackernews.com/2026/05/ghost-cms-cve-2026-26980-exploited-to.html?m=1)
+
 ### how i found it
 
 snapshotted the box, pulled `content/logs`, `auth.log`, nginx, syslog. ssh was clean (just me and the usual brute-force confetti). the smoking gun was the ghost request logs: thousands of authenticated admin-api writes with no corresponding login, `userId: null`, all from one python-requests client. authenticated, but nobody ever logged in = stolen key, not stolen password. the audit log's "Zapier" attribution + an integration i never created sealed it.
