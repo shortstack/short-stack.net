@@ -1,0 +1,16 @@
+---
+date: '2026-06-24T15:31:42+00:00'
+favorite: false
+feature_image: ''
+format: markdown
+slug: pwned
+tags:
+- blog
+- security
+- CVE-2026-26980
+title: pwned
+---
+
+so. as i mentioned. the blog you're reading is a static site now, and there's a reason for that.
+
+a few weeks back my ghost install started serving a clickfix lure. one of those fake "verify you're human, paste this into your terminal" things. because that's what i needed.
