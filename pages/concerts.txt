@@ -914,5 +914,12 @@ title: concerts
 <td><span style="display:none;">eric, josh, courtney, danielle</span></td>
 <td><span style="white-space: nowrap;">06/16/2026</span></td>
 </tr>
+<tr>
+<td><span style="white-space: nowrap;">129</span></td>
+<td>zed's dead, daily bread</td>
+<td>austin, TX</td>
+<td><span style="display:none;">eric</span></td>
+<td><span style="white-space: nowrap;">09/11/2026</span></td>
+</tr>
 </tbody>
 </table>
